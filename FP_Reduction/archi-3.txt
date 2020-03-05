@@ -1,0 +1,147 @@
+Epoch: 0
+accuracy  is 0.812500
+loss is 54.566
+Epoch: 10
+accuracy  is 0.812500
+loss is 56.1519
+Epoch: 20
+accuracy  is 0.812500
+loss is 54.7487
+Epoch: 30
+accuracy  is 0.812500
+loss is 54.7636
+Epoch: 40
+accuracy  is 0.812500
+loss is 54.1769
+Epoch: 50
+accuracy  is 0.812500
+loss is 54.2433
+Epoch: 60
+accuracy  is 0.812500
+loss is 54.1933
+Epoch: 70
+accuracy  is 0.812500
+loss is 53.6493
+Epoch: 80
+accuracy  is 0.812500
+loss is 52.7407
+Epoch: 90
+accuracy  is 0.812500
+loss is 50.189
+Epoch: 100
+accuracy  is 0.830357
+loss is 48.4302
+Epoch: 110
+accuracy  is 0.821429
+loss is 39.1949
+Epoch: 120
+accuracy  is 0.848214
+loss is 39.0655
+Epoch: 130
+accuracy  is 0.830357
+loss is 40.7129
+Epoch: 140
+accuracy  is 0.785714
+loss is 46.2894
+Epoch: 150
+accuracy  is 0.794643
+loss is 47.6562
+Epoch: 160
+accuracy  is 0.758929
+loss is 54.6492
+Epoch: 170
+accuracy  is 0.767857
+loss is 62.3353
+Epoch: 180
+accuracy  is 0.785714
+loss is 70.165
+Epoch: 190
+accuracy  is 0.794643
+loss is 80.8145
+Epoch: 200
+accuracy  is 0.767857
+loss is 90.7769
+Epoch: 210
+accuracy  is 0.794643
+loss is 91.5562
+Epoch: 220
+accuracy  is 0.776786
+loss is 104.012
+Epoch: 230
+accuracy  is 0.758929
+loss is 118.095
+Epoch: 240
+accuracy  is 0.767857
+loss is 128.298
+Epoch: 250
+accuracy  is 0.741071
+loss is 165.964
+Epoch: 260
+accuracy  is 0.767857
+loss is 144.784
+Epoch: 270
+accuracy  is 0.803571
+loss is 120.797
+Epoch: 280
+accuracy  is 0.741071
+loss is 163.656
+Epoch: 290
+accuracy  is 0.767857
+loss is 152.903
+Epoch: 300
+accuracy  is 0.750000
+loss is 171.529
+Epoch: 310
+accuracy  is 0.758929
+loss is 191.672
+Epoch: 320
+accuracy  is 0.776786
+loss is 173.518
+Epoch: 330
+accuracy  is 0.741071
+loss is 209.208
+Epoch: 340
+accuracy  is 0.750000
+loss is 203.661
+Epoch: 350
+accuracy  is 0.750000
+loss is 181.32
+Epoch: 360
+accuracy  is 0.785714
+loss is 197.598
+Epoch: 370
+accuracy  is 0.767857
+loss is 224.838
+Epoch: 380
+accuracy  is 0.758929
+loss is 206.715
+Epoch: 390
+accuracy  is 0.776786
+loss is 201.337
+Epoch: 400
+accuracy  is 0.758929
+loss is 190.112
+Epoch: 410
+accuracy  is 0.767857
+loss is 199.182
+Epoch: 420
+accuracy  is 0.750000
+loss is 195.878
+Epoch: 430
+accuracy  is 0.758929
+loss is 202.847
+Epoch: 440
+accuracy  is 0.750000
+loss is 200.537
+Epoch: 450
+accuracy  is 0.750000
+loss is 224.904
+Epoch: 460
+accuracy  is 0.758929
+loss is 216.838
+Epoch: 470
+accuracy  is 0.794643
+loss is 201.822
+Epoch: 0
+accuracy  is 0.803571
+loss is 56.4174

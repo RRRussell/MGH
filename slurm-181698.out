@@ -1,0 +1,4051 @@
+80_20_hard
+./results/80_20_hard/840.ckpt
+using gpu 0,1,2,3
+Epoch 840 (lr 0.01000)
+Train: loss 0.1465, classify loss 0.1293, regress loss 0.0025, 0.0027, 0.0027, 0.0093
+
+Epoch 841 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1188, regress loss 0.0024, 0.0028, 0.0028, 0.0087
+
+Epoch 842 (lr 0.01000)
+Train: loss 0.1633, classify loss 0.1462, regress loss 0.0028, 0.0026, 0.0026, 0.0091
+
+Epoch 843 (lr 0.01000)
+Train: loss 0.2188, classify loss 0.1968, regress loss 0.0028, 0.0029, 0.0028, 0.0135
+
+Epoch 844 (lr 0.01000)
+Train: loss 0.1918, classify loss 0.1737, regress loss 0.0027, 0.0028, 0.0027, 0.0099
+
+Epoch 845 (lr 0.01000)
+Train: loss 0.1593, classify loss 0.1413, regress loss 0.0026, 0.0027, 0.0027, 0.0100
+
+Epoch 846 (lr 0.01000)
+Train: loss 0.1457, classify loss 0.1282, regress loss 0.0027, 0.0028, 0.0027, 0.0093
+
+Epoch 847 (lr 0.01000)
+Train: loss 0.1517, classify loss 0.1342, regress loss 0.0026, 0.0026, 0.0027, 0.0096
+
+Epoch 848 (lr 0.01000)
+Train: loss 0.1602, classify loss 0.1414, regress loss 0.0026, 0.0025, 0.0026, 0.0109
+
+Epoch 849 (lr 0.01000)
+Train: loss 0.1570, classify loss 0.1385, regress loss 0.0025, 0.0028, 0.0027, 0.0103
+
+Epoch 850 (lr 0.01000)
+Train: loss 0.1479, classify loss 0.1303, regress loss 0.0026, 0.0028, 0.0029, 0.0093
+
+Epoch 851 (lr 0.01000)
+Train: loss 0.1620, classify loss 0.1437, regress loss 0.0026, 0.0030, 0.0028, 0.0099
+
+Epoch 852 (lr 0.01000)
+Train: loss 0.1493, classify loss 0.1305, regress loss 0.0026, 0.0027, 0.0026, 0.0109
+
+Epoch 853 (lr 0.01000)
+Train: loss 0.1570, classify loss 0.1382, regress loss 0.0026, 0.0027, 0.0027, 0.0108
+
+Epoch 854 (lr 0.01000)
+Train: loss 0.1472, classify loss 0.1290, regress loss 0.0026, 0.0026, 0.0028, 0.0102
+
+Epoch 855 (lr 0.01000)
+Train: loss 0.1477, classify loss 0.1296, regress loss 0.0025, 0.0026, 0.0024, 0.0106
+
+Epoch 856 (lr 0.01000)
+Train: loss 0.1598, classify loss 0.1412, regress loss 0.0027, 0.0024, 0.0026, 0.0109
+
+Epoch 857 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1174, regress loss 0.0026, 0.0027, 0.0025, 0.0093
+
+Epoch 858 (lr 0.01000)
+Train: loss 0.1549, classify loss 0.1377, regress loss 0.0026, 0.0028, 0.0027, 0.0093
+
+Epoch 859 (lr 0.01000)
+Train: loss 0.1641, classify loss 0.1470, regress loss 0.0026, 0.0025, 0.0026, 0.0094
+
+Epoch 860 (lr 0.01000)
+Train: loss 0.1490, classify loss 0.1326, regress loss 0.0027, 0.0028, 0.0026, 0.0083
+
+Epoch 861 (lr 0.01000)
+Train: loss 0.1573, classify loss 0.1386, regress loss 0.0026, 0.0027, 0.0026, 0.0108
+
+Epoch 862 (lr 0.01000)
+Train: loss 0.1632, classify loss 0.1451, regress loss 0.0025, 0.0027, 0.0025, 0.0105
+
+Epoch 863 (lr 0.01000)
+Train: loss 0.1613, classify loss 0.1434, regress loss 0.0026, 0.0027, 0.0026, 0.0099
+
+Epoch 864 (lr 0.01000)
+Train: loss 0.1447, classify loss 0.1272, regress loss 0.0024, 0.0025, 0.0026, 0.0099
+
+Epoch 865 (lr 0.01000)
+Train: loss 0.1533, classify loss 0.1353, regress loss 0.0025, 0.0025, 0.0029, 0.0102
+
+Epoch 866 (lr 0.01000)
+Train: loss 0.1376, classify loss 0.1200, regress loss 0.0025, 0.0028, 0.0025, 0.0098
+
+Epoch 867 (lr 0.01000)
+Train: loss 0.1656, classify loss 0.1480, regress loss 0.0026, 0.0026, 0.0025, 0.0099
+
+Epoch 868 (lr 0.01000)
+Train: loss 0.1521, classify loss 0.1353, regress loss 0.0023, 0.0025, 0.0025, 0.0094
+
+Epoch 869 (lr 0.01000)
+Train: loss 0.1426, classify loss 0.1260, regress loss 0.0023, 0.0027, 0.0026, 0.0090
+
+Epoch 870 (lr 0.01000)
+Train: loss 0.1357, classify loss 0.1179, regress loss 0.0025, 0.0028, 0.0026, 0.0100
+
+Epoch 871 (lr 0.01000)
+Train: loss 0.1507, classify loss 0.1338, regress loss 0.0026, 0.0029, 0.0024, 0.0090
+
+Epoch 872 (lr 0.01000)
+Train: loss 0.1563, classify loss 0.1383, regress loss 0.0029, 0.0030, 0.0027, 0.0095
+
+Epoch 873 (lr 0.01000)
+Train: loss 0.1478, classify loss 0.1301, regress loss 0.0025, 0.0028, 0.0027, 0.0097
+
+Epoch 874 (lr 0.01000)
+Train: loss 0.1468, classify loss 0.1288, regress loss 0.0028, 0.0028, 0.0024, 0.0101
+
+Epoch 875 (lr 0.01000)
+Train: loss 0.1468, classify loss 0.1301, regress loss 0.0027, 0.0024, 0.0024, 0.0091
+
+Epoch 876 (lr 0.01000)
+Train: loss 0.1520, classify loss 0.1352, regress loss 0.0027, 0.0026, 0.0026, 0.0089
+
+Epoch 877 (lr 0.01000)
+Train: loss 0.1508, classify loss 0.1345, regress loss 0.0026, 0.0026, 0.0022, 0.0089
+
+Epoch 878 (lr 0.01000)
+Train: loss 0.1550, classify loss 0.1380, regress loss 0.0025, 0.0027, 0.0025, 0.0094
+
+Epoch 879 (lr 0.01000)
+Train: loss 0.1555, classify loss 0.1385, regress loss 0.0026, 0.0025, 0.0025, 0.0093
+
+Epoch 880 (lr 0.01000)
+Train: loss 0.1414, classify loss 0.1247, regress loss 0.0026, 0.0026, 0.0024, 0.0091
+
+Epoch 881 (lr 0.01000)
+Train: loss 0.1491, classify loss 0.1321, regress loss 0.0024, 0.0027, 0.0026, 0.0093
+
+Epoch 882 (lr 0.01000)
+Train: loss 0.1391, classify loss 0.1229, regress loss 0.0026, 0.0024, 0.0023, 0.0089
+
+Epoch 883 (lr 0.01000)
+Train: loss 0.1353, classify loss 0.1182, regress loss 0.0025, 0.0027, 0.0026, 0.0093
+
+Epoch 884 (lr 0.01000)
+Train: loss 0.1384, classify loss 0.1214, regress loss 0.0027, 0.0026, 0.0026, 0.0092
+
+Epoch 885 (lr 0.01000)
+Train: loss 0.1572, classify loss 0.1402, regress loss 0.0025, 0.0026, 0.0026, 0.0093
+
+Epoch 886 (lr 0.01000)
+Train: loss 0.1568, classify loss 0.1392, regress loss 0.0027, 0.0029, 0.0024, 0.0096
+
+Epoch 887 (lr 0.01000)
+Train: loss 0.1514, classify loss 0.1346, regress loss 0.0025, 0.0026, 0.0025, 0.0092
+
+Epoch 888 (lr 0.01000)
+Train: loss 0.1498, classify loss 0.1327, regress loss 0.0026, 0.0025, 0.0024, 0.0095
+
+Epoch 889 (lr 0.01000)
+Train: loss 0.1468, classify loss 0.1305, regress loss 0.0026, 0.0027, 0.0026, 0.0084
+
+Epoch 890 (lr 0.01000)
+Train: loss 0.1502, classify loss 0.1340, regress loss 0.0024, 0.0029, 0.0024, 0.0086
+
+Epoch 891 (lr 0.01000)
+Train: loss 0.1447, classify loss 0.1269, regress loss 0.0026, 0.0027, 0.0027, 0.0098
+
+Epoch 892 (lr 0.01000)
+Train: loss 0.1480, classify loss 0.1290, regress loss 0.0025, 0.0025, 0.0027, 0.0113
+
+Epoch 893 (lr 0.01000)
+Train: loss 0.1438, classify loss 0.1271, regress loss 0.0024, 0.0025, 0.0025, 0.0093
+
+Epoch 894 (lr 0.01000)
+Train: loss 0.1738, classify loss 0.1532, regress loss 0.0026, 0.0030, 0.0024, 0.0126
+
+Epoch 895 (lr 0.01000)
+Train: loss 0.1589, classify loss 0.1402, regress loss 0.0024, 0.0030, 0.0025, 0.0108
+
+Epoch 896 (lr 0.01000)
+Train: loss 0.1663, classify loss 0.1485, regress loss 0.0025, 0.0028, 0.0025, 0.0100
+
+Epoch 897 (lr 0.01000)
+Train: loss 0.1586, classify loss 0.1411, regress loss 0.0028, 0.0027, 0.0025, 0.0095
+
+Epoch 898 (lr 0.01000)
+Train: loss 0.1536, classify loss 0.1361, regress loss 0.0027, 0.0027, 0.0026, 0.0094
+
+Epoch 899 (lr 0.01000)
+Train: loss 0.1415, classify loss 0.1245, regress loss 0.0025, 0.0025, 0.0024, 0.0096
+
+Epoch 900 (lr 0.01000)
+Train: loss 0.1504, classify loss 0.1327, regress loss 0.0025, 0.0025, 0.0025, 0.0101
+
+Epoch 901 (lr 0.01000)
+Train: loss 0.1615, classify loss 0.1433, regress loss 0.0028, 0.0025, 0.0026, 0.0102
+
+Epoch 902 (lr 0.01000)
+Train: loss 0.1508, classify loss 0.1322, regress loss 0.0029, 0.0030, 0.0024, 0.0104
+
+Epoch 903 (lr 0.01000)
+Train: loss 0.1376, classify loss 0.1206, regress loss 0.0024, 0.0026, 0.0027, 0.0094
+
+Epoch 904 (lr 0.01000)
+Train: loss 0.1512, classify loss 0.1330, regress loss 0.0027, 0.0027, 0.0026, 0.0102
+
+Epoch 905 (lr 0.01000)
+Train: loss 0.1446, classify loss 0.1291, regress loss 0.0025, 0.0022, 0.0026, 0.0082
+
+Epoch 906 (lr 0.01000)
+Train: loss 0.1644, classify loss 0.1465, regress loss 0.0026, 0.0028, 0.0029, 0.0095
+
+Epoch 907 (lr 0.01000)
+Train: loss 0.1497, classify loss 0.1326, regress loss 0.0026, 0.0027, 0.0025, 0.0094
+
+Epoch 908 (lr 0.01000)
+Train: loss 0.1398, classify loss 0.1219, regress loss 0.0029, 0.0028, 0.0026, 0.0097
+
+Epoch 909 (lr 0.01000)
+Train: loss 0.1559, classify loss 0.1384, regress loss 0.0026, 0.0026, 0.0026, 0.0098
+
+Epoch 910 (lr 0.01000)
+Train: loss 0.1628, classify loss 0.1466, regress loss 0.0025, 0.0027, 0.0024, 0.0086
+
+Epoch 911 (lr 0.01000)
+Train: loss 0.1477, classify loss 0.1292, regress loss 0.0026, 0.0026, 0.0025, 0.0108
+
+Epoch 912 (lr 0.01000)
+Train: loss 0.1497, classify loss 0.1318, regress loss 0.0027, 0.0027, 0.0025, 0.0100
+
+Epoch 913 (lr 0.01000)
+Train: loss 0.1513, classify loss 0.1342, regress loss 0.0026, 0.0028, 0.0028, 0.0089
+
+Epoch 914 (lr 0.01000)
+Train: loss 0.1524, classify loss 0.1344, regress loss 0.0026, 0.0028, 0.0025, 0.0101
+
+Epoch 915 (lr 0.01000)
+Train: loss 0.1515, classify loss 0.1339, regress loss 0.0025, 0.0027, 0.0026, 0.0099
+
+Epoch 916 (lr 0.01000)
+Train: loss 0.1514, classify loss 0.1330, regress loss 0.0026, 0.0028, 0.0026, 0.0104
+
+Epoch 917 (lr 0.01000)
+Train: loss 0.1661, classify loss 0.1456, regress loss 0.0027, 0.0027, 0.0027, 0.0126
+
+Epoch 918 (lr 0.01000)
+Train: loss 0.1433, classify loss 0.1248, regress loss 0.0028, 0.0030, 0.0026, 0.0101
+
+Epoch 919 (lr 0.01000)
+Train: loss 0.1554, classify loss 0.1383, regress loss 0.0027, 0.0028, 0.0023, 0.0094
+
+Epoch 920 (lr 0.01000)
+Train: loss 0.1403, classify loss 0.1229, regress loss 0.0028, 0.0026, 0.0025, 0.0095
+
+Epoch 921 (lr 0.01000)
+Train: loss 0.1366, classify loss 0.1192, regress loss 0.0024, 0.0028, 0.0024, 0.0097
+
+Epoch 922 (lr 0.01000)
+Train: loss 0.1443, classify loss 0.1269, regress loss 0.0025, 0.0028, 0.0026, 0.0097
+
+Epoch 923 (lr 0.01000)
+Train: loss 0.1445, classify loss 0.1272, regress loss 0.0026, 0.0028, 0.0026, 0.0092
+
+Epoch 924 (lr 0.01000)
+Train: loss 0.1490, classify loss 0.1317, regress loss 0.0024, 0.0027, 0.0026, 0.0097
+
+Epoch 925 (lr 0.01000)
+Train: loss 0.1464, classify loss 0.1283, regress loss 0.0026, 0.0030, 0.0025, 0.0100
+
+Epoch 926 (lr 0.01000)
+Train: loss 0.1540, classify loss 0.1362, regress loss 0.0027, 0.0027, 0.0027, 0.0097
+
+Epoch 927 (lr 0.01000)
+Train: loss 0.1311, classify loss 0.1140, regress loss 0.0027, 0.0028, 0.0024, 0.0093
+
+Epoch 928 (lr 0.01000)
+Train: loss 0.1545, classify loss 0.1371, regress loss 0.0026, 0.0029, 0.0024, 0.0094
+
+Epoch 929 (lr 0.01000)
+Train: loss 0.1474, classify loss 0.1301, regress loss 0.0028, 0.0026, 0.0026, 0.0094
+
+Epoch 930 (lr 0.01000)
+Train: loss 0.1500, classify loss 0.1334, regress loss 0.0024, 0.0026, 0.0023, 0.0093
+
+Epoch 931 (lr 0.01000)
+Train: loss 0.1482, classify loss 0.1312, regress loss 0.0026, 0.0027, 0.0024, 0.0092
+
+Epoch 932 (lr 0.01000)
+Train: loss 0.1572, classify loss 0.1384, regress loss 0.0028, 0.0026, 0.0027, 0.0107
+
+Epoch 933 (lr 0.01000)
+Train: loss 0.1545, classify loss 0.1365, regress loss 0.0026, 0.0024, 0.0027, 0.0103
+
+Epoch 934 (lr 0.01000)
+Train: loss 0.1482, classify loss 0.1303, regress loss 0.0027, 0.0028, 0.0024, 0.0101
+
+Epoch 935 (lr 0.01000)
+Train: loss 0.1549, classify loss 0.1368, regress loss 0.0026, 0.0032, 0.0025, 0.0098
+
+Epoch 936 (lr 0.01000)
+Train: loss 0.1380, classify loss 0.1215, regress loss 0.0025, 0.0026, 0.0022, 0.0092
+
+Epoch 937 (lr 0.01000)
+Train: loss 0.1320, classify loss 0.1148, regress loss 0.0024, 0.0028, 0.0024, 0.0096
+
+Epoch 938 (lr 0.01000)
+Train: loss 0.1424, classify loss 0.1248, regress loss 0.0025, 0.0029, 0.0026, 0.0096
+
+Epoch 939 (lr 0.01000)
+Train: loss 0.1734, classify loss 0.1533, regress loss 0.0026, 0.0027, 0.0027, 0.0121
+
+Epoch 940 (lr 0.01000)
+Train: loss 0.1591, classify loss 0.1424, regress loss 0.0026, 0.0026, 0.0025, 0.0089
+
+Epoch 941 (lr 0.01000)
+Train: loss 0.1574, classify loss 0.1403, regress loss 0.0027, 0.0028, 0.0025, 0.0091
+
+Epoch 942 (lr 0.01000)
+Train: loss 0.1494, classify loss 0.1314, regress loss 0.0026, 0.0027, 0.0026, 0.0102
+
+Epoch 943 (lr 0.01000)
+Train: loss 0.1573, classify loss 0.1398, regress loss 0.0027, 0.0027, 0.0024, 0.0098
+
+Epoch 944 (lr 0.01000)
+Train: loss 0.1457, classify loss 0.1288, regress loss 0.0026, 0.0026, 0.0023, 0.0093
+
+Epoch 945 (lr 0.01000)
+Train: loss 0.1512, classify loss 0.1335, regress loss 0.0027, 0.0025, 0.0027, 0.0098
+
+Epoch 946 (lr 0.01000)
+Train: loss 0.1496, classify loss 0.1330, regress loss 0.0024, 0.0026, 0.0026, 0.0090
+
+Epoch 947 (lr 0.01000)
+Train: loss 0.1460, classify loss 0.1276, regress loss 0.0025, 0.0027, 0.0027, 0.0105
+
+Epoch 948 (lr 0.01000)
+Train: loss 0.1397, classify loss 0.1221, regress loss 0.0027, 0.0025, 0.0025, 0.0099
+
+Epoch 949 (lr 0.01000)
+Train: loss 0.1409, classify loss 0.1237, regress loss 0.0026, 0.0027, 0.0027, 0.0092
+
+Epoch 950 (lr 0.01000)
+Train: loss 0.1363, classify loss 0.1199, regress loss 0.0026, 0.0026, 0.0021, 0.0091
+
+Epoch 951 (lr 0.01000)
+Train: loss 0.1437, classify loss 0.1266, regress loss 0.0026, 0.0027, 0.0023, 0.0095
+
+Epoch 952 (lr 0.01000)
+Train: loss 0.1511, classify loss 0.1336, regress loss 0.0026, 0.0028, 0.0028, 0.0094
+
+Epoch 953 (lr 0.01000)
+Train: loss 0.1364, classify loss 0.1201, regress loss 0.0025, 0.0026, 0.0024, 0.0088
+
+Epoch 954 (lr 0.01000)
+Train: loss 0.1405, classify loss 0.1224, regress loss 0.0025, 0.0027, 0.0025, 0.0104
+
+Epoch 955 (lr 0.01000)
+Train: loss 0.1732, classify loss 0.1560, regress loss 0.0026, 0.0027, 0.0024, 0.0095
+
+Epoch 956 (lr 0.01000)
+Train: loss 0.1630, classify loss 0.1447, regress loss 0.0029, 0.0030, 0.0025, 0.0099
+
+Epoch 957 (lr 0.01000)
+Train: loss 0.1441, classify loss 0.1274, regress loss 0.0025, 0.0026, 0.0024, 0.0092
+
+Epoch 958 (lr 0.01000)
+Train: loss 0.1435, classify loss 0.1270, regress loss 0.0025, 0.0026, 0.0027, 0.0086
+
+Epoch 959 (lr 0.01000)
+Train: loss 0.1371, classify loss 0.1203, regress loss 0.0023, 0.0027, 0.0025, 0.0092
+
+Epoch 960 (lr 0.01000)
+Train: loss 0.1762, classify loss 0.1569, regress loss 0.0029, 0.0027, 0.0026, 0.0112
+
+Epoch 961 (lr 0.01000)
+Train: loss 0.1411, classify loss 0.1233, regress loss 0.0028, 0.0029, 0.0026, 0.0094
+
+Epoch 962 (lr 0.01000)
+Train: loss 0.1335, classify loss 0.1171, regress loss 0.0025, 0.0028, 0.0024, 0.0087
+
+Epoch 963 (lr 0.01000)
+Train: loss 0.1246, classify loss 0.1074, regress loss 0.0027, 0.0028, 0.0025, 0.0092
+
+Epoch 964 (lr 0.01000)
+Train: loss 0.1453, classify loss 0.1279, regress loss 0.0026, 0.0027, 0.0026, 0.0095
+
+Epoch 965 (lr 0.01000)
+Train: loss 0.1283, classify loss 0.1115, regress loss 0.0026, 0.0025, 0.0023, 0.0094
+
+Epoch 966 (lr 0.01000)
+Train: loss 0.1419, classify loss 0.1250, regress loss 0.0025, 0.0028, 0.0024, 0.0092
+
+Epoch 967 (lr 0.01000)
+Train: loss 0.1487, classify loss 0.1312, regress loss 0.0026, 0.0028, 0.0025, 0.0097
+
+Epoch 968 (lr 0.01000)
+Train: loss 0.1485, classify loss 0.1312, regress loss 0.0024, 0.0025, 0.0025, 0.0099
+
+Epoch 969 (lr 0.01000)
+Train: loss 0.1320, classify loss 0.1161, regress loss 0.0026, 0.0027, 0.0024, 0.0081
+
+Epoch 970 (lr 0.01000)
+Train: loss 0.1453, classify loss 0.1288, regress loss 0.0025, 0.0025, 0.0025, 0.0089
+
+Epoch 971 (lr 0.01000)
+Train: loss 0.1424, classify loss 0.1252, regress loss 0.0026, 0.0026, 0.0025, 0.0094
+
+Epoch 972 (lr 0.01000)
+Train: loss 0.1418, classify loss 0.1250, regress loss 0.0023, 0.0024, 0.0026, 0.0095
+
+Epoch 973 (lr 0.01000)
+Train: loss 0.1506, classify loss 0.1331, regress loss 0.0026, 0.0025, 0.0024, 0.0100
+
+Epoch 974 (lr 0.01000)
+Train: loss 0.1583, classify loss 0.1384, regress loss 0.0027, 0.0026, 0.0026, 0.0120
+
+Epoch 975 (lr 0.01000)
+Train: loss 0.1527, classify loss 0.1358, regress loss 0.0025, 0.0026, 0.0023, 0.0094
+
+Epoch 976 (lr 0.01000)
+Train: loss 0.1555, classify loss 0.1375, regress loss 0.0026, 0.0027, 0.0027, 0.0100
+
+Epoch 977 (lr 0.01000)
+Train: loss 0.1797, classify loss 0.1601, regress loss 0.0029, 0.0028, 0.0026, 0.0114
+
+Epoch 978 (lr 0.01000)
+Train: loss 0.1625, classify loss 0.1432, regress loss 0.0031, 0.0029, 0.0028, 0.0105
+
+Epoch 979 (lr 0.01000)
+Train: loss 0.1620, classify loss 0.1423, regress loss 0.0026, 0.0030, 0.0028, 0.0113
+
+Epoch 980 (lr 0.01000)
+Train: loss 0.1580, classify loss 0.1401, regress loss 0.0027, 0.0028, 0.0027, 0.0097
+
+Epoch 981 (lr 0.01000)
+Train: loss 0.1339, classify loss 0.1172, regress loss 0.0024, 0.0026, 0.0025, 0.0092
+
+Epoch 982 (lr 0.01000)
+Train: loss 0.1524, classify loss 0.1346, regress loss 0.0025, 0.0029, 0.0027, 0.0097
+
+Epoch 983 (lr 0.01000)
+Train: loss 0.1478, classify loss 0.1308, regress loss 0.0025, 0.0029, 0.0024, 0.0092
+
+Epoch 984 (lr 0.01000)
+Train: loss 0.1438, classify loss 0.1273, regress loss 0.0026, 0.0026, 0.0024, 0.0089
+
+Epoch 985 (lr 0.01000)
+Train: loss 0.1450, classify loss 0.1277, regress loss 0.0026, 0.0026, 0.0024, 0.0097
+
+Epoch 986 (lr 0.01000)
+Train: loss 0.1397, classify loss 0.1226, regress loss 0.0025, 0.0026, 0.0026, 0.0094
+
+Epoch 987 (lr 0.01000)
+Train: loss 0.1329, classify loss 0.1172, regress loss 0.0024, 0.0025, 0.0025, 0.0083
+
+Epoch 988 (lr 0.01000)
+Train: loss 0.1474, classify loss 0.1291, regress loss 0.0026, 0.0028, 0.0027, 0.0102
+
+Epoch 989 (lr 0.01000)
+Train: loss 0.1436, classify loss 0.1246, regress loss 0.0026, 0.0024, 0.0027, 0.0112
+
+Epoch 990 (lr 0.01000)
+Train: loss 0.1437, classify loss 0.1252, regress loss 0.0027, 0.0029, 0.0027, 0.0103
+
+Epoch 991 (lr 0.01000)
+Train: loss 0.1851, classify loss 0.1666, regress loss 0.0025, 0.0028, 0.0025, 0.0107
+
+Epoch 992 (lr 0.01000)
+Train: loss 0.2416, classify loss 0.2198, regress loss 0.0030, 0.0028, 0.0028, 0.0131
+
+Epoch 993 (lr 0.01000)
+Train: loss 0.1598, classify loss 0.1410, regress loss 0.0027, 0.0030, 0.0024, 0.0108
+
+Epoch 994 (lr 0.01000)
+Train: loss 0.1387, classify loss 0.1210, regress loss 0.0022, 0.0030, 0.0025, 0.0099
+
+Epoch 995 (lr 0.01000)
+Train: loss 0.1594, classify loss 0.1418, regress loss 0.0025, 0.0027, 0.0027, 0.0097
+
+Epoch 996 (lr 0.01000)
+Train: loss 0.1518, classify loss 0.1339, regress loss 0.0025, 0.0027, 0.0026, 0.0100
+
+Epoch 997 (lr 0.01000)
+Train: loss 0.1469, classify loss 0.1283, regress loss 0.0024, 0.0028, 0.0027, 0.0107
+
+Epoch 998 (lr 0.01000)
+Train: loss 0.1555, classify loss 0.1376, regress loss 0.0028, 0.0028, 0.0026, 0.0097
+
+Epoch 999 (lr 0.01000)
+Train: loss 0.1604, classify loss 0.1434, regress loss 0.0025, 0.0025, 0.0026, 0.0094
+
+Epoch 1000 (lr 0.01000)
+Train: loss 0.1407, classify loss 0.1249, regress loss 0.0024, 0.0024, 0.0025, 0.0085
+
+Epoch 1001 (lr 0.01000)
+Train: loss 0.1376, classify loss 0.1208, regress loss 0.0022, 0.0027, 0.0027, 0.0091
+
+Epoch 1002 (lr 0.01000)
+Train: loss 0.1499, classify loss 0.1329, regress loss 0.0025, 0.0026, 0.0025, 0.0094
+
+Epoch 1003 (lr 0.01000)
+Train: loss 0.1542, classify loss 0.1364, regress loss 0.0026, 0.0028, 0.0025, 0.0098
+
+Epoch 1004 (lr 0.01000)
+Train: loss 0.1716, classify loss 0.1536, regress loss 0.0027, 0.0025, 0.0026, 0.0102
+
+Epoch 1005 (lr 0.01000)
+Train: loss 0.1388, classify loss 0.1217, regress loss 0.0026, 0.0030, 0.0026, 0.0090
+
+Epoch 1006 (lr 0.01000)
+Train: loss 0.1544, classify loss 0.1371, regress loss 0.0027, 0.0028, 0.0027, 0.0092
+
+Epoch 1007 (lr 0.01000)
+Train: loss 0.1363, classify loss 0.1192, regress loss 0.0025, 0.0026, 0.0026, 0.0095
+
+Epoch 1008 (lr 0.01000)
+Train: loss 0.1322, classify loss 0.1150, regress loss 0.0025, 0.0025, 0.0024, 0.0098
+
+Epoch 1009 (lr 0.01000)
+Train: loss 0.1464, classify loss 0.1294, regress loss 0.0025, 0.0025, 0.0025, 0.0095
+
+Epoch 1010 (lr 0.01000)
+Train: loss 0.1566, classify loss 0.1394, regress loss 0.0028, 0.0029, 0.0023, 0.0092
+
+Epoch 1011 (lr 0.01000)
+Train: loss 0.1801, classify loss 0.1615, regress loss 0.0026, 0.0028, 0.0026, 0.0106
+
+Epoch 1012 (lr 0.01000)
+Train: loss 0.1419, classify loss 0.1243, regress loss 0.0026, 0.0025, 0.0025, 0.0100
+
+Epoch 1013 (lr 0.01000)
+Train: loss 0.1596, classify loss 0.1416, regress loss 0.0026, 0.0027, 0.0028, 0.0099
+
+Epoch 1014 (lr 0.01000)
+Train: loss 0.1464, classify loss 0.1286, regress loss 0.0027, 0.0027, 0.0022, 0.0103
+
+Epoch 1015 (lr 0.01000)
+Train: loss 0.1469, classify loss 0.1298, regress loss 0.0026, 0.0027, 0.0025, 0.0094
+
+Epoch 1016 (lr 0.01000)
+Train: loss 0.1257, classify loss 0.1080, regress loss 0.0025, 0.0027, 0.0024, 0.0102
+
+Epoch 1017 (lr 0.01000)
+Train: loss 0.1567, classify loss 0.1392, regress loss 0.0026, 0.0028, 0.0027, 0.0094
+
+Epoch 1018 (lr 0.01000)
+Train: loss 0.1472, classify loss 0.1287, regress loss 0.0027, 0.0030, 0.0026, 0.0102
+
+Epoch 1019 (lr 0.01000)
+Train: loss 0.1571, classify loss 0.1388, regress loss 0.0027, 0.0025, 0.0027, 0.0104
+
+Epoch 1020 (lr 0.01000)
+Train: loss 0.1497, classify loss 0.1314, regress loss 0.0027, 0.0025, 0.0026, 0.0106
+
+Epoch 1021 (lr 0.01000)
+Train: loss 0.1430, classify loss 0.1253, regress loss 0.0025, 0.0025, 0.0025, 0.0101
+
+Epoch 1022 (lr 0.01000)
+Train: loss 0.1469, classify loss 0.1304, regress loss 0.0022, 0.0026, 0.0024, 0.0094
+
+Epoch 1023 (lr 0.01000)
+Train: loss 0.1392, classify loss 0.1217, regress loss 0.0025, 0.0025, 0.0024, 0.0101
+
+Epoch 1024 (lr 0.01000)
+Train: loss 0.1621, classify loss 0.1450, regress loss 0.0023, 0.0026, 0.0025, 0.0096
+
+Epoch 1025 (lr 0.01000)
+Train: loss 0.1467, classify loss 0.1289, regress loss 0.0026, 0.0029, 0.0023, 0.0099
+
+Epoch 1026 (lr 0.01000)
+Train: loss 0.1495, classify loss 0.1326, regress loss 0.0023, 0.0026, 0.0023, 0.0098
+
+Epoch 1027 (lr 0.01000)
+Train: loss 0.1425, classify loss 0.1256, regress loss 0.0025, 0.0028, 0.0025, 0.0091
+
+Epoch 1028 (lr 0.01000)
+Train: loss 0.1676, classify loss 0.1498, regress loss 0.0026, 0.0027, 0.0027, 0.0100
+
+Epoch 1029 (lr 0.01000)
+Train: loss 0.1477, classify loss 0.1308, regress loss 0.0025, 0.0026, 0.0026, 0.0092
+
+Epoch 1030 (lr 0.01000)
+Train: loss 0.1409, classify loss 0.1241, regress loss 0.0026, 0.0026, 0.0025, 0.0092
+
+Epoch 1031 (lr 0.01000)
+Train: loss 0.1427, classify loss 0.1256, regress loss 0.0025, 0.0026, 0.0023, 0.0098
+
+Epoch 1032 (lr 0.01000)
+Train: loss 0.1628, classify loss 0.1448, regress loss 0.0026, 0.0025, 0.0024, 0.0105
+
+Epoch 1033 (lr 0.01000)
+Train: loss 0.1435, classify loss 0.1246, regress loss 0.0026, 0.0026, 0.0026, 0.0111
+
+Epoch 1034 (lr 0.01000)
+Train: loss 0.1457, classify loss 0.1290, regress loss 0.0026, 0.0026, 0.0025, 0.0090
+
+Epoch 1035 (lr 0.01000)
+Train: loss 0.1508, classify loss 0.1348, regress loss 0.0024, 0.0027, 0.0024, 0.0084
+
+Epoch 1036 (lr 0.01000)
+Train: loss 0.1533, classify loss 0.1374, regress loss 0.0024, 0.0025, 0.0025, 0.0084
+
+Epoch 1037 (lr 0.01000)
+Train: loss 0.1485, classify loss 0.1307, regress loss 0.0026, 0.0027, 0.0025, 0.0100
+
+Epoch 1038 (lr 0.01000)
+Train: loss 0.1471, classify loss 0.1304, regress loss 0.0026, 0.0026, 0.0023, 0.0092
+
+Epoch 1039 (lr 0.01000)
+Train: loss 0.1391, classify loss 0.1220, regress loss 0.0024, 0.0026, 0.0024, 0.0098
+
+Epoch 1040 (lr 0.01000)
+Train: loss 0.1587, classify loss 0.1408, regress loss 0.0027, 0.0026, 0.0027, 0.0100
+
+Epoch 1041 (lr 0.01000)
+Train: loss 0.1368, classify loss 0.1205, regress loss 0.0024, 0.0025, 0.0024, 0.0091
+
+Epoch 1042 (lr 0.01000)
+Train: loss 0.1441, classify loss 0.1265, regress loss 0.0025, 0.0027, 0.0026, 0.0097
+
+Epoch 1043 (lr 0.01000)
+Train: loss 0.1937, classify loss 0.1747, regress loss 0.0029, 0.0028, 0.0026, 0.0106
+
+Epoch 1044 (lr 0.01000)
+Train: loss 0.1401, classify loss 0.1232, regress loss 0.0024, 0.0028, 0.0024, 0.0094
+
+Epoch 1045 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1178, regress loss 0.0025, 0.0027, 0.0027, 0.0087
+
+Epoch 1046 (lr 0.01000)
+Train: loss 0.1521, classify loss 0.1355, regress loss 0.0027, 0.0027, 0.0024, 0.0087
+
+Epoch 1047 (lr 0.01000)
+Train: loss 0.1381, classify loss 0.1223, regress loss 0.0025, 0.0024, 0.0021, 0.0088
+
+Epoch 1048 (lr 0.01000)
+Train: loss 0.1408, classify loss 0.1241, regress loss 0.0026, 0.0025, 0.0025, 0.0091
+
+Epoch 1049 (lr 0.01000)
+Train: loss 0.1383, classify loss 0.1217, regress loss 0.0027, 0.0025, 0.0024, 0.0091
+
+Epoch 1050 (lr 0.01000)
+Train: loss 0.1526, classify loss 0.1349, regress loss 0.0025, 0.0025, 0.0026, 0.0101
+
+Epoch 1051 (lr 0.01000)
+Train: loss 0.1545, classify loss 0.1364, regress loss 0.0024, 0.0025, 0.0027, 0.0104
+
+Epoch 1052 (lr 0.01000)
+Train: loss 0.1441, classify loss 0.1267, regress loss 0.0024, 0.0027, 0.0023, 0.0099
+
+Epoch 1053 (lr 0.01000)
+Train: loss 0.1426, classify loss 0.1261, regress loss 0.0024, 0.0024, 0.0024, 0.0094
+
+Epoch 1054 (lr 0.01000)
+Train: loss 0.1416, classify loss 0.1249, regress loss 0.0023, 0.0025, 0.0022, 0.0096
+
+Epoch 1055 (lr 0.01000)
+Train: loss 0.1311, classify loss 0.1139, regress loss 0.0025, 0.0027, 0.0027, 0.0093
+
+Epoch 1056 (lr 0.01000)
+Train: loss 0.1580, classify loss 0.1403, regress loss 0.0027, 0.0026, 0.0025, 0.0098
+
+Epoch 1057 (lr 0.01000)
+Train: loss 0.1409, classify loss 0.1232, regress loss 0.0025, 0.0027, 0.0025, 0.0099
+
+Epoch 1058 (lr 0.01000)
+Train: loss 0.1380, classify loss 0.1209, regress loss 0.0023, 0.0027, 0.0029, 0.0092
+
+Epoch 1059 (lr 0.01000)
+Train: loss 0.1489, classify loss 0.1321, regress loss 0.0025, 0.0024, 0.0027, 0.0091
+
+Epoch 1060 (lr 0.01000)
+Train: loss 0.1383, classify loss 0.1209, regress loss 0.0025, 0.0026, 0.0025, 0.0097
+
+Epoch 1061 (lr 0.01000)
+Train: loss 0.1494, classify loss 0.1326, regress loss 0.0024, 0.0026, 0.0023, 0.0094
+
+Epoch 1062 (lr 0.01000)
+Train: loss 0.1402, classify loss 0.1235, regress loss 0.0024, 0.0026, 0.0026, 0.0091
+
+Epoch 1063 (lr 0.01000)
+Train: loss 0.1481, classify loss 0.1312, regress loss 0.0024, 0.0026, 0.0027, 0.0092
+
+Epoch 1064 (lr 0.01000)
+Train: loss 0.1245, classify loss 0.1086, regress loss 0.0023, 0.0026, 0.0023, 0.0087
+
+Epoch 1065 (lr 0.01000)
+Train: loss 0.1370, classify loss 0.1202, regress loss 0.0026, 0.0027, 0.0026, 0.0089
+
+Epoch 1066 (lr 0.01000)
+Train: loss 0.1329, classify loss 0.1167, regress loss 0.0025, 0.0026, 0.0025, 0.0085
+
+Epoch 1067 (lr 0.01000)
+Train: loss 0.1637, classify loss 0.1464, regress loss 0.0026, 0.0029, 0.0025, 0.0094
+
+Epoch 1068 (lr 0.01000)
+Train: loss 0.1376, classify loss 0.1206, regress loss 0.0026, 0.0027, 0.0025, 0.0092
+
+Epoch 1069 (lr 0.01000)
+Train: loss 0.1433, classify loss 0.1273, regress loss 0.0024, 0.0025, 0.0023, 0.0089
+
+Epoch 1070 (lr 0.01000)
+Train: loss 0.1275, classify loss 0.1115, regress loss 0.0024, 0.0026, 0.0023, 0.0088
+
+Epoch 1071 (lr 0.01000)
+Train: loss 0.1416, classify loss 0.1254, regress loss 0.0024, 0.0026, 0.0023, 0.0088
+
+Epoch 1072 (lr 0.01000)
+Train: loss 0.1410, classify loss 0.1247, regress loss 0.0026, 0.0027, 0.0026, 0.0085
+
+Epoch 1073 (lr 0.01000)
+Train: loss 0.1311, classify loss 0.1157, regress loss 0.0023, 0.0026, 0.0024, 0.0081
+
+Epoch 1074 (lr 0.01000)
+Train: loss 0.1349, classify loss 0.1175, regress loss 0.0025, 0.0025, 0.0024, 0.0099
+
+Epoch 1075 (lr 0.01000)
+Train: loss 0.1327, classify loss 0.1169, regress loss 0.0025, 0.0024, 0.0023, 0.0088
+
+Epoch 1076 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1172, regress loss 0.0024, 0.0025, 0.0022, 0.0111
+
+Epoch 1077 (lr 0.01000)
+Train: loss 0.1553, classify loss 0.1383, regress loss 0.0025, 0.0025, 0.0024, 0.0096
+
+Epoch 1078 (lr 0.01000)
+Train: loss 0.1488, classify loss 0.1318, regress loss 0.0025, 0.0027, 0.0024, 0.0095
+
+Epoch 1079 (lr 0.01000)
+Train: loss 0.1588, classify loss 0.1425, regress loss 0.0025, 0.0026, 0.0023, 0.0089
+
+Epoch 1080 (lr 0.01000)
+Train: loss 0.1380, classify loss 0.1220, regress loss 0.0024, 0.0027, 0.0022, 0.0086
+
+Epoch 1081 (lr 0.01000)
+Train: loss 0.1429, classify loss 0.1258, regress loss 0.0026, 0.0028, 0.0028, 0.0090
+
+Epoch 1082 (lr 0.01000)
+Train: loss 0.1426, classify loss 0.1255, regress loss 0.0026, 0.0026, 0.0025, 0.0094
+
+Epoch 1083 (lr 0.01000)
+Train: loss 0.1351, classify loss 0.1191, regress loss 0.0024, 0.0027, 0.0023, 0.0086
+
+Epoch 1084 (lr 0.01000)
+Train: loss 0.1465, classify loss 0.1286, regress loss 0.0026, 0.0027, 0.0026, 0.0100
+
+Epoch 1085 (lr 0.01000)
+Train: loss 0.1486, classify loss 0.1323, regress loss 0.0024, 0.0026, 0.0025, 0.0088
+
+Epoch 1086 (lr 0.01000)
+Train: loss 0.1396, classify loss 0.1234, regress loss 0.0025, 0.0023, 0.0024, 0.0090
+
+Epoch 1087 (lr 0.01000)
+Train: loss 0.1435, classify loss 0.1265, regress loss 0.0025, 0.0025, 0.0024, 0.0096
+
+Epoch 1088 (lr 0.01000)
+Train: loss 0.1341, classify loss 0.1181, regress loss 0.0025, 0.0025, 0.0027, 0.0084
+
+Epoch 1089 (lr 0.01000)
+Train: loss 0.1376, classify loss 0.1212, regress loss 0.0025, 0.0027, 0.0023, 0.0090
+
+Epoch 1090 (lr 0.01000)
+Train: loss 0.1328, classify loss 0.1169, regress loss 0.0025, 0.0027, 0.0022, 0.0084
+
+Epoch 1091 (lr 0.01000)
+Train: loss 0.1457, classify loss 0.1286, regress loss 0.0025, 0.0027, 0.0026, 0.0093
+
+Epoch 1092 (lr 0.01000)
+Train: loss 0.1346, classify loss 0.1187, regress loss 0.0023, 0.0024, 0.0028, 0.0083
+
+Epoch 1093 (lr 0.01000)
+Train: loss 0.1413, classify loss 0.1251, regress loss 0.0024, 0.0026, 0.0025, 0.0087
+
+Epoch 1094 (lr 0.01000)
+Train: loss 0.1361, classify loss 0.1199, regress loss 0.0025, 0.0025, 0.0025, 0.0087
+
+Epoch 1095 (lr 0.01000)
+Train: loss 0.1451, classify loss 0.1277, regress loss 0.0026, 0.0025, 0.0026, 0.0097
+
+Epoch 1096 (lr 0.01000)
+Train: loss 0.1429, classify loss 0.1254, regress loss 0.0027, 0.0024, 0.0024, 0.0099
+
+Epoch 1097 (lr 0.01000)
+Train: loss 0.1296, classify loss 0.1135, regress loss 0.0023, 0.0026, 0.0023, 0.0090
+
+Epoch 1098 (lr 0.01000)
+Train: loss 0.1481, classify loss 0.1315, regress loss 0.0026, 0.0028, 0.0025, 0.0087
+
+Epoch 1099 (lr 0.01000)
+Train: loss 0.1522, classify loss 0.1367, regress loss 0.0024, 0.0027, 0.0024, 0.0081
+
+Epoch 1100 (lr 0.01000)
+Train: loss 0.1347, classify loss 0.1187, regress loss 0.0022, 0.0025, 0.0025, 0.0088
+
+Epoch 1101 (lr 0.01000)
+Train: loss 0.1350, classify loss 0.1191, regress loss 0.0025, 0.0025, 0.0023, 0.0086
+
+Epoch 1102 (lr 0.01000)
+Train: loss 0.1494, classify loss 0.1322, regress loss 0.0026, 0.0025, 0.0024, 0.0097
+
+Epoch 1103 (lr 0.01000)
+Train: loss 0.1328, classify loss 0.1166, regress loss 0.0023, 0.0026, 0.0024, 0.0089
+
+Epoch 1104 (lr 0.01000)
+Train: loss 0.1240, classify loss 0.1083, regress loss 0.0023, 0.0029, 0.0025, 0.0080
+
+Epoch 1105 (lr 0.01000)
+Train: loss 0.1431, classify loss 0.1262, regress loss 0.0024, 0.0026, 0.0024, 0.0095
+
+Epoch 1106 (lr 0.01000)
+Train: loss 0.1478, classify loss 0.1308, regress loss 0.0025, 0.0026, 0.0026, 0.0092
+
+Epoch 1107 (lr 0.01000)
+Train: loss 0.1284, classify loss 0.1123, regress loss 0.0024, 0.0026, 0.0022, 0.0089
+
+Epoch 1108 (lr 0.01000)
+Train: loss 0.1480, classify loss 0.1311, regress loss 0.0023, 0.0026, 0.0023, 0.0097
+
+Epoch 1109 (lr 0.01000)
+Train: loss 0.1409, classify loss 0.1248, regress loss 0.0022, 0.0023, 0.0023, 0.0093
+
+Epoch 1110 (lr 0.01000)
+Train: loss 0.1596, classify loss 0.1418, regress loss 0.0023, 0.0028, 0.0024, 0.0104
+
+Epoch 1111 (lr 0.01000)
+Train: loss 0.1462, classify loss 0.1305, regress loss 0.0025, 0.0026, 0.0022, 0.0085
+
+Epoch 1112 (lr 0.01000)
+Train: loss 0.1577, classify loss 0.1398, regress loss 0.0027, 0.0026, 0.0026, 0.0100
+
+Epoch 1113 (lr 0.01000)
+Train: loss 0.1378, classify loss 0.1216, regress loss 0.0023, 0.0025, 0.0026, 0.0089
+
+Epoch 1114 (lr 0.01000)
+Train: loss 0.1480, classify loss 0.1312, regress loss 0.0022, 0.0026, 0.0024, 0.0097
+
+Epoch 1115 (lr 0.01000)
+Train: loss 0.1401, classify loss 0.1244, regress loss 0.0024, 0.0024, 0.0025, 0.0083
+
+Epoch 1116 (lr 0.01000)
+Train: loss 0.1360, classify loss 0.1197, regress loss 0.0025, 0.0025, 0.0025, 0.0087
+
+Epoch 1117 (lr 0.01000)
+Train: loss 0.1338, classify loss 0.1180, regress loss 0.0027, 0.0025, 0.0025, 0.0081
+
+Epoch 1118 (lr 0.01000)
+Train: loss 0.1411, classify loss 0.1248, regress loss 0.0025, 0.0026, 0.0023, 0.0090
+
+Epoch 1119 (lr 0.01000)
+Train: loss 0.1463, classify loss 0.1297, regress loss 0.0024, 0.0027, 0.0024, 0.0091
+
+Epoch 1120 (lr 0.01000)
+Train: loss 0.1706, classify loss 0.1538, regress loss 0.0022, 0.0025, 0.0024, 0.0097
+
+Epoch 1121 (lr 0.01000)
+Train: loss 0.1437, classify loss 0.1266, regress loss 0.0025, 0.0026, 0.0026, 0.0095
+
+Epoch 1122 (lr 0.01000)
+Train: loss 0.1488, classify loss 0.1325, regress loss 0.0023, 0.0025, 0.0024, 0.0091
+
+Epoch 1123 (lr 0.01000)
+Train: loss 0.1330, classify loss 0.1167, regress loss 0.0025, 0.0025, 0.0025, 0.0087
+
+Epoch 1124 (lr 0.01000)
+Train: loss 0.1444, classify loss 0.1284, regress loss 0.0022, 0.0024, 0.0023, 0.0092
+
+Epoch 1125 (lr 0.01000)
+Train: loss 0.1347, classify loss 0.1180, regress loss 0.0025, 0.0023, 0.0024, 0.0093
+
+Epoch 1126 (lr 0.01000)
+Train: loss 0.1427, classify loss 0.1265, regress loss 0.0025, 0.0026, 0.0025, 0.0085
+
+Epoch 1127 (lr 0.01000)
+Train: loss 0.1333, classify loss 0.1179, regress loss 0.0023, 0.0024, 0.0025, 0.0083
+
+Epoch 1128 (lr 0.01000)
+Train: loss 0.1332, classify loss 0.1163, regress loss 0.0024, 0.0027, 0.0025, 0.0093
+
+Epoch 1129 (lr 0.01000)
+Train: loss 0.1413, classify loss 0.1252, regress loss 0.0025, 0.0024, 0.0025, 0.0087
+
+Epoch 1130 (lr 0.01000)
+Train: loss 0.1531, classify loss 0.1359, regress loss 0.0023, 0.0026, 0.0024, 0.0099
+
+Epoch 1131 (lr 0.01000)
+Train: loss 0.1611, classify loss 0.1445, regress loss 0.0025, 0.0027, 0.0024, 0.0091
+
+Epoch 1132 (lr 0.01000)
+Train: loss 0.1429, classify loss 0.1270, regress loss 0.0022, 0.0025, 0.0026, 0.0085
+
+Epoch 1133 (lr 0.01000)
+Train: loss 0.1374, classify loss 0.1210, regress loss 0.0023, 0.0027, 0.0025, 0.0088
+
+Epoch 1134 (lr 0.01000)
+Train: loss 0.1326, classify loss 0.1160, regress loss 0.0023, 0.0024, 0.0023, 0.0097
+
+Epoch 1135 (lr 0.01000)
+Train: loss 0.1508, classify loss 0.1339, regress loss 0.0023, 0.0026, 0.0024, 0.0095
+
+Epoch 1136 (lr 0.01000)
+Train: loss 0.1374, classify loss 0.1213, regress loss 0.0025, 0.0025, 0.0022, 0.0089
+
+Epoch 1137 (lr 0.01000)
+Train: loss 0.1504, classify loss 0.1338, regress loss 0.0024, 0.0028, 0.0025, 0.0089
+
+Epoch 1138 (lr 0.01000)
+Train: loss 0.1438, classify loss 0.1267, regress loss 0.0025, 0.0026, 0.0025, 0.0095
+
+Epoch 1139 (lr 0.01000)
+Train: loss 0.1296, classify loss 0.1131, regress loss 0.0023, 0.0028, 0.0026, 0.0089
+
+Epoch 1140 (lr 0.01000)
+Train: loss 0.1398, classify loss 0.1230, regress loss 0.0026, 0.0024, 0.0024, 0.0094
+
+Epoch 1141 (lr 0.01000)
+Train: loss 0.1389, classify loss 0.1225, regress loss 0.0024, 0.0026, 0.0025, 0.0088
+
+Epoch 1142 (lr 0.01000)
+Train: loss 0.1289, classify loss 0.1124, regress loss 0.0022, 0.0025, 0.0025, 0.0093
+
+Epoch 1143 (lr 0.01000)
+Train: loss 0.1566, classify loss 0.1405, regress loss 0.0023, 0.0027, 0.0024, 0.0087
+
+Epoch 1144 (lr 0.01000)
+Train: loss 0.1395, classify loss 0.1237, regress loss 0.0023, 0.0027, 0.0022, 0.0085
+
+Epoch 1145 (lr 0.01000)
+Train: loss 0.1353, classify loss 0.1199, regress loss 0.0023, 0.0027, 0.0023, 0.0081
+
+Epoch 1146 (lr 0.01000)
+Train: loss 0.1306, classify loss 0.1145, regress loss 0.0023, 0.0026, 0.0024, 0.0087
+
+Epoch 1147 (lr 0.01000)
+Train: loss 0.1761, classify loss 0.1583, regress loss 0.0026, 0.0027, 0.0024, 0.0101
+
+Epoch 1148 (lr 0.01000)
+Train: loss 0.1519, classify loss 0.1346, regress loss 0.0024, 0.0025, 0.0023, 0.0100
+
+Epoch 1149 (lr 0.01000)
+Train: loss 0.1381, classify loss 0.1216, regress loss 0.0023, 0.0027, 0.0024, 0.0090
+
+Epoch 1150 (lr 0.01000)
+Train: loss 0.1339, classify loss 0.1179, regress loss 0.0023, 0.0025, 0.0025, 0.0086
+
+Epoch 1151 (lr 0.01000)
+Train: loss 0.1487, classify loss 0.1324, regress loss 0.0022, 0.0026, 0.0024, 0.0090
+
+Epoch 1152 (lr 0.01000)
+Train: loss 0.1493, classify loss 0.1327, regress loss 0.0024, 0.0024, 0.0025, 0.0094
+
+Epoch 1153 (lr 0.01000)
+Train: loss 0.1487, classify loss 0.1323, regress loss 0.0023, 0.0027, 0.0025, 0.0089
+
+Epoch 1154 (lr 0.01000)
+Train: loss 0.1450, classify loss 0.1287, regress loss 0.0024, 0.0025, 0.0025, 0.0088
+
+Epoch 1155 (lr 0.01000)
+Train: loss 0.1363, classify loss 0.1202, regress loss 0.0024, 0.0027, 0.0025, 0.0085
+
+Epoch 1156 (lr 0.01000)
+Train: loss 0.1355, classify loss 0.1197, regress loss 0.0025, 0.0025, 0.0025, 0.0082
+
+Epoch 1157 (lr 0.01000)
+Train: loss 0.1316, classify loss 0.1152, regress loss 0.0024, 0.0027, 0.0023, 0.0090
+
+Epoch 1158 (lr 0.01000)
+Train: loss 0.1467, classify loss 0.1302, regress loss 0.0023, 0.0024, 0.0027, 0.0090
+
+Epoch 1159 (lr 0.01000)
+Train: loss 0.1401, classify loss 0.1229, regress loss 0.0025, 0.0026, 0.0025, 0.0096
+
+Epoch 1160 (lr 0.01000)
+Train: loss 0.1724, classify loss 0.1516, regress loss 0.0027, 0.0025, 0.0028, 0.0129
+
+Epoch 1161 (lr 0.01000)
+Train: loss 0.1500, classify loss 0.1313, regress loss 0.0024, 0.0028, 0.0024, 0.0111
+
+Epoch 1162 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1175, regress loss 0.0027, 0.0025, 0.0024, 0.0093
+
+Epoch 1163 (lr 0.01000)
+Train: loss 0.1453, classify loss 0.1282, regress loss 0.0024, 0.0028, 0.0026, 0.0093
+
+Epoch 1164 (lr 0.01000)
+Train: loss 0.1494, classify loss 0.1334, regress loss 0.0025, 0.0024, 0.0021, 0.0088
+
+Epoch 1165 (lr 0.01000)
+Train: loss 0.1469, classify loss 0.1303, regress loss 0.0023, 0.0025, 0.0025, 0.0093
+
+Epoch 1166 (lr 0.01000)
+Train: loss 0.1435, classify loss 0.1262, regress loss 0.0026, 0.0025, 0.0025, 0.0097
+
+Epoch 1167 (lr 0.01000)
+Train: loss 0.1468, classify loss 0.1313, regress loss 0.0024, 0.0023, 0.0025, 0.0082
+
+Epoch 1168 (lr 0.01000)
+Train: loss 0.1403, classify loss 0.1242, regress loss 0.0022, 0.0024, 0.0023, 0.0093
+
+Epoch 1169 (lr 0.01000)
+Train: loss 0.1428, classify loss 0.1259, regress loss 0.0023, 0.0024, 0.0023, 0.0099
+
+Epoch 1170 (lr 0.01000)
+Train: loss 0.1548, classify loss 0.1383, regress loss 0.0024, 0.0025, 0.0027, 0.0088
+
+Epoch 1171 (lr 0.01000)
+Train: loss 0.1421, classify loss 0.1260, regress loss 0.0026, 0.0025, 0.0025, 0.0085
+
+Epoch 1172 (lr 0.01000)
+Train: loss 0.1410, classify loss 0.1247, regress loss 0.0025, 0.0024, 0.0026, 0.0089
+
+Epoch 1173 (lr 0.01000)
+Train: loss 0.1439, classify loss 0.1279, regress loss 0.0025, 0.0025, 0.0023, 0.0087
+
+Epoch 1174 (lr 0.01000)
+Train: loss 0.1208, classify loss 0.1041, regress loss 0.0025, 0.0023, 0.0026, 0.0092
+
+Epoch 1175 (lr 0.01000)
+Train: loss 0.1430, classify loss 0.1263, regress loss 0.0024, 0.0024, 0.0023, 0.0096
+
+Epoch 1176 (lr 0.01000)
+Train: loss 0.1319, classify loss 0.1152, regress loss 0.0025, 0.0026, 0.0022, 0.0095
+
+Epoch 1177 (lr 0.01000)
+Train: loss 0.1351, classify loss 0.1197, regress loss 0.0022, 0.0024, 0.0024, 0.0085
+
+Epoch 1178 (lr 0.01000)
+Train: loss 0.1457, classify loss 0.1289, regress loss 0.0023, 0.0028, 0.0025, 0.0092
+
+Epoch 1179 (lr 0.01000)
+Train: loss 0.1473, classify loss 0.1317, regress loss 0.0023, 0.0025, 0.0022, 0.0085
+
+Epoch 1180 (lr 0.01000)
+Train: loss 0.1363, classify loss 0.1205, regress loss 0.0022, 0.0027, 0.0025, 0.0085
+
+Epoch 1181 (lr 0.01000)
+Train: loss 0.1340, classify loss 0.1181, regress loss 0.0023, 0.0026, 0.0024, 0.0086
+
+Epoch 1182 (lr 0.01000)
+Train: loss 0.1372, classify loss 0.1219, regress loss 0.0022, 0.0023, 0.0022, 0.0085
+
+Epoch 1183 (lr 0.01000)
+Train: loss 0.1403, classify loss 0.1240, regress loss 0.0024, 0.0025, 0.0023, 0.0091
+
+Epoch 1184 (lr 0.01000)
+Train: loss 0.1271, classify loss 0.1114, regress loss 0.0021, 0.0023, 0.0025, 0.0087
+
+Epoch 1185 (lr 0.01000)
+Train: loss 0.1380, classify loss 0.1220, regress loss 0.0024, 0.0027, 0.0025, 0.0084
+
+Epoch 1186 (lr 0.01000)
+Train: loss 0.1396, classify loss 0.1235, regress loss 0.0024, 0.0026, 0.0025, 0.0086
+
+Epoch 1187 (lr 0.01000)
+Train: loss 0.1442, classify loss 0.1289, regress loss 0.0023, 0.0023, 0.0024, 0.0084
+
+Epoch 1188 (lr 0.01000)
+Train: loss 0.1316, classify loss 0.1162, regress loss 0.0023, 0.0025, 0.0023, 0.0083
+
+Epoch 1189 (lr 0.01000)
+Train: loss 0.1502, classify loss 0.1324, regress loss 0.0026, 0.0029, 0.0026, 0.0096
+
+Epoch 1190 (lr 0.01000)
+Train: loss 0.1375, classify loss 0.1213, regress loss 0.0024, 0.0025, 0.0023, 0.0090
+
+Epoch 1191 (lr 0.01000)
+Train: loss 0.1336, classify loss 0.1176, regress loss 0.0023, 0.0024, 0.0023, 0.0090
+
+Epoch 1192 (lr 0.01000)
+Train: loss 0.1432, classify loss 0.1264, regress loss 0.0024, 0.0026, 0.0026, 0.0092
+
+Epoch 1193 (lr 0.01000)
+Train: loss 0.1362, classify loss 0.1201, regress loss 0.0027, 0.0027, 0.0022, 0.0086
+
+Epoch 1194 (lr 0.01000)
+Train: loss 0.1293, classify loss 0.1140, regress loss 0.0024, 0.0022, 0.0022, 0.0084
+
+Epoch 1195 (lr 0.01000)
+Train: loss 0.1273, classify loss 0.1125, regress loss 0.0022, 0.0024, 0.0024, 0.0078
+
+Epoch 1196 (lr 0.01000)
+Train: loss 0.1408, classify loss 0.1250, regress loss 0.0024, 0.0025, 0.0023, 0.0086
+
+Epoch 1197 (lr 0.01000)
+Train: loss 0.1352, classify loss 0.1199, regress loss 0.0022, 0.0023, 0.0024, 0.0084
+
+Epoch 1198 (lr 0.01000)
+Train: loss 0.1485, classify loss 0.1314, regress loss 0.0025, 0.0026, 0.0023, 0.0097
+
+Epoch 1199 (lr 0.01000)
+Train: loss 0.1412, classify loss 0.1252, regress loss 0.0023, 0.0023, 0.0023, 0.0091
+
+Epoch 1200 (lr 0.01000)
+Train: loss 0.1493, classify loss 0.1336, regress loss 0.0023, 0.0026, 0.0022, 0.0086
+
+Epoch 1201 (lr 0.01000)
+Train: loss 0.1403, classify loss 0.1235, regress loss 0.0024, 0.0025, 0.0022, 0.0097
+
+Epoch 1202 (lr 0.01000)
+Train: loss 0.1478, classify loss 0.1311, regress loss 0.0024, 0.0026, 0.0024, 0.0093
+
+Epoch 1203 (lr 0.01000)
+Train: loss 0.1615, classify loss 0.1447, regress loss 0.0023, 0.0025, 0.0025, 0.0094
+
+Epoch 1204 (lr 0.01000)
+Train: loss 0.1423, classify loss 0.1271, regress loss 0.0024, 0.0025, 0.0025, 0.0078
+
+Epoch 1205 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1192, regress loss 0.0025, 0.0024, 0.0024, 0.0090
+
+Epoch 1206 (lr 0.01000)
+Train: loss 0.1335, classify loss 0.1180, regress loss 0.0023, 0.0024, 0.0024, 0.0085
+
+Epoch 1207 (lr 0.01000)
+Train: loss 0.1395, classify loss 0.1236, regress loss 0.0024, 0.0023, 0.0025, 0.0085
+
+Epoch 1208 (lr 0.01000)
+Train: loss 0.1373, classify loss 0.1222, regress loss 0.0023, 0.0026, 0.0022, 0.0080
+
+Epoch 1209 (lr 0.01000)
+Train: loss 0.1147, classify loss 0.0990, regress loss 0.0023, 0.0026, 0.0022, 0.0087
+
+Epoch 1210 (lr 0.01000)
+Train: loss 0.1336, classify loss 0.1181, regress loss 0.0021, 0.0026, 0.0020, 0.0087
+
+Epoch 1211 (lr 0.01000)
+Train: loss 0.1349, classify loss 0.1187, regress loss 0.0027, 0.0026, 0.0022, 0.0087
+
+Epoch 1212 (lr 0.01000)
+Train: loss 0.1352, classify loss 0.1185, regress loss 0.0024, 0.0026, 0.0024, 0.0092
+
+Epoch 1213 (lr 0.01000)
+Train: loss 0.1315, classify loss 0.1147, regress loss 0.0026, 0.0027, 0.0025, 0.0090
+
+Epoch 1214 (lr 0.01000)
+Train: loss 0.1379, classify loss 0.1227, regress loss 0.0024, 0.0027, 0.0023, 0.0078
+
+Epoch 1215 (lr 0.01000)
+Train: loss 0.1476, classify loss 0.1305, regress loss 0.0026, 0.0025, 0.0025, 0.0095
+
+Epoch 1216 (lr 0.01000)
+Train: loss 0.1231, classify loss 0.1074, regress loss 0.0024, 0.0025, 0.0024, 0.0084
+
+Epoch 1217 (lr 0.01000)
+Train: loss 0.1353, classify loss 0.1197, regress loss 0.0022, 0.0025, 0.0023, 0.0087
+
+Epoch 1218 (lr 0.01000)
+Train: loss 0.1396, classify loss 0.1227, regress loss 0.0026, 0.0030, 0.0022, 0.0093
+
+Epoch 1219 (lr 0.01000)
+Train: loss 0.1359, classify loss 0.1204, regress loss 0.0024, 0.0023, 0.0024, 0.0084
+
+Epoch 1220 (lr 0.01000)
+Train: loss 0.1496, classify loss 0.1339, regress loss 0.0023, 0.0024, 0.0026, 0.0085
+
+Epoch 1221 (lr 0.01000)
+Train: loss 0.1411, classify loss 0.1258, regress loss 0.0021, 0.0025, 0.0022, 0.0085
+
+Epoch 1222 (lr 0.01000)
+Train: loss 0.1409, classify loss 0.1249, regress loss 0.0023, 0.0024, 0.0024, 0.0090
+
+Epoch 1223 (lr 0.01000)
+Train: loss 0.1290, classify loss 0.1134, regress loss 0.0024, 0.0023, 0.0022, 0.0087
+
+Epoch 1224 (lr 0.01000)
+Train: loss 0.1201, classify loss 0.1049, regress loss 0.0022, 0.0024, 0.0023, 0.0083
+
+Epoch 1225 (lr 0.01000)
+Train: loss 0.1215, classify loss 0.1064, regress loss 0.0024, 0.0024, 0.0025, 0.0078
+
+Epoch 1226 (lr 0.01000)
+Train: loss 0.1340, classify loss 0.1185, regress loss 0.0024, 0.0028, 0.0022, 0.0081
+
+Epoch 1227 (lr 0.01000)
+Train: loss 0.1314, classify loss 0.1161, regress loss 0.0023, 0.0024, 0.0023, 0.0083
+
+Epoch 1228 (lr 0.01000)
+Train: loss 0.1302, classify loss 0.1143, regress loss 0.0023, 0.0026, 0.0022, 0.0087
+
+Epoch 1229 (lr 0.01000)
+Train: loss 0.1309, classify loss 0.1144, regress loss 0.0023, 0.0027, 0.0024, 0.0092
+
+Epoch 1230 (lr 0.01000)
+Train: loss 0.1242, classify loss 0.1081, regress loss 0.0025, 0.0027, 0.0024, 0.0085
+
+Epoch 1231 (lr 0.01000)
+Train: loss 0.1288, classify loss 0.1136, regress loss 0.0024, 0.0028, 0.0021, 0.0080
+
+Epoch 1232 (lr 0.01000)
+Train: loss 0.1502, classify loss 0.1340, regress loss 0.0026, 0.0025, 0.0025, 0.0086
+
+Epoch 1233 (lr 0.01000)
+Train: loss 0.1348, classify loss 0.1187, regress loss 0.0024, 0.0026, 0.0025, 0.0085
+
+Epoch 1234 (lr 0.01000)
+Train: loss 0.1424, classify loss 0.1264, regress loss 0.0022, 0.0024, 0.0023, 0.0091
+
+Epoch 1235 (lr 0.01000)
+Train: loss 0.1260, classify loss 0.1104, regress loss 0.0024, 0.0025, 0.0024, 0.0083
+
+Epoch 1236 (lr 0.01000)
+Train: loss 0.1316, classify loss 0.1162, regress loss 0.0023, 0.0025, 0.0024, 0.0083
+
+Epoch 1237 (lr 0.01000)
+Train: loss 0.1378, classify loss 0.1224, regress loss 0.0023, 0.0026, 0.0022, 0.0085
+
+Epoch 1238 (lr 0.01000)
+Train: loss 0.1248, classify loss 0.1096, regress loss 0.0024, 0.0025, 0.0024, 0.0079
+
+Epoch 1239 (lr 0.01000)
+Train: loss 0.1283, classify loss 0.1113, regress loss 0.0024, 0.0027, 0.0025, 0.0094
+
+Epoch 1240 (lr 0.01000)
+Train: loss 0.1352, classify loss 0.1198, regress loss 0.0022, 0.0025, 0.0023, 0.0083
+
+Epoch 1241 (lr 0.01000)
+Train: loss 0.1358, classify loss 0.1185, regress loss 0.0025, 0.0028, 0.0024, 0.0096
+
+Epoch 1242 (lr 0.01000)
+Train: loss 0.1509, classify loss 0.1345, regress loss 0.0023, 0.0025, 0.0025, 0.0091
+
+Epoch 1243 (lr 0.01000)
+Train: loss 0.1607, classify loss 0.1444, regress loss 0.0026, 0.0027, 0.0024, 0.0086
+
+Epoch 1244 (lr 0.01000)
+Train: loss 0.1316, classify loss 0.1158, regress loss 0.0023, 0.0025, 0.0022, 0.0089
+
+Epoch 1245 (lr 0.01000)
+Train: loss 0.1338, classify loss 0.1191, regress loss 0.0021, 0.0024, 0.0022, 0.0079
+
+Epoch 1246 (lr 0.01000)
+Train: loss 0.1295, classify loss 0.1141, regress loss 0.0024, 0.0023, 0.0025, 0.0081
+
+Epoch 1247 (lr 0.01000)
+Train: loss 0.1307, classify loss 0.1141, regress loss 0.0025, 0.0028, 0.0024, 0.0088
+
+Epoch 1248 (lr 0.01000)
+Train: loss 0.1501, classify loss 0.1344, regress loss 0.0024, 0.0027, 0.0025, 0.0081
+
+Epoch 1249 (lr 0.01000)
+Train: loss 0.1427, classify loss 0.1267, regress loss 0.0022, 0.0026, 0.0023, 0.0089
+
+Epoch 1250 (lr 0.01000)
+Train: loss 0.1394, classify loss 0.1236, regress loss 0.0025, 0.0025, 0.0025, 0.0083
+
+Epoch 1251 (lr 0.01000)
+Train: loss 0.1224, classify loss 0.1072, regress loss 0.0023, 0.0023, 0.0026, 0.0080
+
+Epoch 1252 (lr 0.01000)
+Train: loss 0.1361, classify loss 0.1207, regress loss 0.0025, 0.0023, 0.0023, 0.0084
+
+Epoch 1253 (lr 0.01000)
+Train: loss 0.1253, classify loss 0.1102, regress loss 0.0022, 0.0024, 0.0022, 0.0083
+
+Epoch 1254 (lr 0.01000)
+Train: loss 0.1429, classify loss 0.1267, regress loss 0.0022, 0.0026, 0.0028, 0.0085
+
+Epoch 1255 (lr 0.01000)
+Train: loss 0.1462, classify loss 0.1301, regress loss 0.0020, 0.0028, 0.0024, 0.0089
+
+Epoch 1256 (lr 0.01000)
+Train: loss 0.1257, classify loss 0.1105, regress loss 0.0022, 0.0024, 0.0026, 0.0080
+
+Epoch 1257 (lr 0.01000)
+Train: loss 0.1448, classify loss 0.1279, regress loss 0.0026, 0.0026, 0.0024, 0.0092
+
+Epoch 1258 (lr 0.01000)
+Train: loss 0.1341, classify loss 0.1176, regress loss 0.0022, 0.0026, 0.0024, 0.0093
+
+Epoch 1259 (lr 0.01000)
+Train: loss 0.1443, classify loss 0.1277, regress loss 0.0025, 0.0027, 0.0024, 0.0090
+
+Epoch 1260 (lr 0.01000)
+Train: loss 0.1473, classify loss 0.1315, regress loss 0.0021, 0.0025, 0.0025, 0.0087
+
+Epoch 1261 (lr 0.01000)
+Train: loss 0.1429, classify loss 0.1268, regress loss 0.0025, 0.0023, 0.0025, 0.0088
+
+Epoch 1262 (lr 0.01000)
+Train: loss 0.1499, classify loss 0.1329, regress loss 0.0027, 0.0023, 0.0025, 0.0095
+
+Epoch 1263 (lr 0.01000)
+Train: loss 0.1411, classify loss 0.1249, regress loss 0.0024, 0.0025, 0.0023, 0.0090
+
+Epoch 1264 (lr 0.01000)
+Train: loss 0.1452, classify loss 0.1296, regress loss 0.0024, 0.0025, 0.0024, 0.0082
+
+Epoch 1265 (lr 0.01000)
+Train: loss 0.1299, classify loss 0.1133, regress loss 0.0025, 0.0025, 0.0024, 0.0092
+
+Epoch 1266 (lr 0.01000)
+Train: loss 0.1292, classify loss 0.1135, regress loss 0.0025, 0.0024, 0.0023, 0.0085
+
+Epoch 1267 (lr 0.01000)
+Train: loss 0.1485, classify loss 0.1320, regress loss 0.0024, 0.0024, 0.0022, 0.0096
+
+Epoch 1268 (lr 0.01000)
+Train: loss 0.1231, classify loss 0.1078, regress loss 0.0022, 0.0025, 0.0022, 0.0084
+
+Epoch 1269 (lr 0.01000)
+Train: loss 0.1314, classify loss 0.1157, regress loss 0.0025, 0.0027, 0.0024, 0.0081
+
+Epoch 1270 (lr 0.01000)
+Train: loss 0.1528, classify loss 0.1360, regress loss 0.0026, 0.0026, 0.0024, 0.0093
+
+Epoch 1271 (lr 0.01000)
+Train: loss 0.1521, classify loss 0.1354, regress loss 0.0025, 0.0026, 0.0024, 0.0092
+
+Epoch 1272 (lr 0.01000)
+Train: loss 0.1376, classify loss 0.1219, regress loss 0.0023, 0.0024, 0.0023, 0.0087
+
+Epoch 1273 (lr 0.01000)
+Train: loss 0.1492, classify loss 0.1329, regress loss 0.0024, 0.0025, 0.0027, 0.0088
+
+Epoch 1274 (lr 0.01000)
+Train: loss 0.1264, classify loss 0.1113, regress loss 0.0023, 0.0024, 0.0023, 0.0081
+
+Epoch 1275 (lr 0.01000)
+Train: loss 0.1565, classify loss 0.1383, regress loss 0.0024, 0.0025, 0.0025, 0.0108
+
+Epoch 1276 (lr 0.01000)
+Train: loss 0.1506, classify loss 0.1325, regress loss 0.0025, 0.0027, 0.0025, 0.0105
+
+Epoch 1277 (lr 0.01000)
+Train: loss 0.1450, classify loss 0.1285, regress loss 0.0025, 0.0024, 0.0024, 0.0092
+
+Epoch 1278 (lr 0.01000)
+Train: loss 0.1616, classify loss 0.1438, regress loss 0.0025, 0.0025, 0.0025, 0.0104
+
+Epoch 1279 (lr 0.01000)
+Train: loss 0.1448, classify loss 0.1281, regress loss 0.0023, 0.0025, 0.0025, 0.0094
+
+Epoch 1280 (lr 0.01000)
+Train: loss 0.1355, classify loss 0.1201, regress loss 0.0025, 0.0024, 0.0023, 0.0083
+
+Epoch 1281 (lr 0.01000)
+Train: loss 0.1388, classify loss 0.1231, regress loss 0.0025, 0.0024, 0.0024, 0.0084
+
+Epoch 1282 (lr 0.01000)
+Train: loss 0.1372, classify loss 0.1206, regress loss 0.0026, 0.0026, 0.0025, 0.0090
+
+Epoch 1283 (lr 0.01000)
+Train: loss 0.1403, classify loss 0.1242, regress loss 0.0023, 0.0026, 0.0026, 0.0086
+
+Epoch 1284 (lr 0.01000)
+Train: loss 0.1331, classify loss 0.1169, regress loss 0.0026, 0.0025, 0.0023, 0.0088
+
+Epoch 1285 (lr 0.01000)
+Train: loss 0.1430, classify loss 0.1260, regress loss 0.0023, 0.0023, 0.0023, 0.0101
+
+Epoch 1286 (lr 0.01000)
+Train: loss 0.1575, classify loss 0.1405, regress loss 0.0025, 0.0027, 0.0023, 0.0096
+
+Epoch 1287 (lr 0.01000)
+Train: loss 0.1310, classify loss 0.1146, regress loss 0.0025, 0.0026, 0.0022, 0.0092
+
+Epoch 1288 (lr 0.01000)
+Train: loss 0.1425, classify loss 0.1267, regress loss 0.0022, 0.0026, 0.0023, 0.0087
+
+Epoch 1289 (lr 0.01000)
+Train: loss 0.1430, classify loss 0.1264, regress loss 0.0024, 0.0027, 0.0025, 0.0090
+
+Epoch 1290 (lr 0.01000)
+Train: loss 0.1420, classify loss 0.1264, regress loss 0.0023, 0.0025, 0.0023, 0.0085
+
+Epoch 1291 (lr 0.01000)
+Train: loss 0.1424, classify loss 0.1258, regress loss 0.0024, 0.0027, 0.0025, 0.0090
+
+Epoch 1292 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1193, regress loss 0.0023, 0.0026, 0.0025, 0.0088
+
+Epoch 1293 (lr 0.01000)
+Train: loss 0.1338, classify loss 0.1174, regress loss 0.0023, 0.0024, 0.0026, 0.0092
+
+Epoch 1294 (lr 0.01000)
+Train: loss 0.1513, classify loss 0.1347, regress loss 0.0025, 0.0026, 0.0024, 0.0091
+
+Epoch 1295 (lr 0.01000)
+Train: loss 0.1359, classify loss 0.1199, regress loss 0.0023, 0.0023, 0.0024, 0.0091
+
+Epoch 1296 (lr 0.01000)
+Train: loss 0.1733, classify loss 0.1555, regress loss 0.0023, 0.0029, 0.0025, 0.0101
+
+Epoch 1297 (lr 0.01000)
+Train: loss 0.1590, classify loss 0.1418, regress loss 0.0022, 0.0026, 0.0025, 0.0100
+
+Epoch 1298 (lr 0.01000)
+Train: loss 0.1430, classify loss 0.1274, regress loss 0.0023, 0.0024, 0.0024, 0.0085
+
+Epoch 1299 (lr 0.01000)
+Train: loss 0.1299, classify loss 0.1138, regress loss 0.0024, 0.0026, 0.0025, 0.0086
+
+Epoch 1300 (lr 0.01000)
+Train: loss 0.1539, classify loss 0.1369, regress loss 0.0026, 0.0024, 0.0026, 0.0094
+
+Epoch 1301 (lr 0.01000)
+Train: loss 0.1416, classify loss 0.1255, regress loss 0.0025, 0.0025, 0.0023, 0.0090
+
+Epoch 1302 (lr 0.01000)
+Train: loss 0.1404, classify loss 0.1240, regress loss 0.0026, 0.0024, 0.0023, 0.0091
+
+Epoch 1303 (lr 0.01000)
+Train: loss 0.1286, classify loss 0.1135, regress loss 0.0025, 0.0024, 0.0023, 0.0078
+
+Epoch 1304 (lr 0.01000)
+Train: loss 0.1243, classify loss 0.1088, regress loss 0.0023, 0.0025, 0.0023, 0.0084
+
+Epoch 1305 (lr 0.01000)
+Train: loss 0.1401, classify loss 0.1251, regress loss 0.0023, 0.0024, 0.0024, 0.0079
+
+Epoch 1306 (lr 0.01000)
+Train: loss 0.1457, classify loss 0.1295, regress loss 0.0023, 0.0024, 0.0024, 0.0091
+
+Epoch 1307 (lr 0.01000)
+Train: loss 0.1363, classify loss 0.1197, regress loss 0.0024, 0.0026, 0.0025, 0.0091
+
+Epoch 1308 (lr 0.01000)
+Train: loss 0.1382, classify loss 0.1218, regress loss 0.0024, 0.0028, 0.0026, 0.0086
+
+Epoch 1309 (lr 0.01000)
+Train: loss 0.1332, classify loss 0.1156, regress loss 0.0027, 0.0027, 0.0024, 0.0098
+
+Epoch 1310 (lr 0.01000)
+Train: loss 0.1497, classify loss 0.1330, regress loss 0.0021, 0.0025, 0.0022, 0.0098
+
+Epoch 1311 (lr 0.01000)
+Train: loss 0.1319, classify loss 0.1161, regress loss 0.0023, 0.0026, 0.0025, 0.0084
+
+Epoch 1312 (lr 0.01000)
+Train: loss 0.1288, classify loss 0.1131, regress loss 0.0023, 0.0024, 0.0024, 0.0085
+
+Epoch 1313 (lr 0.01000)
+Train: loss 0.1506, classify loss 0.1350, regress loss 0.0023, 0.0026, 0.0020, 0.0087
+
+Epoch 1314 (lr 0.01000)
+Train: loss 0.1363, classify loss 0.1216, regress loss 0.0022, 0.0026, 0.0021, 0.0078
+
+Epoch 1315 (lr 0.01000)
+Train: loss 0.1483, classify loss 0.1322, regress loss 0.0028, 0.0026, 0.0025, 0.0083
+
+Epoch 1316 (lr 0.01000)
+Train: loss 0.1339, classify loss 0.1185, regress loss 0.0024, 0.0025, 0.0024, 0.0081
+
+Epoch 1317 (lr 0.01000)
+Train: loss 0.1418, classify loss 0.1262, regress loss 0.0024, 0.0023, 0.0023, 0.0085
+
+Epoch 1318 (lr 0.01000)
+Train: loss 0.1546, classify loss 0.1392, regress loss 0.0024, 0.0025, 0.0024, 0.0081
+
+Epoch 1319 (lr 0.01000)
+Train: loss 0.1403, classify loss 0.1253, regress loss 0.0022, 0.0022, 0.0025, 0.0081
+
+Epoch 1320 (lr 0.01000)
+Train: loss 0.1281, classify loss 0.1127, regress loss 0.0022, 0.0022, 0.0023, 0.0086
+
+Epoch 1321 (lr 0.01000)
+Train: loss 0.1299, classify loss 0.1148, regress loss 0.0022, 0.0026, 0.0023, 0.0080
+
+Epoch 1322 (lr 0.01000)
+Train: loss 0.1264, classify loss 0.1112, regress loss 0.0020, 0.0024, 0.0024, 0.0083
+
+Epoch 1323 (lr 0.01000)
+Train: loss 0.1338, classify loss 0.1186, regress loss 0.0021, 0.0025, 0.0022, 0.0083
+
+Epoch 1324 (lr 0.01000)
+Train: loss 0.1324, classify loss 0.1174, regress loss 0.0021, 0.0025, 0.0024, 0.0079
+
+Epoch 1325 (lr 0.01000)
+Train: loss 0.1355, classify loss 0.1197, regress loss 0.0023, 0.0024, 0.0022, 0.0088
+
+Epoch 1326 (lr 0.01000)
+Train: loss 0.1404, classify loss 0.1246, regress loss 0.0023, 0.0023, 0.0025, 0.0086
+
+Epoch 1327 (lr 0.01000)
+Train: loss 0.1308, classify loss 0.1141, regress loss 0.0024, 0.0026, 0.0025, 0.0092
+
+Epoch 1328 (lr 0.01000)
+Train: loss 0.1406, classify loss 0.1245, regress loss 0.0023, 0.0027, 0.0022, 0.0088
+
+Epoch 1329 (lr 0.01000)
+Train: loss 0.1395, classify loss 0.1235, regress loss 0.0023, 0.0024, 0.0022, 0.0091
+
+Epoch 1330 (lr 0.01000)
+Train: loss 0.1203, classify loss 0.1056, regress loss 0.0024, 0.0023, 0.0025, 0.0076
+
+Epoch 1331 (lr 0.01000)
+Train: loss 0.1269, classify loss 0.1104, regress loss 0.0023, 0.0024, 0.0022, 0.0096
+
+Epoch 1332 (lr 0.01000)
+Train: loss 0.1291, classify loss 0.1136, regress loss 0.0025, 0.0025, 0.0024, 0.0081
+
+Epoch 1333 (lr 0.01000)
+Train: loss 0.1369, classify loss 0.1214, regress loss 0.0022, 0.0025, 0.0023, 0.0086
+
+Epoch 1334 (lr 0.01000)
+Train: loss 0.1227, classify loss 0.1073, regress loss 0.0025, 0.0025, 0.0025, 0.0080
+
+Epoch 1335 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1195, regress loss 0.0023, 0.0024, 0.0023, 0.0078
+
+Epoch 1336 (lr 0.01000)
+Train: loss 0.1414, classify loss 0.1264, regress loss 0.0023, 0.0024, 0.0024, 0.0079
+
+Epoch 1337 (lr 0.01000)
+Train: loss 0.1332, classify loss 0.1176, regress loss 0.0021, 0.0024, 0.0024, 0.0086
+
+Epoch 1338 (lr 0.01000)
+Train: loss 0.1282, classify loss 0.1120, regress loss 0.0025, 0.0025, 0.0024, 0.0089
+
+Epoch 1339 (lr 0.01000)
+Train: loss 0.1378, classify loss 0.1204, regress loss 0.0022, 0.0023, 0.0024, 0.0105
+
+Epoch 1340 (lr 0.01000)
+Train: loss 0.1470, classify loss 0.1303, regress loss 0.0021, 0.0025, 0.0023, 0.0098
+
+Epoch 1341 (lr 0.01000)
+Train: loss 0.1392, classify loss 0.1238, regress loss 0.0023, 0.0025, 0.0022, 0.0084
+
+Epoch 1342 (lr 0.01000)
+Train: loss 0.1571, classify loss 0.1377, regress loss 0.0023, 0.0024, 0.0024, 0.0123
+
+Epoch 1343 (lr 0.01000)
+Train: loss 0.1317, classify loss 0.1153, regress loss 0.0024, 0.0025, 0.0023, 0.0091
+
+Epoch 1344 (lr 0.01000)
+Train: loss 0.1212, classify loss 0.1059, regress loss 0.0024, 0.0026, 0.0022, 0.0082
+
+Epoch 1345 (lr 0.01000)
+Train: loss 0.1351, classify loss 0.1189, regress loss 0.0023, 0.0024, 0.0024, 0.0091
+
+Epoch 1346 (lr 0.01000)
+Train: loss 0.1301, classify loss 0.1146, regress loss 0.0024, 0.0023, 0.0024, 0.0083
+
+Epoch 1347 (lr 0.01000)
+Train: loss 0.1355, classify loss 0.1180, regress loss 0.0023, 0.0023, 0.0023, 0.0107
+
+Epoch 1348 (lr 0.01000)
+Train: loss 0.1258, classify loss 0.1097, regress loss 0.0023, 0.0024, 0.0023, 0.0092
+
+Epoch 1349 (lr 0.01000)
+Train: loss 0.1424, classify loss 0.1259, regress loss 0.0024, 0.0027, 0.0023, 0.0091
+
+Epoch 1350 (lr 0.01000)
+Train: loss 0.1361, classify loss 0.1201, regress loss 0.0024, 0.0025, 0.0024, 0.0086
+
+Epoch 1351 (lr 0.01000)
+Train: loss 0.1398, classify loss 0.1238, regress loss 0.0022, 0.0025, 0.0023, 0.0089
+
+Epoch 1352 (lr 0.01000)
+Train: loss 0.1187, classify loss 0.1031, regress loss 0.0025, 0.0023, 0.0026, 0.0081
+
+Epoch 1353 (lr 0.01000)
+Train: loss 0.1246, classify loss 0.1099, regress loss 0.0024, 0.0023, 0.0023, 0.0077
+
+Epoch 1354 (lr 0.01000)
+Train: loss 0.1148, classify loss 0.1002, regress loss 0.0022, 0.0021, 0.0023, 0.0080
+
+Epoch 1355 (lr 0.01000)
+Train: loss 0.1364, classify loss 0.1218, regress loss 0.0024, 0.0022, 0.0021, 0.0080
+
+Epoch 1356 (lr 0.01000)
+Train: loss 0.1280, classify loss 0.1128, regress loss 0.0024, 0.0026, 0.0024, 0.0078
+
+Epoch 1357 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1194, regress loss 0.0024, 0.0025, 0.0022, 0.0089
+
+Epoch 1358 (lr 0.01000)
+Train: loss 0.1324, classify loss 0.1172, regress loss 0.0022, 0.0025, 0.0021, 0.0083
+
+Epoch 1359 (lr 0.01000)
+Train: loss 0.1266, classify loss 0.1116, regress loss 0.0024, 0.0024, 0.0023, 0.0079
+
+Epoch 1360 (lr 0.01000)
+Train: loss 0.1319, classify loss 0.1165, regress loss 0.0023, 0.0023, 0.0022, 0.0086
+
+Epoch 1361 (lr 0.01000)
+Train: loss 0.1470, classify loss 0.1311, regress loss 0.0025, 0.0025, 0.0020, 0.0089
+
+Epoch 1362 (lr 0.01000)
+Train: loss 0.1567, classify loss 0.1408, regress loss 0.0024, 0.0025, 0.0022, 0.0087
+
+Epoch 1363 (lr 0.01000)
+Train: loss 0.1351, classify loss 0.1199, regress loss 0.0023, 0.0023, 0.0022, 0.0084
+
+Epoch 1364 (lr 0.01000)
+Train: loss 0.1243, classify loss 0.1098, regress loss 0.0021, 0.0024, 0.0025, 0.0075
+
+Epoch 1365 (lr 0.01000)
+Train: loss 0.1485, classify loss 0.1337, regress loss 0.0023, 0.0025, 0.0023, 0.0077
+
+Epoch 1366 (lr 0.01000)
+Train: loss 0.1441, classify loss 0.1291, regress loss 0.0023, 0.0025, 0.0022, 0.0079
+
+Epoch 1367 (lr 0.01000)
+Train: loss 0.1440, classify loss 0.1280, regress loss 0.0022, 0.0026, 0.0024, 0.0088
+
+Epoch 1368 (lr 0.01000)
+Train: loss 0.1501, classify loss 0.1326, regress loss 0.0027, 0.0023, 0.0026, 0.0099
+
+Epoch 1369 (lr 0.01000)
+Train: loss 0.1395, classify loss 0.1242, regress loss 0.0023, 0.0024, 0.0023, 0.0082
+
+Epoch 1370 (lr 0.01000)
+Train: loss 0.1385, classify loss 0.1233, regress loss 0.0025, 0.0024, 0.0024, 0.0079
+
+Epoch 1371 (lr 0.01000)
+Train: loss 0.1879, classify loss 0.1712, regress loss 0.0025, 0.0025, 0.0023, 0.0093
+
+Epoch 1372 (lr 0.01000)
+Train: loss 0.1315, classify loss 0.1150, regress loss 0.0024, 0.0026, 0.0022, 0.0094
+
+Epoch 1373 (lr 0.01000)
+Train: loss 0.1468, classify loss 0.1306, regress loss 0.0024, 0.0025, 0.0022, 0.0091
+
+Epoch 1374 (lr 0.01000)
+Train: loss 0.1299, classify loss 0.1147, regress loss 0.0025, 0.0023, 0.0025, 0.0078
+
+Epoch 1375 (lr 0.01000)
+Train: loss 0.1260, classify loss 0.1107, regress loss 0.0021, 0.0026, 0.0025, 0.0081
+
+Epoch 1376 (lr 0.01000)
+Train: loss 0.1554, classify loss 0.1395, regress loss 0.0025, 0.0023, 0.0022, 0.0089
+
+Epoch 1377 (lr 0.01000)
+Train: loss 0.1536, classify loss 0.1379, regress loss 0.0023, 0.0025, 0.0022, 0.0087
+
+Epoch 1378 (lr 0.01000)
+Train: loss 0.1352, classify loss 0.1196, regress loss 0.0022, 0.0029, 0.0023, 0.0082
+
+Epoch 1379 (lr 0.01000)
+Train: loss 0.1477, classify loss 0.1322, regress loss 0.0025, 0.0024, 0.0023, 0.0083
+
+Epoch 1380 (lr 0.01000)
+Train: loss 0.1439, classify loss 0.1283, regress loss 0.0025, 0.0025, 0.0024, 0.0082
+
+Epoch 1381 (lr 0.01000)
+Train: loss 0.1445, classify loss 0.1293, regress loss 0.0021, 0.0024, 0.0024, 0.0083
+
+Epoch 1382 (lr 0.01000)
+Train: loss 0.1338, classify loss 0.1182, regress loss 0.0023, 0.0026, 0.0023, 0.0084
+
+Epoch 1383 (lr 0.01000)
+Train: loss 0.1485, classify loss 0.1328, regress loss 0.0022, 0.0023, 0.0021, 0.0090
+
+Epoch 1384 (lr 0.01000)
+Train: loss 0.1438, classify loss 0.1282, regress loss 0.0022, 0.0027, 0.0022, 0.0085
+
+Epoch 1385 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1088, regress loss 0.0025, 0.0026, 0.0023, 0.0077
+
+Epoch 1386 (lr 0.01000)
+Train: loss 0.1542, classify loss 0.1371, regress loss 0.0027, 0.0024, 0.0024, 0.0096
+
+Epoch 1387 (lr 0.01000)
+Train: loss 0.1471, classify loss 0.1308, regress loss 0.0021, 0.0029, 0.0023, 0.0090
+
+Epoch 1388 (lr 0.01000)
+Train: loss 0.1379, classify loss 0.1223, regress loss 0.0022, 0.0029, 0.0023, 0.0082
+
+Epoch 1389 (lr 0.01000)
+Train: loss 0.1309, classify loss 0.1148, regress loss 0.0026, 0.0026, 0.0022, 0.0088
+
+Epoch 1390 (lr 0.01000)
+Train: loss 0.1429, classify loss 0.1285, regress loss 0.0024, 0.0024, 0.0022, 0.0076
+
+Epoch 1391 (lr 0.01000)
+Train: loss 0.1594, classify loss 0.1418, regress loss 0.0023, 0.0030, 0.0024, 0.0097
+
+Epoch 1392 (lr 0.01000)
+Train: loss 0.1480, classify loss 0.1318, regress loss 0.0025, 0.0026, 0.0025, 0.0087
+
+Epoch 1393 (lr 0.01000)
+Train: loss 0.1311, classify loss 0.1161, regress loss 0.0025, 0.0028, 0.0024, 0.0073
+
+Epoch 1394 (lr 0.01000)
+Train: loss 0.1378, classify loss 0.1222, regress loss 0.0026, 0.0026, 0.0022, 0.0083
+
+Epoch 1395 (lr 0.01000)
+Train: loss 0.1633, classify loss 0.1450, regress loss 0.0024, 0.0025, 0.0024, 0.0110
+
+Epoch 1396 (lr 0.01000)
+Train: loss 0.1356, classify loss 0.1198, regress loss 0.0024, 0.0025, 0.0023, 0.0085
+
+Epoch 1397 (lr 0.01000)
+Train: loss 0.1285, classify loss 0.1136, regress loss 0.0021, 0.0022, 0.0021, 0.0084
+
+Epoch 1398 (lr 0.01000)
+Train: loss 0.1320, classify loss 0.1163, regress loss 0.0024, 0.0024, 0.0023, 0.0085
+
+Epoch 1399 (lr 0.01000)
+Train: loss 0.1274, classify loss 0.1122, regress loss 0.0023, 0.0024, 0.0022, 0.0084
+
+Epoch 1400 (lr 0.01000)
+Train: loss 0.1291, classify loss 0.1137, regress loss 0.0024, 0.0026, 0.0023, 0.0081
+
+Epoch 1401 (lr 0.01000)
+Train: loss 0.1291, classify loss 0.1137, regress loss 0.0021, 0.0026, 0.0024, 0.0083
+
+Epoch 1402 (lr 0.01000)
+Train: loss 0.1382, classify loss 0.1230, regress loss 0.0025, 0.0025, 0.0024, 0.0077
+
+Epoch 1403 (lr 0.01000)
+Train: loss 0.1281, classify loss 0.1130, regress loss 0.0023, 0.0026, 0.0023, 0.0079
+
+Epoch 1404 (lr 0.01000)
+Train: loss 0.1225, classify loss 0.1081, regress loss 0.0022, 0.0024, 0.0023, 0.0076
+
+Epoch 1405 (lr 0.01000)
+Train: loss 0.1474, classify loss 0.1306, regress loss 0.0024, 0.0026, 0.0024, 0.0095
+
+Epoch 1406 (lr 0.01000)
+Train: loss 0.1377, classify loss 0.1220, regress loss 0.0023, 0.0027, 0.0021, 0.0086
+
+Epoch 1407 (lr 0.01000)
+Train: loss 0.1293, classify loss 0.1133, regress loss 0.0025, 0.0027, 0.0023, 0.0086
+
+Epoch 1408 (lr 0.01000)
+Train: loss 0.1410, classify loss 0.1258, regress loss 0.0024, 0.0022, 0.0022, 0.0084
+
+Epoch 1409 (lr 0.01000)
+Train: loss 0.1288, classify loss 0.1139, regress loss 0.0020, 0.0022, 0.0023, 0.0083
+
+Epoch 1410 (lr 0.01000)
+Train: loss 0.1368, classify loss 0.1222, regress loss 0.0023, 0.0026, 0.0023, 0.0074
+
+Epoch 1411 (lr 0.01000)
+Train: loss 0.1237, classify loss 0.1092, regress loss 0.0022, 0.0023, 0.0022, 0.0078
+
+Epoch 1412 (lr 0.01000)
+Train: loss 0.1214, classify loss 0.1062, regress loss 0.0021, 0.0022, 0.0024, 0.0084
+
+Epoch 1413 (lr 0.01000)
+Train: loss 0.1373, classify loss 0.1216, regress loss 0.0024, 0.0025, 0.0024, 0.0084
+
+Epoch 1414 (lr 0.01000)
+Train: loss 0.1348, classify loss 0.1198, regress loss 0.0022, 0.0025, 0.0022, 0.0081
+
+Epoch 1415 (lr 0.01000)
+Train: loss 0.1381, classify loss 0.1231, regress loss 0.0025, 0.0026, 0.0022, 0.0077
+
+Epoch 1416 (lr 0.01000)
+Train: loss 0.1482, classify loss 0.1332, regress loss 0.0022, 0.0022, 0.0023, 0.0084
+
+Epoch 1417 (lr 0.01000)
+Train: loss 0.1372, classify loss 0.1208, regress loss 0.0025, 0.0026, 0.0024, 0.0089
+
+Epoch 1418 (lr 0.01000)
+Train: loss 0.1287, classify loss 0.1132, regress loss 0.0025, 0.0025, 0.0022, 0.0083
+
+Epoch 1419 (lr 0.01000)
+Train: loss 0.1309, classify loss 0.1157, regress loss 0.0022, 0.0023, 0.0023, 0.0084
+
+Epoch 1420 (lr 0.01000)
+Train: loss 0.1426, classify loss 0.1262, regress loss 0.0024, 0.0025, 0.0025, 0.0090
+
+Epoch 1421 (lr 0.01000)
+Train: loss 0.1358, classify loss 0.1199, regress loss 0.0023, 0.0028, 0.0024, 0.0085
+
+Epoch 1422 (lr 0.01000)
+Train: loss 0.1615, classify loss 0.1449, regress loss 0.0024, 0.0028, 0.0026, 0.0088
+
+Epoch 1423 (lr 0.01000)
+Train: loss 0.1418, classify loss 0.1262, regress loss 0.0023, 0.0025, 0.0025, 0.0083
+
+Epoch 1424 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1192, regress loss 0.0023, 0.0026, 0.0022, 0.0081
+
+Epoch 1425 (lr 0.01000)
+Train: loss 0.1301, classify loss 0.1146, regress loss 0.0024, 0.0027, 0.0024, 0.0079
+
+Epoch 1426 (lr 0.01000)
+Train: loss 0.1444, classify loss 0.1277, regress loss 0.0023, 0.0027, 0.0024, 0.0094
+
+Epoch 1427 (lr 0.01000)
+Train: loss 0.1362, classify loss 0.1204, regress loss 0.0026, 0.0025, 0.0025, 0.0083
+
+Epoch 1428 (lr 0.01000)
+Train: loss 0.1347, classify loss 0.1190, regress loss 0.0025, 0.0027, 0.0024, 0.0081
+
+Epoch 1429 (lr 0.01000)
+Train: loss 0.1291, classify loss 0.1144, regress loss 0.0023, 0.0023, 0.0024, 0.0076
+
+Epoch 1430 (lr 0.01000)
+Train: loss 0.1389, classify loss 0.1237, regress loss 0.0024, 0.0027, 0.0024, 0.0078
+
+Epoch 1431 (lr 0.01000)
+Train: loss 0.1424, classify loss 0.1266, regress loss 0.0025, 0.0024, 0.0027, 0.0081
+
+Epoch 1432 (lr 0.01000)
+Train: loss 0.1292, classify loss 0.1145, regress loss 0.0024, 0.0025, 0.0021, 0.0077
+
+Epoch 1433 (lr 0.01000)
+Train: loss 0.1466, classify loss 0.1308, regress loss 0.0023, 0.0026, 0.0023, 0.0086
+
+Epoch 1434 (lr 0.01000)
+Train: loss 0.1315, classify loss 0.1170, regress loss 0.0023, 0.0025, 0.0023, 0.0074
+
+Epoch 1435 (lr 0.01000)
+Train: loss 0.1414, classify loss 0.1258, regress loss 0.0024, 0.0023, 0.0022, 0.0087
+
+Epoch 1436 (lr 0.01000)
+Train: loss 0.1322, classify loss 0.1167, regress loss 0.0022, 0.0024, 0.0023, 0.0085
+
+Epoch 1437 (lr 0.01000)
+Train: loss 0.1345, classify loss 0.1196, regress loss 0.0023, 0.0024, 0.0024, 0.0077
+
+Epoch 1438 (lr 0.01000)
+Train: loss 0.1250, classify loss 0.1093, regress loss 0.0025, 0.0026, 0.0025, 0.0081
+
+Epoch 1439 (lr 0.01000)
+Train: loss 0.1477, classify loss 0.1314, regress loss 0.0025, 0.0024, 0.0022, 0.0092
+
+Epoch 1440 (lr 0.01000)
+Train: loss 0.1376, classify loss 0.1212, regress loss 0.0023, 0.0024, 0.0025, 0.0093
+
+Epoch 1441 (lr 0.01000)
+Train: loss 0.1206, classify loss 0.1056, regress loss 0.0023, 0.0024, 0.0022, 0.0081
+
+Epoch 1442 (lr 0.01000)
+Train: loss 0.1357, classify loss 0.1203, regress loss 0.0021, 0.0021, 0.0021, 0.0091
+
+Epoch 1443 (lr 0.01000)
+Train: loss 0.1327, classify loss 0.1170, regress loss 0.0023, 0.0025, 0.0025, 0.0084
+
+Epoch 1444 (lr 0.01000)
+Train: loss 0.1325, classify loss 0.1175, regress loss 0.0024, 0.0025, 0.0021, 0.0079
+
+Epoch 1445 (lr 0.01000)
+Train: loss 0.1372, classify loss 0.1210, regress loss 0.0025, 0.0028, 0.0024, 0.0086
+
+Epoch 1446 (lr 0.01000)
+Train: loss 0.1289, classify loss 0.1121, regress loss 0.0024, 0.0026, 0.0023, 0.0094
+
+Epoch 1447 (lr 0.01000)
+Train: loss 0.1310, classify loss 0.1162, regress loss 0.0023, 0.0024, 0.0023, 0.0079
+
+Epoch 1448 (lr 0.01000)
+Train: loss 0.1299, classify loss 0.1147, regress loss 0.0023, 0.0026, 0.0023, 0.0081
+
+Epoch 1449 (lr 0.01000)
+Train: loss 0.1345, classify loss 0.1189, regress loss 0.0024, 0.0025, 0.0024, 0.0083
+
+Epoch 1450 (lr 0.01000)
+Train: loss 0.1257, classify loss 0.1105, regress loss 0.0021, 0.0024, 0.0024, 0.0082
+
+Epoch 1451 (lr 0.01000)
+Train: loss 0.1378, classify loss 0.1225, regress loss 0.0023, 0.0027, 0.0023, 0.0081
+
+Epoch 1452 (lr 0.01000)
+Train: loss 0.1331, classify loss 0.1174, regress loss 0.0023, 0.0025, 0.0023, 0.0087
+
+Epoch 1453 (lr 0.01000)
+Train: loss 0.1384, classify loss 0.1240, regress loss 0.0023, 0.0023, 0.0020, 0.0078
+
+Epoch 1454 (lr 0.01000)
+Train: loss 0.1228, classify loss 0.1083, regress loss 0.0022, 0.0021, 0.0023, 0.0080
+
+Epoch 1455 (lr 0.01000)
+Train: loss 0.1258, classify loss 0.1115, regress loss 0.0024, 0.0023, 0.0023, 0.0073
+
+Epoch 1456 (lr 0.01000)
+Train: loss 0.1421, classify loss 0.1265, regress loss 0.0021, 0.0024, 0.0023, 0.0088
+
+Epoch 1457 (lr 0.01000)
+Train: loss 0.1122, classify loss 0.0979, regress loss 0.0022, 0.0023, 0.0021, 0.0076
+
+Epoch 1458 (lr 0.01000)
+Train: loss 0.1238, classify loss 0.1088, regress loss 0.0025, 0.0024, 0.0022, 0.0079
+
+Epoch 1459 (lr 0.01000)
+Train: loss 0.1317, classify loss 0.1170, regress loss 0.0022, 0.0022, 0.0020, 0.0083
+
+Epoch 1460 (lr 0.01000)
+Train: loss 0.1255, classify loss 0.1110, regress loss 0.0023, 0.0023, 0.0022, 0.0077
+
+Epoch 1461 (lr 0.01000)
+Train: loss 0.1365, classify loss 0.1207, regress loss 0.0023, 0.0026, 0.0023, 0.0086
+
+Epoch 1462 (lr 0.01000)
+Train: loss 0.1254, classify loss 0.1101, regress loss 0.0023, 0.0026, 0.0022, 0.0082
+
+Epoch 1463 (lr 0.01000)
+Train: loss 0.1185, classify loss 0.1028, regress loss 0.0023, 0.0025, 0.0022, 0.0087
+
+Epoch 1464 (lr 0.01000)
+Train: loss 0.1247, classify loss 0.1100, regress loss 0.0024, 0.0024, 0.0021, 0.0077
+
+Epoch 1465 (lr 0.01000)
+Train: loss 0.1299, classify loss 0.1147, regress loss 0.0024, 0.0022, 0.0024, 0.0081
+
+Epoch 1466 (lr 0.01000)
+Train: loss 0.1290, classify loss 0.1139, regress loss 0.0026, 0.0026, 0.0023, 0.0077
+
+Epoch 1467 (lr 0.01000)
+Train: loss 0.1418, classify loss 0.1262, regress loss 0.0022, 0.0025, 0.0024, 0.0085
+
+Epoch 1468 (lr 0.01000)
+Train: loss 0.1170, classify loss 0.1030, regress loss 0.0022, 0.0023, 0.0022, 0.0073
+
+Epoch 1469 (lr 0.01000)
+Train: loss 0.1203, classify loss 0.1057, regress loss 0.0024, 0.0022, 0.0022, 0.0078
+
+Epoch 1470 (lr 0.01000)
+Train: loss 0.1227, classify loss 0.1085, regress loss 0.0022, 0.0024, 0.0024, 0.0072
+
+Epoch 1471 (lr 0.01000)
+Train: loss 0.1431, classify loss 0.1288, regress loss 0.0023, 0.0022, 0.0025, 0.0073
+
+Epoch 1472 (lr 0.01000)
+Train: loss 0.1310, classify loss 0.1163, regress loss 0.0022, 0.0025, 0.0024, 0.0076
+
+Epoch 1473 (lr 0.01000)
+Train: loss 0.1334, classify loss 0.1186, regress loss 0.0022, 0.0023, 0.0023, 0.0079
+
+Epoch 1474 (lr 0.01000)
+Train: loss 0.1261, classify loss 0.1109, regress loss 0.0022, 0.0024, 0.0023, 0.0083
+
+Epoch 1475 (lr 0.01000)
+Train: loss 0.1285, classify loss 0.1138, regress loss 0.0021, 0.0025, 0.0022, 0.0079
+
+Epoch 1476 (lr 0.01000)
+Train: loss 0.1331, classify loss 0.1183, regress loss 0.0024, 0.0022, 0.0022, 0.0080
+
+Epoch 1477 (lr 0.01000)
+Train: loss 0.1371, classify loss 0.1223, regress loss 0.0022, 0.0023, 0.0024, 0.0079
+
+Epoch 1478 (lr 0.01000)
+Train: loss 0.1311, classify loss 0.1156, regress loss 0.0022, 0.0027, 0.0022, 0.0084
+
+Epoch 1479 (lr 0.01000)
+Train: loss 0.1304, classify loss 0.1148, regress loss 0.0026, 0.0025, 0.0023, 0.0081
+
+Epoch 1480 (lr 0.01000)
+Train: loss 0.1277, classify loss 0.1124, regress loss 0.0022, 0.0025, 0.0023, 0.0082
+
+Epoch 1481 (lr 0.01000)
+Train: loss 0.1156, classify loss 0.1004, regress loss 0.0021, 0.0026, 0.0023, 0.0081
+
+Epoch 1482 (lr 0.01000)
+Train: loss 0.1379, classify loss 0.1226, regress loss 0.0023, 0.0024, 0.0023, 0.0084
+
+Epoch 1483 (lr 0.01000)
+Train: loss 0.1402, classify loss 0.1242, regress loss 0.0024, 0.0025, 0.0023, 0.0088
+
+Epoch 1484 (lr 0.01000)
+Train: loss 0.1303, classify loss 0.1155, regress loss 0.0022, 0.0023, 0.0022, 0.0082
+
+Epoch 1485 (lr 0.01000)
+Train: loss 0.1558, classify loss 0.1392, regress loss 0.0025, 0.0024, 0.0021, 0.0095
+
+Epoch 1486 (lr 0.01000)
+Train: loss 0.1225, classify loss 0.1069, regress loss 0.0024, 0.0024, 0.0025, 0.0083
+
+Epoch 1487 (lr 0.01000)
+Train: loss 0.1349, classify loss 0.1192, regress loss 0.0023, 0.0025, 0.0023, 0.0086
+
+Epoch 1488 (lr 0.01000)
+Train: loss 0.1595, classify loss 0.1419, regress loss 0.0023, 0.0022, 0.0022, 0.0110
+
+Epoch 1489 (lr 0.01000)
+Train: loss 0.1485, classify loss 0.1318, regress loss 0.0022, 0.0027, 0.0023, 0.0095
+
+Epoch 1490 (lr 0.01000)
+Train: loss 0.1377, classify loss 0.1215, regress loss 0.0025, 0.0024, 0.0024, 0.0089
+
+Epoch 1491 (lr 0.01000)
+Train: loss 0.1364, classify loss 0.1207, regress loss 0.0023, 0.0028, 0.0022, 0.0084
+
+Epoch 1492 (lr 0.01000)
+Train: loss 0.1314, classify loss 0.1157, regress loss 0.0024, 0.0024, 0.0021, 0.0089
+
+Epoch 1493 (lr 0.01000)
+Train: loss 0.1369, classify loss 0.1208, regress loss 0.0025, 0.0025, 0.0024, 0.0087
+
+Epoch 1494 (lr 0.01000)
+Train: loss 0.1401, classify loss 0.1251, regress loss 0.0022, 0.0026, 0.0023, 0.0080
+
+Epoch 1495 (lr 0.01000)
+Train: loss 0.1139, classify loss 0.0997, regress loss 0.0022, 0.0023, 0.0023, 0.0075
+
+Epoch 1496 (lr 0.01000)
+Train: loss 0.1684, classify loss 0.1500, regress loss 0.0023, 0.0028, 0.0024, 0.0110
+
+Epoch 1497 (lr 0.01000)
+Train: loss 0.1380, classify loss 0.1215, regress loss 0.0022, 0.0026, 0.0023, 0.0093
+
+Epoch 1498 (lr 0.01000)
+Train: loss 0.1452, classify loss 0.1297, regress loss 0.0023, 0.0024, 0.0025, 0.0084
+
+Epoch 1499 (lr 0.01000)
+Train: loss 0.1373, classify loss 0.1206, regress loss 0.0024, 0.0023, 0.0024, 0.0094
+
+Epoch 1500 (lr 0.01000)
+Train: loss 0.1214, classify loss 0.1062, regress loss 0.0021, 0.0022, 0.0025, 0.0084
+
+Epoch 1501 (lr 0.01000)
+Train: loss 0.1349, classify loss 0.1190, regress loss 0.0023, 0.0021, 0.0025, 0.0090
+
+Epoch 1502 (lr 0.01000)
+Train: loss 0.1305, classify loss 0.1145, regress loss 0.0023, 0.0023, 0.0024, 0.0089
+
+Epoch 1503 (lr 0.01000)
+Train: loss 0.1306, classify loss 0.1161, regress loss 0.0023, 0.0026, 0.0022, 0.0075
+
+Epoch 1504 (lr 0.01000)
+Train: loss 0.1271, classify loss 0.1127, regress loss 0.0023, 0.0024, 0.0023, 0.0075
+
+Epoch 1505 (lr 0.01000)
+Train: loss 0.1296, classify loss 0.1144, regress loss 0.0022, 0.0024, 0.0023, 0.0084
+
+Epoch 1506 (lr 0.01000)
+Train: loss 0.1362, classify loss 0.1208, regress loss 0.0022, 0.0022, 0.0025, 0.0086
+
+Epoch 1507 (lr 0.01000)
+Train: loss 0.1469, classify loss 0.1311, regress loss 0.0024, 0.0025, 0.0023, 0.0086
+
+Epoch 1508 (lr 0.01000)
+Train: loss 0.1298, classify loss 0.1132, regress loss 0.0024, 0.0027, 0.0021, 0.0094
+
+Epoch 1509 (lr 0.01000)
+Train: loss 0.1413, classify loss 0.1265, regress loss 0.0023, 0.0023, 0.0025, 0.0077
+
+Epoch 1510 (lr 0.01000)
+Train: loss 0.1287, classify loss 0.1141, regress loss 0.0023, 0.0024, 0.0025, 0.0075
+
+Epoch 1511 (lr 0.01000)
+Train: loss 0.1372, classify loss 0.1219, regress loss 0.0021, 0.0022, 0.0024, 0.0086
+
+Epoch 1512 (lr 0.01000)
+Train: loss 0.1433, classify loss 0.1276, regress loss 0.0027, 0.0022, 0.0021, 0.0086
+
+Epoch 1513 (lr 0.01000)
+Train: loss 0.1228, classify loss 0.1083, regress loss 0.0021, 0.0024, 0.0021, 0.0079
+
+Epoch 1514 (lr 0.01000)
+Train: loss 0.1318, classify loss 0.1171, regress loss 0.0021, 0.0024, 0.0022, 0.0081
+
+Epoch 1515 (lr 0.01000)
+Train: loss 0.1203, classify loss 0.1053, regress loss 0.0021, 0.0025, 0.0021, 0.0083
+
+Epoch 1516 (lr 0.01000)
+Train: loss 0.1244, classify loss 0.1107, regress loss 0.0023, 0.0021, 0.0022, 0.0070
+
+Epoch 1517 (lr 0.01000)
+Train: loss 0.1351, classify loss 0.1208, regress loss 0.0022, 0.0025, 0.0020, 0.0075
+
+Epoch 1518 (lr 0.01000)
+Train: loss 0.1098, classify loss 0.0955, regress loss 0.0020, 0.0025, 0.0023, 0.0075
+
+Epoch 1519 (lr 0.01000)
+Train: loss 0.1123, classify loss 0.0981, regress loss 0.0022, 0.0022, 0.0022, 0.0077
+
+Epoch 1520 (lr 0.01000)
+Train: loss 0.1241, classify loss 0.1095, regress loss 0.0026, 0.0022, 0.0024, 0.0075
+
+Epoch 1521 (lr 0.01000)
+Train: loss 0.1309, classify loss 0.1164, regress loss 0.0022, 0.0024, 0.0023, 0.0076
+
+Epoch 1522 (lr 0.01000)
+Train: loss 0.1383, classify loss 0.1231, regress loss 0.0024, 0.0025, 0.0023, 0.0079
+
+Epoch 1523 (lr 0.01000)
+Train: loss 0.1612, classify loss 0.1452, regress loss 0.0023, 0.0025, 0.0021, 0.0091
+
+Epoch 1524 (lr 0.01000)
+Train: loss 0.1509, classify loss 0.1348, regress loss 0.0024, 0.0024, 0.0024, 0.0090
+
+Epoch 1525 (lr 0.01000)
+Train: loss 0.1375, classify loss 0.1216, regress loss 0.0023, 0.0023, 0.0024, 0.0089
+
+Epoch 1526 (lr 0.01000)
+Train: loss 0.1331, classify loss 0.1183, regress loss 0.0022, 0.0024, 0.0020, 0.0082
+
+Epoch 1527 (lr 0.01000)
+Train: loss 0.1184, classify loss 0.1033, regress loss 0.0023, 0.0022, 0.0023, 0.0084
+
+Epoch 1528 (lr 0.01000)
+Train: loss 0.1302, classify loss 0.1152, regress loss 0.0021, 0.0024, 0.0024, 0.0081
+
+Epoch 1529 (lr 0.01000)
+Train: loss 0.1332, classify loss 0.1177, regress loss 0.0023, 0.0025, 0.0023, 0.0084
+
+Epoch 1530 (lr 0.01000)
+Train: loss 0.1395, classify loss 0.1244, regress loss 0.0022, 0.0023, 0.0022, 0.0083
+
+Epoch 1531 (lr 0.01000)
+Train: loss 0.1437, classify loss 0.1276, regress loss 0.0022, 0.0025, 0.0022, 0.0092
+
+Epoch 1532 (lr 0.01000)
+Train: loss 0.1517, classify loss 0.1361, regress loss 0.0023, 0.0027, 0.0023, 0.0083
+
+Epoch 1533 (lr 0.01000)
+Train: loss 0.1430, classify loss 0.1277, regress loss 0.0023, 0.0023, 0.0023, 0.0084
+
+Epoch 1534 (lr 0.01000)
+Train: loss 0.1409, classify loss 0.1266, regress loss 0.0024, 0.0023, 0.0021, 0.0075
+
+Epoch 1535 (lr 0.01000)
+Train: loss 0.1332, classify loss 0.1172, regress loss 0.0023, 0.0026, 0.0023, 0.0088
+
+Epoch 1536 (lr 0.01000)
+Train: loss 0.1386, classify loss 0.1235, regress loss 0.0019, 0.0025, 0.0025, 0.0083
+
+Epoch 1537 (lr 0.01000)
+Train: loss 0.1301, classify loss 0.1153, regress loss 0.0021, 0.0024, 0.0024, 0.0078
+
+Epoch 1538 (lr 0.01000)
+Train: loss 0.1185, classify loss 0.1037, regress loss 0.0022, 0.0024, 0.0021, 0.0081
+
+Epoch 1539 (lr 0.01000)
+Train: loss 0.1292, classify loss 0.1131, regress loss 0.0022, 0.0024, 0.0025, 0.0090
+
+Epoch 1540 (lr 0.01000)
+Train: loss 0.1195, classify loss 0.1038, regress loss 0.0021, 0.0025, 0.0022, 0.0089
+
+Epoch 1541 (lr 0.01000)
+Train: loss 0.1298, classify loss 0.1149, regress loss 0.0021, 0.0022, 0.0023, 0.0084
+
+Epoch 1542 (lr 0.01000)
+Train: loss 0.1379, classify loss 0.1222, regress loss 0.0023, 0.0025, 0.0023, 0.0086
+
+Epoch 1543 (lr 0.01000)
+Train: loss 0.1321, classify loss 0.1168, regress loss 0.0022, 0.0026, 0.0025, 0.0080
+
+Epoch 1544 (lr 0.01000)
+Train: loss 0.1284, classify loss 0.1133, regress loss 0.0023, 0.0025, 0.0024, 0.0080
+
+Epoch 1545 (lr 0.01000)
+Train: loss 0.1364, classify loss 0.1220, regress loss 0.0022, 0.0022, 0.0022, 0.0077
+
+Epoch 1546 (lr 0.01000)
+Train: loss 0.1320, classify loss 0.1168, regress loss 0.0023, 0.0022, 0.0024, 0.0083
+
+Epoch 1547 (lr 0.01000)
+Train: loss 0.1256, classify loss 0.1111, regress loss 0.0021, 0.0023, 0.0025, 0.0076
+
+Epoch 1548 (lr 0.01000)
+Train: loss 0.1307, classify loss 0.1159, regress loss 0.0021, 0.0022, 0.0023, 0.0082
+
+Epoch 1549 (lr 0.01000)
+Train: loss 0.1379, classify loss 0.1234, regress loss 0.0020, 0.0026, 0.0022, 0.0077
+
+Epoch 1550 (lr 0.01000)
+Train: loss 0.1183, classify loss 0.1030, regress loss 0.0021, 0.0025, 0.0020, 0.0087
+
+Epoch 1551 (lr 0.01000)
+Train: loss 0.1339, classify loss 0.1173, regress loss 0.0023, 0.0026, 0.0024, 0.0093
+
+Epoch 1552 (lr 0.01000)
+Train: loss 0.1355, classify loss 0.1195, regress loss 0.0023, 0.0023, 0.0022, 0.0092
+
+Epoch 1553 (lr 0.01000)
+Train: loss 0.1234, classify loss 0.1083, regress loss 0.0022, 0.0024, 0.0023, 0.0082
+
+Epoch 1554 (lr 0.01000)
+Train: loss 0.1277, classify loss 0.1125, regress loss 0.0022, 0.0025, 0.0021, 0.0084
+
+Epoch 1555 (lr 0.01000)
+Train: loss 0.1296, classify loss 0.1141, regress loss 0.0024, 0.0025, 0.0023, 0.0083
+
+Epoch 1556 (lr 0.01000)
+Train: loss 0.1435, classify loss 0.1277, regress loss 0.0025, 0.0026, 0.0022, 0.0086
+
+Epoch 1557 (lr 0.01000)
+Train: loss 0.1223, classify loss 0.1073, regress loss 0.0022, 0.0023, 0.0023, 0.0081
+
+Epoch 1558 (lr 0.01000)
+Train: loss 0.1278, classify loss 0.1122, regress loss 0.0022, 0.0025, 0.0020, 0.0088
+
+Epoch 1559 (lr 0.01000)
+Train: loss 0.1429, classify loss 0.1271, regress loss 0.0022, 0.0024, 0.0025, 0.0087
+
+Epoch 1560 (lr 0.01000)
+Train: loss 0.1243, classify loss 0.1096, regress loss 0.0023, 0.0023, 0.0022, 0.0080
+
+Epoch 1561 (lr 0.01000)
+Train: loss 0.1468, classify loss 0.1321, regress loss 0.0025, 0.0023, 0.0020, 0.0079
+
+Epoch 1562 (lr 0.01000)
+Train: loss 0.1102, classify loss 0.0953, regress loss 0.0024, 0.0022, 0.0019, 0.0083
+
+Epoch 1563 (lr 0.01000)
+Train: loss 0.1188, classify loss 0.1042, regress loss 0.0023, 0.0023, 0.0022, 0.0077
+
+Epoch 1564 (lr 0.01000)
+Train: loss 0.1329, classify loss 0.1177, regress loss 0.0023, 0.0025, 0.0024, 0.0080
+
+Epoch 1565 (lr 0.01000)
+Train: loss 0.1219, classify loss 0.1070, regress loss 0.0021, 0.0026, 0.0022, 0.0079
+
+Epoch 1566 (lr 0.01000)
+Train: loss 0.1169, classify loss 0.1024, regress loss 0.0021, 0.0020, 0.0019, 0.0084
+
+Epoch 1567 (lr 0.01000)
+Train: loss 0.1287, classify loss 0.1131, regress loss 0.0024, 0.0025, 0.0022, 0.0085
+
+Epoch 1568 (lr 0.01000)
+Train: loss 0.1490, classify loss 0.1328, regress loss 0.0023, 0.0025, 0.0020, 0.0095
+
+Epoch 1569 (lr 0.01000)
+Train: loss 0.1425, classify loss 0.1273, regress loss 0.0022, 0.0026, 0.0019, 0.0086
+
+Epoch 1570 (lr 0.01000)
+Train: loss 0.1135, classify loss 0.0989, regress loss 0.0023, 0.0025, 0.0019, 0.0079
+
+Epoch 1571 (lr 0.01000)
+Train: loss 0.1306, classify loss 0.1159, regress loss 0.0022, 0.0023, 0.0021, 0.0082
+
+Epoch 1572 (lr 0.01000)
+Train: loss 0.1417, classify loss 0.1261, regress loss 0.0023, 0.0025, 0.0023, 0.0086
+
+Epoch 1573 (lr 0.01000)
+Train: loss 0.1448, classify loss 0.1295, regress loss 0.0022, 0.0025, 0.0022, 0.0083
+
+Epoch 1574 (lr 0.01000)
+Train: loss 0.1778, classify loss 0.1600, regress loss 0.0024, 0.0026, 0.0022, 0.0106
+
+Epoch 1575 (lr 0.01000)
+Train: loss 0.1677, classify loss 0.1509, regress loss 0.0024, 0.0025, 0.0023, 0.0096
+
+Epoch 1576 (lr 0.01000)
+Train: loss 0.1429, classify loss 0.1262, regress loss 0.0023, 0.0026, 0.0024, 0.0093
+
+Epoch 1577 (lr 0.01000)
+Train: loss 0.1478, classify loss 0.1319, regress loss 0.0025, 0.0026, 0.0021, 0.0087
+
+Epoch 1578 (lr 0.01000)
+Train: loss 0.1761, classify loss 0.1588, regress loss 0.0024, 0.0025, 0.0024, 0.0100
+
+Epoch 1579 (lr 0.01000)
+Train: loss 0.1526, classify loss 0.1358, regress loss 0.0024, 0.0026, 0.0022, 0.0095
+
+Epoch 1580 (lr 0.01000)
+Train: loss 0.1486, classify loss 0.1329, regress loss 0.0023, 0.0024, 0.0025, 0.0086
+
+Epoch 1581 (lr 0.01000)
+Train: loss 0.1403, classify loss 0.1251, regress loss 0.0022, 0.0023, 0.0021, 0.0086
+
+Epoch 1582 (lr 0.01000)
+Train: loss 0.1193, classify loss 0.1038, regress loss 0.0023, 0.0023, 0.0023, 0.0087
+
+Epoch 1583 (lr 0.01000)
+Train: loss 0.1436, classify loss 0.1277, regress loss 0.0024, 0.0025, 0.0021, 0.0090
+
+Epoch 1584 (lr 0.01000)
+Train: loss 0.1238, classify loss 0.1087, regress loss 0.0023, 0.0025, 0.0021, 0.0082
+
+Epoch 1585 (lr 0.01000)
+Train: loss 0.1341, classify loss 0.1192, regress loss 0.0023, 0.0024, 0.0022, 0.0081
+
+Epoch 1586 (lr 0.01000)
+Train: loss 0.1361, classify loss 0.1207, regress loss 0.0024, 0.0025, 0.0024, 0.0080
+
+Epoch 1587 (lr 0.01000)
+Train: loss 0.1235, classify loss 0.1081, regress loss 0.0024, 0.0024, 0.0020, 0.0085
+
+Epoch 1588 (lr 0.01000)
+Train: loss 0.1279, classify loss 0.1130, regress loss 0.0023, 0.0023, 0.0023, 0.0080
+
+Epoch 1589 (lr 0.01000)
+Train: loss 0.1203, classify loss 0.1055, regress loss 0.0023, 0.0023, 0.0023, 0.0079
+
+Epoch 1590 (lr 0.01000)
+Train: loss 0.1312, classify loss 0.1161, regress loss 0.0023, 0.0024, 0.0022, 0.0082
+
+Epoch 1591 (lr 0.01000)
+Train: loss 0.1366, classify loss 0.1217, regress loss 0.0023, 0.0024, 0.0024, 0.0078
+
+Epoch 1592 (lr 0.01000)
+Train: loss 0.1167, classify loss 0.1025, regress loss 0.0022, 0.0023, 0.0022, 0.0076
+
+Epoch 1593 (lr 0.01000)
+Train: loss 0.1202, classify loss 0.1046, regress loss 0.0025, 0.0025, 0.0020, 0.0086
+
+Epoch 1594 (lr 0.01000)
+Train: loss 0.1381, classify loss 0.1224, regress loss 0.0025, 0.0025, 0.0024, 0.0082
+
+Epoch 1595 (lr 0.01000)
+Train: loss 0.1323, classify loss 0.1169, regress loss 0.0024, 0.0025, 0.0024, 0.0081
+
+Epoch 1596 (lr 0.01000)
+Train: loss 0.1341, classify loss 0.1186, regress loss 0.0023, 0.0024, 0.0023, 0.0085
+
+Epoch 1597 (lr 0.01000)
+Train: loss 0.1504, classify loss 0.1342, regress loss 0.0023, 0.0024, 0.0022, 0.0093
+
+Epoch 1598 (lr 0.01000)
+Train: loss 0.1347, classify loss 0.1196, regress loss 0.0023, 0.0023, 0.0021, 0.0083
+
+Epoch 1599 (lr 0.01000)
+Train: loss 0.1375, classify loss 0.1234, regress loss 0.0022, 0.0025, 0.0023, 0.0071
+
+Epoch 1600 (lr 0.01000)
+Train: loss 0.1342, classify loss 0.1195, regress loss 0.0021, 0.0023, 0.0024, 0.0079
+
+Epoch 1601 (lr 0.01000)
+Train: loss 0.1233, classify loss 0.1081, regress loss 0.0023, 0.0025, 0.0022, 0.0081
+
+Epoch 1602 (lr 0.01000)
+Train: loss 0.1247, classify loss 0.1098, regress loss 0.0024, 0.0024, 0.0023, 0.0077
+
+Epoch 1603 (lr 0.01000)
+Train: loss 0.1312, classify loss 0.1161, regress loss 0.0022, 0.0024, 0.0023, 0.0082
+
+Epoch 1604 (lr 0.01000)
+Train: loss 0.1297, classify loss 0.1140, regress loss 0.0022, 0.0028, 0.0023, 0.0085
+
+Epoch 1605 (lr 0.01000)
+Train: loss 0.1300, classify loss 0.1144, regress loss 0.0024, 0.0023, 0.0024, 0.0084
+
+Epoch 1606 (lr 0.01000)
+Train: loss 0.1353, classify loss 0.1204, regress loss 0.0023, 0.0024, 0.0022, 0.0080
+
+Epoch 1607 (lr 0.01000)
+Train: loss 0.1307, classify loss 0.1156, regress loss 0.0023, 0.0026, 0.0024, 0.0077
+
+Epoch 1608 (lr 0.01000)
+Train: loss 0.1314, classify loss 0.1168, regress loss 0.0024, 0.0023, 0.0023, 0.0077
+
+Epoch 1609 (lr 0.01000)
+Train: loss 0.1356, classify loss 0.1202, regress loss 0.0023, 0.0025, 0.0022, 0.0084
+
+Epoch 1610 (lr 0.01000)
+Train: loss 0.1367, classify loss 0.1220, regress loss 0.0022, 0.0023, 0.0024, 0.0078
+
+Epoch 1611 (lr 0.01000)
+Train: loss 0.1289, classify loss 0.1146, regress loss 0.0021, 0.0022, 0.0022, 0.0079
+
+Epoch 1612 (lr 0.01000)
+Train: loss 0.1196, classify loss 0.1045, regress loss 0.0021, 0.0024, 0.0023, 0.0084
+
+Epoch 1613 (lr 0.01000)
+Train: loss 0.1325, classify loss 0.1171, regress loss 0.0022, 0.0025, 0.0023, 0.0084
+
+Epoch 1614 (lr 0.01000)
+Train: loss 0.1314, classify loss 0.1168, regress loss 0.0023, 0.0024, 0.0022, 0.0076
+
+Epoch 1615 (lr 0.01000)
+Train: loss 0.1313, classify loss 0.1169, regress loss 0.0024, 0.0024, 0.0024, 0.0073
+
+Epoch 1616 (lr 0.01000)
+Train: loss 0.1192, classify loss 0.1036, regress loss 0.0025, 0.0024, 0.0022, 0.0086
+
+Epoch 1617 (lr 0.01000)
+Train: loss 0.1229, classify loss 0.1079, regress loss 0.0022, 0.0024, 0.0023, 0.0082
+
+Epoch 1618 (lr 0.01000)
+Train: loss 0.1390, classify loss 0.1231, regress loss 0.0026, 0.0027, 0.0024, 0.0082
+
+Epoch 1619 (lr 0.01000)
+Train: loss 0.1248, classify loss 0.1103, regress loss 0.0026, 0.0024, 0.0023, 0.0073
+
+Epoch 1620 (lr 0.01000)
+Train: loss 0.1218, classify loss 0.1064, regress loss 0.0020, 0.0025, 0.0023, 0.0087
+
+Epoch 1621 (lr 0.01000)
+Train: loss 0.1223, classify loss 0.1083, regress loss 0.0021, 0.0024, 0.0021, 0.0074
+
+Epoch 1622 (lr 0.01000)
+Train: loss 0.1246, classify loss 0.1111, regress loss 0.0023, 0.0022, 0.0022, 0.0069
+
+Epoch 1623 (lr 0.01000)
+Train: loss 0.1383, classify loss 0.1236, regress loss 0.0023, 0.0024, 0.0024, 0.0077
+
+Epoch 1624 (lr 0.01000)
+Train: loss 0.1184, classify loss 0.1037, regress loss 0.0022, 0.0026, 0.0024, 0.0075
+
+Epoch 1625 (lr 0.01000)
+Train: loss 0.1271, classify loss 0.1120, regress loss 0.0021, 0.0025, 0.0024, 0.0081
+
+Epoch 1626 (lr 0.01000)
+Train: loss 0.1392, classify loss 0.1231, regress loss 0.0020, 0.0027, 0.0025, 0.0089
+
+Epoch 1627 (lr 0.01000)
+Train: loss 0.1178, classify loss 0.1026, regress loss 0.0023, 0.0025, 0.0023, 0.0081
+
+Epoch 1628 (lr 0.01000)
+Train: loss 0.1286, classify loss 0.1144, regress loss 0.0023, 0.0024, 0.0021, 0.0074
+
+Epoch 1629 (lr 0.01000)
+Train: loss 0.1360, classify loss 0.1201, regress loss 0.0022, 0.0026, 0.0022, 0.0089
+
+Epoch 1630 (lr 0.01000)
+Train: loss 0.1283, classify loss 0.1135, regress loss 0.0023, 0.0024, 0.0022, 0.0079
+
+Epoch 1631 (lr 0.01000)
+Train: loss 0.1294, classify loss 0.1140, regress loss 0.0022, 0.0026, 0.0023, 0.0083
+
+Epoch 1632 (lr 0.01000)
+Train: loss 0.1190, classify loss 0.1049, regress loss 0.0023, 0.0022, 0.0023, 0.0073
+
+Epoch 1633 (lr 0.01000)
+Train: loss 0.1292, classify loss 0.1143, regress loss 0.0021, 0.0024, 0.0022, 0.0083
+
+Epoch 1634 (lr 0.01000)
+Train: loss 0.1269, classify loss 0.1124, regress loss 0.0024, 0.0022, 0.0023, 0.0077
+
+Epoch 1635 (lr 0.01000)
+Train: loss 0.1191, classify loss 0.1039, regress loss 0.0023, 0.0026, 0.0023, 0.0079
+
+Epoch 1636 (lr 0.01000)
+Train: loss 0.1287, classify loss 0.1137, regress loss 0.0023, 0.0025, 0.0021, 0.0080
+
+Epoch 1637 (lr 0.01000)
+Train: loss 0.1316, classify loss 0.1164, regress loss 0.0022, 0.0023, 0.0022, 0.0084
+
+Epoch 1638 (lr 0.01000)
+Train: loss 0.1313, classify loss 0.1169, regress loss 0.0021, 0.0025, 0.0022, 0.0076
+
+Epoch 1639 (lr 0.01000)
+Train: loss 0.1268, classify loss 0.1125, regress loss 0.0021, 0.0023, 0.0023, 0.0077
+
+Epoch 1640 (lr 0.01000)
+Train: loss 0.1318, classify loss 0.1175, regress loss 0.0022, 0.0022, 0.0021, 0.0078
+
+Epoch 1641 (lr 0.01000)
+Train: loss 0.1259, classify loss 0.1122, regress loss 0.0021, 0.0024, 0.0022, 0.0069
+
+Epoch 1642 (lr 0.01000)
+Train: loss 0.1136, classify loss 0.0996, regress loss 0.0022, 0.0022, 0.0021, 0.0075
+
+Epoch 1643 (lr 0.01000)
+Train: loss 0.1284, classify loss 0.1133, regress loss 0.0022, 0.0023, 0.0023, 0.0083
+
+Epoch 1644 (lr 0.01000)
+Train: loss 0.1155, classify loss 0.1015, regress loss 0.0022, 0.0023, 0.0021, 0.0074
+
+Epoch 1645 (lr 0.01000)
+Train: loss 0.1329, classify loss 0.1181, regress loss 0.0022, 0.0024, 0.0025, 0.0077
+
+Epoch 1646 (lr 0.01000)
+Train: loss 0.1199, classify loss 0.1062, regress loss 0.0020, 0.0023, 0.0021, 0.0072
+
+Epoch 1647 (lr 0.01000)
+Train: loss 0.1486, classify loss 0.1326, regress loss 0.0023, 0.0024, 0.0023, 0.0089
+
+Epoch 1648 (lr 0.01000)
+Train: loss 0.1445, classify loss 0.1300, regress loss 0.0024, 0.0023, 0.0022, 0.0078
+
+Epoch 1649 (lr 0.01000)
+Train: loss 0.1259, classify loss 0.1113, regress loss 0.0021, 0.0025, 0.0024, 0.0077
+
+Epoch 1650 (lr 0.01000)
+Train: loss 0.1248, classify loss 0.1098, regress loss 0.0022, 0.0025, 0.0021, 0.0082
+
+Epoch 1651 (lr 0.01000)
+Train: loss 0.1295, classify loss 0.1146, regress loss 0.0024, 0.0025, 0.0022, 0.0078
+
+Epoch 1652 (lr 0.01000)
+Train: loss 0.1333, classify loss 0.1195, regress loss 0.0023, 0.0024, 0.0022, 0.0069
+
+Epoch 1653 (lr 0.01000)
+Train: loss 0.1190, classify loss 0.1041, regress loss 0.0024, 0.0024, 0.0021, 0.0080
+
+Epoch 1654 (lr 0.01000)
+Train: loss 0.1267, classify loss 0.1122, regress loss 0.0023, 0.0023, 0.0023, 0.0075
+
+Epoch 1655 (lr 0.01000)
+Train: loss 0.1311, classify loss 0.1158, regress loss 0.0021, 0.0023, 0.0021, 0.0089
+
+Epoch 1656 (lr 0.01000)
+Train: loss 0.1636, classify loss 0.1470, regress loss 0.0023, 0.0023, 0.0022, 0.0098
+
+Epoch 1657 (lr 0.01000)
+Train: loss 0.1340, classify loss 0.1174, regress loss 0.0024, 0.0026, 0.0023, 0.0093
+
+Epoch 1658 (lr 0.01000)
+Train: loss 0.1316, classify loss 0.1163, regress loss 0.0023, 0.0024, 0.0021, 0.0085
+
+Epoch 1659 (lr 0.01000)
+Train: loss 0.1349, classify loss 0.1199, regress loss 0.0024, 0.0024, 0.0022, 0.0081
+
+Epoch 1660 (lr 0.01000)
+Train: loss 0.1360, classify loss 0.1215, regress loss 0.0023, 0.0023, 0.0024, 0.0076
+
+Epoch 1661 (lr 0.01000)
+Train: loss 0.1300, classify loss 0.1162, regress loss 0.0023, 0.0024, 0.0019, 0.0073
+
+Epoch 1662 (lr 0.01000)
+Train: loss 0.1247, classify loss 0.1109, regress loss 0.0022, 0.0022, 0.0021, 0.0074
+
+Epoch 1663 (lr 0.01000)
+Train: loss 0.1143, classify loss 0.0996, regress loss 0.0024, 0.0024, 0.0022, 0.0077
+
+Epoch 1664 (lr 0.01000)
+Train: loss 0.1299, classify loss 0.1143, regress loss 0.0022, 0.0025, 0.0024, 0.0085
+
+Epoch 1665 (lr 0.01000)
+Train: loss 0.1629, classify loss 0.1462, regress loss 0.0024, 0.0027, 0.0022, 0.0096
+
+Epoch 1666 (lr 0.01000)
+Train: loss 0.1325, classify loss 0.1181, regress loss 0.0021, 0.0024, 0.0021, 0.0079
+
+Epoch 1667 (lr 0.01000)
+Train: loss 0.1386, classify loss 0.1236, regress loss 0.0021, 0.0026, 0.0023, 0.0079
+
+Epoch 1668 (lr 0.01000)
+Train: loss 0.1269, classify loss 0.1117, regress loss 0.0022, 0.0025, 0.0022, 0.0083
+
+Epoch 1669 (lr 0.01000)
+Train: loss 0.1385, classify loss 0.1235, regress loss 0.0023, 0.0024, 0.0023, 0.0079
+
+Epoch 1670 (lr 0.01000)
+Train: loss 0.1204, classify loss 0.1063, regress loss 0.0023, 0.0023, 0.0019, 0.0076
+
+Epoch 1671 (lr 0.01000)
+Train: loss 0.1192, classify loss 0.1044, regress loss 0.0022, 0.0025, 0.0024, 0.0078
+
+Epoch 1672 (lr 0.01000)
+Train: loss 0.1292, classify loss 0.1124, regress loss 0.0021, 0.0026, 0.0023, 0.0097
+
+Epoch 1673 (lr 0.01000)
+Train: loss 0.1365, classify loss 0.1211, regress loss 0.0024, 0.0023, 0.0023, 0.0083
+
+Epoch 1674 (lr 0.01000)
+Train: loss 0.1415, classify loss 0.1266, regress loss 0.0025, 0.0024, 0.0023, 0.0077
+
+Epoch 1675 (lr 0.01000)
+Train: loss 0.1294, classify loss 0.1138, regress loss 0.0025, 0.0021, 0.0024, 0.0086
+
+Epoch 1676 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1092, regress loss 0.0020, 0.0025, 0.0021, 0.0081
+
+Epoch 1677 (lr 0.01000)
+Train: loss 0.1321, classify loss 0.1181, regress loss 0.0021, 0.0021, 0.0022, 0.0077
+
+Epoch 1678 (lr 0.01000)
+Train: loss 0.1350, classify loss 0.1203, regress loss 0.0022, 0.0025, 0.0024, 0.0076
+
+Epoch 1679 (lr 0.01000)
+Train: loss 0.1216, classify loss 0.1080, regress loss 0.0021, 0.0024, 0.0022, 0.0069
+
+Epoch 1680 (lr 0.01000)
+Train: loss 0.1360, classify loss 0.1210, regress loss 0.0021, 0.0025, 0.0024, 0.0080
+
+Epoch 1681 (lr 0.01000)
+Train: loss 0.1291, classify loss 0.1146, regress loss 0.0022, 0.0022, 0.0024, 0.0077
+
+Epoch 1682 (lr 0.01000)
+Train: loss 0.1343, classify loss 0.1194, regress loss 0.0023, 0.0025, 0.0022, 0.0078
+
+Epoch 1683 (lr 0.01000)
+Train: loss 0.1361, classify loss 0.1221, regress loss 0.0022, 0.0025, 0.0022, 0.0071
+
+Epoch 1684 (lr 0.01000)
+Train: loss 0.1357, classify loss 0.1208, regress loss 0.0022, 0.0026, 0.0023, 0.0078
+
+Epoch 1685 (lr 0.01000)
+Train: loss 0.1195, classify loss 0.1038, regress loss 0.0023, 0.0025, 0.0021, 0.0088
+
+Epoch 1686 (lr 0.01000)
+Train: loss 0.1195, classify loss 0.1041, regress loss 0.0021, 0.0025, 0.0022, 0.0085
+
+Epoch 1687 (lr 0.01000)
+Train: loss 0.1378, classify loss 0.1228, regress loss 0.0023, 0.0024, 0.0023, 0.0081
+
+Epoch 1688 (lr 0.01000)
+Train: loss 0.1295, classify loss 0.1156, regress loss 0.0021, 0.0025, 0.0023, 0.0070
+
+Epoch 1689 (lr 0.01000)
+Train: loss 0.1197, classify loss 0.1061, regress loss 0.0021, 0.0022, 0.0022, 0.0072
+
+Epoch 1690 (lr 0.01000)
+Train: loss 0.1331, classify loss 0.1171, regress loss 0.0023, 0.0024, 0.0023, 0.0090
+
+Epoch 1691 (lr 0.01000)
+Train: loss 0.1254, classify loss 0.1108, regress loss 0.0022, 0.0021, 0.0023, 0.0080
+
+Epoch 1692 (lr 0.01000)
+Train: loss 0.1231, classify loss 0.1088, regress loss 0.0022, 0.0023, 0.0022, 0.0076
+
+Epoch 1693 (lr 0.01000)
+Train: loss 0.1221, classify loss 0.1081, regress loss 0.0022, 0.0024, 0.0024, 0.0071
+
+Epoch 1694 (lr 0.01000)
+Train: loss 0.1468, classify loss 0.1310, regress loss 0.0022, 0.0024, 0.0022, 0.0090
+
+Epoch 1695 (lr 0.01000)
+Train: loss 0.1322, classify loss 0.1173, regress loss 0.0022, 0.0023, 0.0025, 0.0078
+
+Epoch 1696 (lr 0.01000)
+Train: loss 0.1302, classify loss 0.1157, regress loss 0.0022, 0.0023, 0.0024, 0.0077
+
+Epoch 1697 (lr 0.01000)
+Train: loss 0.1375, classify loss 0.1238, regress loss 0.0020, 0.0023, 0.0021, 0.0072
+
+Epoch 1698 (lr 0.01000)
+Train: loss 0.1320, classify loss 0.1178, regress loss 0.0023, 0.0025, 0.0022, 0.0073
+
+Epoch 1699 (lr 0.01000)
+Train: loss 0.1229, classify loss 0.1078, regress loss 0.0022, 0.0024, 0.0023, 0.0082
+
+Epoch 1700 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1096, regress loss 0.0024, 0.0024, 0.0021, 0.0074
+
+Epoch 1701 (lr 0.01000)
+Train: loss 0.1308, classify loss 0.1152, regress loss 0.0024, 0.0024, 0.0023, 0.0086
+
+Epoch 1702 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1211, regress loss 0.0022, 0.0023, 0.0022, 0.0076
+
+Epoch 1703 (lr 0.01000)
+Train: loss 0.1124, classify loss 0.0980, regress loss 0.0023, 0.0024, 0.0021, 0.0075
+
+Epoch 1704 (lr 0.01000)
+Train: loss 0.1397, classify loss 0.1242, regress loss 0.0022, 0.0025, 0.0025, 0.0083
+
+Epoch 1705 (lr 0.01000)
+Train: loss 0.1275, classify loss 0.1132, regress loss 0.0021, 0.0027, 0.0022, 0.0073
+
+Epoch 1706 (lr 0.01000)
+Train: loss 0.1220, classify loss 0.1084, regress loss 0.0020, 0.0023, 0.0023, 0.0069
+
+Epoch 1707 (lr 0.01000)
+Train: loss 0.1409, classify loss 0.1263, regress loss 0.0020, 0.0023, 0.0021, 0.0082
+
+Epoch 1708 (lr 0.01000)
+Train: loss 0.1261, classify loss 0.1117, regress loss 0.0023, 0.0024, 0.0021, 0.0076
+
+Epoch 1709 (lr 0.01000)
+Train: loss 0.1207, classify loss 0.1064, regress loss 0.0024, 0.0022, 0.0021, 0.0076
+
+Epoch 1710 (lr 0.01000)
+Train: loss 0.1270, classify loss 0.1125, regress loss 0.0021, 0.0023, 0.0024, 0.0077
+
+Epoch 1711 (lr 0.01000)
+Train: loss 0.1467, classify loss 0.1313, regress loss 0.0022, 0.0023, 0.0022, 0.0086
+
+Epoch 1712 (lr 0.01000)
+Train: loss 0.1164, classify loss 0.1015, regress loss 0.0022, 0.0024, 0.0023, 0.0080
+
+Epoch 1713 (lr 0.01000)
+Train: loss 0.1284, classify loss 0.1131, regress loss 0.0022, 0.0027, 0.0023, 0.0080
+
+Epoch 1714 (lr 0.01000)
+Train: loss 0.1348, classify loss 0.1205, regress loss 0.0024, 0.0025, 0.0021, 0.0072
+
+Epoch 1715 (lr 0.01000)
+Train: loss 0.1208, classify loss 0.1072, regress loss 0.0022, 0.0022, 0.0022, 0.0071
+
+Epoch 1716 (lr 0.01000)
+Train: loss 0.1463, classify loss 0.1303, regress loss 0.0022, 0.0022, 0.0025, 0.0092
+
+Epoch 1717 (lr 0.01000)
+Train: loss 0.1250, classify loss 0.1104, regress loss 0.0025, 0.0023, 0.0026, 0.0073
+
+Epoch 1718 (lr 0.01000)
+Train: loss 0.1479, classify loss 0.1310, regress loss 0.0022, 0.0024, 0.0021, 0.0101
+
+Epoch 1719 (lr 0.01000)
+Train: loss 0.1301, classify loss 0.1147, regress loss 0.0023, 0.0028, 0.0025, 0.0079
+
+Epoch 1720 (lr 0.01000)
+Train: loss 0.1283, classify loss 0.1133, regress loss 0.0021, 0.0026, 0.0022, 0.0081
+
+Epoch 1721 (lr 0.01000)
+Train: loss 0.1475, classify loss 0.1322, regress loss 0.0024, 0.0024, 0.0023, 0.0082
+
+Epoch 1722 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1197, regress loss 0.0022, 0.0024, 0.0023, 0.0079
+
+Epoch 1723 (lr 0.01000)
+Train: loss 0.1249, classify loss 0.1100, regress loss 0.0022, 0.0024, 0.0024, 0.0080
+
+Epoch 1724 (lr 0.01000)
+Train: loss 0.1505, classify loss 0.1347, regress loss 0.0022, 0.0024, 0.0020, 0.0093
+
+Epoch 1725 (lr 0.01000)
+Train: loss 0.1301, classify loss 0.1152, regress loss 0.0023, 0.0023, 0.0020, 0.0083
+
+Epoch 1726 (lr 0.01000)
+Train: loss 0.1224, classify loss 0.1075, regress loss 0.0021, 0.0022, 0.0022, 0.0084
+
+Epoch 1727 (lr 0.01000)
+Train: loss 0.1298, classify loss 0.1140, regress loss 0.0023, 0.0025, 0.0025, 0.0085
+
+Epoch 1728 (lr 0.01000)
+Train: loss 0.1375, classify loss 0.1222, regress loss 0.0022, 0.0024, 0.0023, 0.0084
+
+Epoch 1729 (lr 0.01000)
+Train: loss 0.1297, classify loss 0.1155, regress loss 0.0023, 0.0022, 0.0021, 0.0077
+
+Epoch 1730 (lr 0.01000)
+Train: loss 0.1364, classify loss 0.1215, regress loss 0.0021, 0.0024, 0.0022, 0.0082
+
+Epoch 1731 (lr 0.01000)
+Train: loss 0.1292, classify loss 0.1144, regress loss 0.0022, 0.0025, 0.0023, 0.0078
+
+Epoch 1732 (lr 0.01000)
+Train: loss 0.1217, classify loss 0.1065, regress loss 0.0022, 0.0023, 0.0021, 0.0086
+
+Epoch 1733 (lr 0.01000)
+Train: loss 0.1221, classify loss 0.1077, regress loss 0.0022, 0.0022, 0.0023, 0.0078
+
+Epoch 1734 (lr 0.01000)
+Train: loss 0.1490, classify loss 0.1342, regress loss 0.0022, 0.0025, 0.0024, 0.0076
+
+Epoch 1735 (lr 0.01000)
+Train: loss 0.1511, classify loss 0.1357, regress loss 0.0023, 0.0026, 0.0023, 0.0082
+
+Epoch 1736 (lr 0.01000)
+Train: loss 0.1180, classify loss 0.1035, regress loss 0.0019, 0.0024, 0.0020, 0.0082
+
+Epoch 1737 (lr 0.01000)
+Train: loss 0.1295, classify loss 0.1146, regress loss 0.0023, 0.0024, 0.0023, 0.0079
+
+Epoch 1738 (lr 0.01000)
+Train: loss 0.1325, classify loss 0.1180, regress loss 0.0023, 0.0024, 0.0022, 0.0075
+
+Epoch 1739 (lr 0.01000)
+Train: loss 0.1083, classify loss 0.0945, regress loss 0.0023, 0.0023, 0.0023, 0.0070
+
+Epoch 1740 (lr 0.01000)
+Train: loss 0.1154, classify loss 0.1015, regress loss 0.0021, 0.0023, 0.0022, 0.0074
+
+Epoch 1741 (lr 0.01000)
+Train: loss 0.1134, classify loss 0.0989, regress loss 0.0021, 0.0024, 0.0023, 0.0077
+
+Epoch 1742 (lr 0.01000)
+Train: loss 0.1505, classify loss 0.1347, regress loss 0.0023, 0.0025, 0.0022, 0.0089
+
+Epoch 1743 (lr 0.01000)
+Train: loss 0.1365, classify loss 0.1225, regress loss 0.0022, 0.0020, 0.0022, 0.0076
+
+Epoch 1744 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1201, regress loss 0.0022, 0.0023, 0.0023, 0.0074
+
+Epoch 1745 (lr 0.01000)
+Train: loss 0.1309, classify loss 0.1159, regress loss 0.0022, 0.0026, 0.0021, 0.0080
+
+Epoch 1746 (lr 0.01000)
+Train: loss 0.1318, classify loss 0.1178, regress loss 0.0022, 0.0022, 0.0021, 0.0075
+
+Epoch 1747 (lr 0.01000)
+Train: loss 0.1229, classify loss 0.1089, regress loss 0.0021, 0.0023, 0.0019, 0.0078
+
+Epoch 1748 (lr 0.01000)
+Train: loss 0.1263, classify loss 0.1115, regress loss 0.0022, 0.0023, 0.0023, 0.0079
+
+Epoch 1749 (lr 0.01000)
+Train: loss 0.1322, classify loss 0.1169, regress loss 0.0022, 0.0022, 0.0023, 0.0086
+
+Epoch 1750 (lr 0.01000)
+Train: loss 0.1271, classify loss 0.1122, regress loss 0.0022, 0.0024, 0.0023, 0.0080
+
+Epoch 1751 (lr 0.01000)
+Train: loss 0.1179, classify loss 0.1027, regress loss 0.0025, 0.0024, 0.0021, 0.0082
+
+Epoch 1752 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1095, regress loss 0.0023, 0.0021, 0.0024, 0.0076
+
+Epoch 1753 (lr 0.01000)
+Train: loss 0.1151, classify loss 0.1009, regress loss 0.0021, 0.0024, 0.0024, 0.0073
+
+Epoch 1754 (lr 0.01000)
+Train: loss 0.1426, classify loss 0.1267, regress loss 0.0024, 0.0025, 0.0023, 0.0086
+
+Epoch 1755 (lr 0.01000)
+Train: loss 0.1267, classify loss 0.1126, regress loss 0.0021, 0.0024, 0.0023, 0.0073
+
+Epoch 1756 (lr 0.01000)
+Train: loss 0.1339, classify loss 0.1189, regress loss 0.0021, 0.0023, 0.0021, 0.0084
+
+Epoch 1757 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1100, regress loss 0.0023, 0.0024, 0.0020, 0.0072
+
+Epoch 1758 (lr 0.01000)
+Train: loss 0.1210, classify loss 0.1069, regress loss 0.0021, 0.0024, 0.0021, 0.0076
+
+Epoch 1759 (lr 0.01000)
+Train: loss 0.1315, classify loss 0.1168, regress loss 0.0024, 0.0023, 0.0022, 0.0077
+
+Epoch 1760 (lr 0.01000)
+Train: loss 0.1291, classify loss 0.1141, regress loss 0.0023, 0.0022, 0.0023, 0.0082
+
+Epoch 1761 (lr 0.01000)
+Train: loss 0.1182, classify loss 0.1042, regress loss 0.0020, 0.0025, 0.0023, 0.0072
+
+Epoch 1762 (lr 0.01000)
+Train: loss 0.1225, classify loss 0.1077, regress loss 0.0020, 0.0024, 0.0023, 0.0082
+
+Epoch 1763 (lr 0.01000)
+Train: loss 0.1248, classify loss 0.1109, regress loss 0.0021, 0.0024, 0.0021, 0.0073
+
+Epoch 1764 (lr 0.01000)
+Train: loss 0.1330, classify loss 0.1184, regress loss 0.0023, 0.0024, 0.0021, 0.0077
+
+Epoch 1765 (lr 0.01000)
+Train: loss 0.1213, classify loss 0.1074, regress loss 0.0022, 0.0022, 0.0021, 0.0075
+
+Epoch 1766 (lr 0.01000)
+Train: loss 0.1274, classify loss 0.1130, regress loss 0.0021, 0.0024, 0.0022, 0.0077
+
+Epoch 1767 (lr 0.01000)
+Train: loss 0.1112, classify loss 0.0972, regress loss 0.0022, 0.0024, 0.0020, 0.0074
+
+Epoch 1768 (lr 0.01000)
+Train: loss 0.1224, classify loss 0.1076, regress loss 0.0022, 0.0024, 0.0022, 0.0080
+
+Epoch 1769 (lr 0.01000)
+Train: loss 0.1387, classify loss 0.1235, regress loss 0.0021, 0.0023, 0.0023, 0.0085
+
+Epoch 1770 (lr 0.01000)
+Train: loss 0.1330, classify loss 0.1182, regress loss 0.0023, 0.0023, 0.0023, 0.0080
+
+Epoch 1771 (lr 0.01000)
+Train: loss 0.1567, classify loss 0.1414, regress loss 0.0024, 0.0022, 0.0023, 0.0085
+
+Epoch 1772 (lr 0.01000)
+Train: loss 0.1264, classify loss 0.1120, regress loss 0.0021, 0.0026, 0.0024, 0.0074
+
+Epoch 1773 (lr 0.01000)
+Train: loss 0.1225, classify loss 0.1088, regress loss 0.0024, 0.0021, 0.0019, 0.0074
+
+Epoch 1774 (lr 0.01000)
+Train: loss 0.1132, classify loss 0.0985, regress loss 0.0028, 0.0025, 0.0021, 0.0073
+
+Epoch 1775 (lr 0.01000)
+Train: loss 0.1154, classify loss 0.1012, regress loss 0.0023, 0.0023, 0.0020, 0.0076
+
+Epoch 1776 (lr 0.01000)
+Train: loss 0.1230, classify loss 0.1086, regress loss 0.0022, 0.0023, 0.0020, 0.0078
+
+Epoch 1777 (lr 0.01000)
+Train: loss 0.1379, classify loss 0.1237, regress loss 0.0021, 0.0022, 0.0024, 0.0075
+
+Epoch 1778 (lr 0.01000)
+Train: loss 0.1365, classify loss 0.1219, regress loss 0.0021, 0.0024, 0.0021, 0.0079
+
+Epoch 1779 (lr 0.01000)
+Train: loss 0.1231, classify loss 0.1096, regress loss 0.0020, 0.0022, 0.0022, 0.0070
+
+Epoch 1780 (lr 0.01000)
+Train: loss 0.1243, classify loss 0.1106, regress loss 0.0023, 0.0021, 0.0019, 0.0073
+
+Epoch 1781 (lr 0.01000)
+Train: loss 0.1268, classify loss 0.1117, regress loss 0.0024, 0.0023, 0.0021, 0.0083
+
+Epoch 1782 (lr 0.01000)
+Train: loss 0.1274, classify loss 0.1120, regress loss 0.0023, 0.0025, 0.0023, 0.0083
+
+Epoch 1783 (lr 0.01000)
+Train: loss 0.1241, classify loss 0.1095, regress loss 0.0023, 0.0024, 0.0023, 0.0076
+
+Epoch 1784 (lr 0.01000)
+Train: loss 0.1445, classify loss 0.1298, regress loss 0.0024, 0.0022, 0.0025, 0.0076
+
+Epoch 1785 (lr 0.01000)
+Train: loss 0.1379, classify loss 0.1237, regress loss 0.0022, 0.0022, 0.0023, 0.0075
+
+Epoch 1786 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1099, regress loss 0.0021, 0.0023, 0.0021, 0.0074
+
+Epoch 1787 (lr 0.01000)
+Train: loss 0.1236, classify loss 0.1089, regress loss 0.0022, 0.0024, 0.0023, 0.0077
+
+Epoch 1788 (lr 0.01000)
+Train: loss 0.1135, classify loss 0.0995, regress loss 0.0022, 0.0022, 0.0019, 0.0076
+
+Epoch 1789 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1206, regress loss 0.0021, 0.0026, 0.0021, 0.0070
+
+Epoch 1790 (lr 0.01000)
+Train: loss 0.1213, classify loss 0.1068, regress loss 0.0021, 0.0021, 0.0026, 0.0076
+
+Epoch 1791 (lr 0.01000)
+Train: loss 0.1251, classify loss 0.1112, regress loss 0.0021, 0.0023, 0.0023, 0.0073
+
+Epoch 1792 (lr 0.01000)
+Train: loss 0.1257, classify loss 0.1113, regress loss 0.0020, 0.0023, 0.0019, 0.0081
+
+Epoch 1793 (lr 0.01000)
+Train: loss 0.1202, classify loss 0.1061, regress loss 0.0023, 0.0022, 0.0019, 0.0077
+
+Epoch 1794 (lr 0.01000)
+Train: loss 0.1258, classify loss 0.1115, regress loss 0.0020, 0.0025, 0.0024, 0.0074
+
+Epoch 1795 (lr 0.01000)
+Train: loss 0.1061, classify loss 0.0922, regress loss 0.0022, 0.0022, 0.0022, 0.0072
+
+Epoch 1796 (lr 0.01000)
+Train: loss 0.1367, classify loss 0.1214, regress loss 0.0022, 0.0025, 0.0024, 0.0081
+
+Epoch 1797 (lr 0.01000)
+Train: loss 0.1327, classify loss 0.1175, regress loss 0.0023, 0.0026, 0.0022, 0.0081
+
+Epoch 1798 (lr 0.01000)
+Train: loss 0.1431, classify loss 0.1265, regress loss 0.0023, 0.0028, 0.0026, 0.0090
+
+Epoch 1799 (lr 0.01000)
+Train: loss 0.1187, classify loss 0.1046, regress loss 0.0023, 0.0022, 0.0023, 0.0073
+
+Epoch 1800 (lr 0.01000)
+Train: loss 0.1309, classify loss 0.1168, regress loss 0.0022, 0.0024, 0.0022, 0.0074
+
+Epoch 1801 (lr 0.01000)
+Train: loss 0.1417, classify loss 0.1263, regress loss 0.0023, 0.0022, 0.0022, 0.0087
+
+Epoch 1802 (lr 0.01000)
+Train: loss 0.1154, classify loss 0.1011, regress loss 0.0022, 0.0023, 0.0021, 0.0077
+
+Epoch 1803 (lr 0.01000)
+Train: loss 0.1234, classify loss 0.1090, regress loss 0.0022, 0.0023, 0.0020, 0.0078
+
+Epoch 1804 (lr 0.01000)
+Train: loss 0.1163, classify loss 0.1023, regress loss 0.0022, 0.0023, 0.0022, 0.0073
+
+Epoch 1805 (lr 0.01000)
+Train: loss 0.1283, classify loss 0.1141, regress loss 0.0022, 0.0023, 0.0022, 0.0075
+
+Epoch 1806 (lr 0.01000)
+Train: loss 0.1173, classify loss 0.1030, regress loss 0.0023, 0.0024, 0.0022, 0.0074
+
+Epoch 1807 (lr 0.01000)
+Train: loss 0.1213, classify loss 0.1069, regress loss 0.0024, 0.0023, 0.0021, 0.0076
+
+Epoch 1808 (lr 0.01000)
+Train: loss 0.1164, classify loss 0.1021, regress loss 0.0021, 0.0023, 0.0021, 0.0077
+
+Epoch 1809 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1205, regress loss 0.0020, 0.0020, 0.0023, 0.0085
+
+Epoch 1810 (lr 0.01000)
+Train: loss 0.1195, classify loss 0.1053, regress loss 0.0020, 0.0023, 0.0019, 0.0079
+
+Epoch 1811 (lr 0.01000)
+Train: loss 0.1324, classify loss 0.1176, regress loss 0.0024, 0.0023, 0.0021, 0.0080
+
+Epoch 1812 (lr 0.01000)
+Train: loss 0.1372, classify loss 0.1222, regress loss 0.0021, 0.0024, 0.0021, 0.0084
+
+Epoch 1813 (lr 0.01000)
+Train: loss 0.1350, classify loss 0.1193, regress loss 0.0022, 0.0025, 0.0023, 0.0088
+
+Epoch 1814 (lr 0.01000)
+Train: loss 0.1418, classify loss 0.1264, regress loss 0.0027, 0.0026, 0.0022, 0.0080
+
+Epoch 1815 (lr 0.01000)
+Train: loss 0.1437, classify loss 0.1274, regress loss 0.0024, 0.0023, 0.0023, 0.0093
+
+Epoch 1816 (lr 0.01000)
+Train: loss 0.1294, classify loss 0.1146, regress loss 0.0022, 0.0022, 0.0022, 0.0082
+
+Epoch 1817 (lr 0.01000)
+Train: loss 0.1102, classify loss 0.0962, regress loss 0.0023, 0.0021, 0.0021, 0.0074
+
+Epoch 1818 (lr 0.01000)
+Train: loss 0.1366, classify loss 0.1217, regress loss 0.0023, 0.0024, 0.0021, 0.0081
+
+Epoch 1819 (lr 0.01000)
+Train: loss 0.1224, classify loss 0.1079, regress loss 0.0023, 0.0023, 0.0021, 0.0078
+
+Epoch 1820 (lr 0.01000)
+Train: loss 0.1255, classify loss 0.1117, regress loss 0.0021, 0.0024, 0.0022, 0.0071
+
+Epoch 1821 (lr 0.01000)
+Train: loss 0.1274, classify loss 0.1137, regress loss 0.0021, 0.0024, 0.0022, 0.0070
+
+Epoch 1822 (lr 0.01000)
+Train: loss 0.1274, classify loss 0.1137, regress loss 0.0023, 0.0023, 0.0020, 0.0072
+
+Epoch 1823 (lr 0.01000)
+Train: loss 0.1310, classify loss 0.1165, regress loss 0.0022, 0.0021, 0.0021, 0.0080
+
+Epoch 1824 (lr 0.01000)
+Train: loss 0.1339, classify loss 0.1184, regress loss 0.0023, 0.0024, 0.0024, 0.0084
+
+Epoch 1825 (lr 0.01000)
+Train: loss 0.1473, classify loss 0.1329, regress loss 0.0022, 0.0026, 0.0022, 0.0074
+
+Epoch 1826 (lr 0.01000)
+Train: loss 0.1222, classify loss 0.1076, regress loss 0.0023, 0.0026, 0.0023, 0.0075
+
+Epoch 1827 (lr 0.01000)
+Train: loss 0.1171, classify loss 0.1025, regress loss 0.0021, 0.0022, 0.0023, 0.0080
+
+Epoch 1828 (lr 0.01000)
+Train: loss 0.1295, classify loss 0.1151, regress loss 0.0022, 0.0022, 0.0024, 0.0075
+
+Epoch 1829 (lr 0.01000)
+Train: loss 0.1289, classify loss 0.1146, regress loss 0.0022, 0.0021, 0.0024, 0.0075
+
+Epoch 1830 (lr 0.01000)
+Train: loss 0.1233, classify loss 0.1094, regress loss 0.0022, 0.0023, 0.0024, 0.0071
+
+Epoch 1831 (lr 0.01000)
+Train: loss 0.1196, classify loss 0.1052, regress loss 0.0022, 0.0022, 0.0022, 0.0078
+
+Epoch 1832 (lr 0.01000)
+Train: loss 0.1352, classify loss 0.1216, regress loss 0.0021, 0.0023, 0.0023, 0.0068
+
+Epoch 1833 (lr 0.01000)
+Train: loss 0.1413, classify loss 0.1266, regress loss 0.0024, 0.0025, 0.0022, 0.0076
+
+Epoch 1834 (lr 0.01000)
+Train: loss 0.1322, classify loss 0.1180, regress loss 0.0021, 0.0026, 0.0023, 0.0072
+
+Epoch 1835 (lr 0.01000)
+Train: loss 0.1330, classify loss 0.1185, regress loss 0.0022, 0.0024, 0.0021, 0.0077
+
+Epoch 1836 (lr 0.01000)
+Train: loss 0.1352, classify loss 0.1196, regress loss 0.0025, 0.0023, 0.0022, 0.0085
+
+Epoch 1837 (lr 0.01000)
+Train: loss 0.1315, classify loss 0.1169, regress loss 0.0022, 0.0023, 0.0024, 0.0077
+
+Epoch 1838 (lr 0.01000)
+Train: loss 0.1383, classify loss 0.1233, regress loss 0.0021, 0.0024, 0.0022, 0.0084
+
+Epoch 1839 (lr 0.01000)
+Train: loss 0.1344, classify loss 0.1197, regress loss 0.0021, 0.0024, 0.0023, 0.0079
+
+Epoch 1840 (lr 0.01000)
+Train: loss 0.1317, classify loss 0.1169, regress loss 0.0022, 0.0023, 0.0022, 0.0082
+
+Epoch 1841 (lr 0.01000)
+Train: loss 0.1312, classify loss 0.1171, regress loss 0.0022, 0.0024, 0.0021, 0.0074
+
+Epoch 1842 (lr 0.01000)
+Train: loss 0.1207, classify loss 0.1071, regress loss 0.0024, 0.0023, 0.0023, 0.0066
+
+Epoch 1843 (lr 0.01000)
+Train: loss 0.1352, classify loss 0.1201, regress loss 0.0023, 0.0025, 0.0023, 0.0080
+
+Epoch 1844 (lr 0.01000)
+Train: loss 0.1275, classify loss 0.1135, regress loss 0.0022, 0.0023, 0.0023, 0.0072
+
+Epoch 1845 (lr 0.01000)
+Train: loss 0.1253, classify loss 0.1115, regress loss 0.0022, 0.0024, 0.0022, 0.0070
+
+Epoch 1846 (lr 0.01000)
+Train: loss 0.1267, classify loss 0.1123, regress loss 0.0022, 0.0023, 0.0021, 0.0079
+
+Epoch 1847 (lr 0.01000)
+Train: loss 0.1195, classify loss 0.1054, regress loss 0.0021, 0.0024, 0.0022, 0.0074
+
+Epoch 1848 (lr 0.01000)
+Train: loss 0.1156, classify loss 0.1018, regress loss 0.0023, 0.0025, 0.0023, 0.0067
+
+Epoch 1849 (lr 0.01000)
+Train: loss 0.1172, classify loss 0.1027, regress loss 0.0022, 0.0024, 0.0022, 0.0076
+
+Epoch 1850 (lr 0.01000)
+Train: loss 0.1246, classify loss 0.1108, regress loss 0.0022, 0.0025, 0.0024, 0.0068
+
+Epoch 1851 (lr 0.01000)
+Train: loss 0.1133, classify loss 0.0994, regress loss 0.0020, 0.0023, 0.0020, 0.0075
+
+Epoch 1852 (lr 0.01000)
+Train: loss 0.1368, classify loss 0.1228, regress loss 0.0022, 0.0022, 0.0020, 0.0077
+
+Epoch 1853 (lr 0.01000)
+Train: loss 0.1086, classify loss 0.0951, regress loss 0.0020, 0.0023, 0.0023, 0.0069
+
+Epoch 1854 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1098, regress loss 0.0021, 0.0023, 0.0023, 0.0074
+
+Epoch 1855 (lr 0.01000)
+Train: loss 0.1250, classify loss 0.1105, regress loss 0.0024, 0.0022, 0.0021, 0.0078
+
+Epoch 1856 (lr 0.01000)
+Train: loss 0.1286, classify loss 0.1151, regress loss 0.0021, 0.0022, 0.0023, 0.0068
+
+Epoch 1857 (lr 0.01000)
+Train: loss 0.1292, classify loss 0.1156, regress loss 0.0022, 0.0023, 0.0022, 0.0070
+
+Epoch 1858 (lr 0.01000)
+Train: loss 0.1311, classify loss 0.1174, regress loss 0.0022, 0.0024, 0.0022, 0.0069
+
+Epoch 1859 (lr 0.01000)
+Train: loss 0.1312, classify loss 0.1177, regress loss 0.0021, 0.0023, 0.0021, 0.0069
+
+Epoch 1860 (lr 0.01000)
+Train: loss 0.1213, classify loss 0.1077, regress loss 0.0020, 0.0022, 0.0022, 0.0071
+
+Epoch 1861 (lr 0.01000)
+Train: loss 0.1390, classify loss 0.1245, regress loss 0.0020, 0.0023, 0.0021, 0.0080
+
+Epoch 1862 (lr 0.01000)
+Train: loss 0.1289, classify loss 0.1134, regress loss 0.0022, 0.0026, 0.0021, 0.0088
+
+Epoch 1863 (lr 0.01000)
+Train: loss 0.1249, classify loss 0.1106, regress loss 0.0023, 0.0021, 0.0021, 0.0078
+
+Epoch 1864 (lr 0.01000)
+Train: loss 0.1215, classify loss 0.1066, regress loss 0.0024, 0.0023, 0.0021, 0.0081
+
+Epoch 1865 (lr 0.01000)
+Train: loss 0.1302, classify loss 0.1158, regress loss 0.0022, 0.0026, 0.0023, 0.0073
+
+Epoch 1866 (lr 0.01000)
+Train: loss 0.1230, classify loss 0.1094, regress loss 0.0020, 0.0022, 0.0022, 0.0072
+
+Epoch 1867 (lr 0.01000)
+Train: loss 0.1170, classify loss 0.1026, regress loss 0.0022, 0.0023, 0.0022, 0.0077
+
+Epoch 1868 (lr 0.01000)
+Train: loss 0.1279, classify loss 0.1132, regress loss 0.0022, 0.0024, 0.0022, 0.0079
+
+Epoch 1869 (lr 0.01000)
+Train: loss 0.1315, classify loss 0.1175, regress loss 0.0021, 0.0023, 0.0021, 0.0076
+
+Epoch 1870 (lr 0.01000)
+Train: loss 0.1266, classify loss 0.1119, regress loss 0.0022, 0.0024, 0.0022, 0.0080
+
+Epoch 1871 (lr 0.01000)
+Train: loss 0.1303, classify loss 0.1158, regress loss 0.0023, 0.0025, 0.0021, 0.0077
+
+Epoch 1872 (lr 0.01000)
+Train: loss 0.1328, classify loss 0.1179, regress loss 0.0022, 0.0024, 0.0023, 0.0080
+
+Epoch 1873 (lr 0.01000)
+Train: loss 0.1199, classify loss 0.1063, regress loss 0.0021, 0.0023, 0.0020, 0.0072
+
+Epoch 1874 (lr 0.01000)
+Train: loss 0.1331, classify loss 0.1188, regress loss 0.0021, 0.0024, 0.0024, 0.0074
+
+Epoch 1875 (lr 0.01000)
+Train: loss 0.1410, classify loss 0.1260, regress loss 0.0024, 0.0023, 0.0021, 0.0083
+
+Epoch 1876 (lr 0.01000)
+Train: loss 0.1188, classify loss 0.1053, regress loss 0.0021, 0.0025, 0.0020, 0.0068
+
+Epoch 1877 (lr 0.01000)
+Train: loss 0.1357, classify loss 0.1207, regress loss 0.0024, 0.0022, 0.0020, 0.0084
+
+Epoch 1878 (lr 0.01000)
+Train: loss 0.1134, classify loss 0.1002, regress loss 0.0020, 0.0022, 0.0020, 0.0071
+
+Epoch 1879 (lr 0.01000)
+Train: loss 0.1121, classify loss 0.0979, regress loss 0.0020, 0.0023, 0.0020, 0.0079
+
+Epoch 1880 (lr 0.01000)
+Train: loss 0.1159, classify loss 0.1008, regress loss 0.0022, 0.0023, 0.0022, 0.0085
+
+Epoch 1881 (lr 0.01000)
+Train: loss 0.1202, classify loss 0.1060, regress loss 0.0021, 0.0023, 0.0021, 0.0078
+
+Epoch 1882 (lr 0.01000)
+Train: loss 0.1199, classify loss 0.1057, regress loss 0.0021, 0.0024, 0.0020, 0.0078
+
+Epoch 1883 (lr 0.01000)
+Train: loss 0.1362, classify loss 0.1215, regress loss 0.0022, 0.0022, 0.0023, 0.0079
+
+Epoch 1884 (lr 0.01000)
+Train: loss 0.1258, classify loss 0.1113, regress loss 0.0021, 0.0022, 0.0021, 0.0080
+
+Epoch 1885 (lr 0.01000)
+Train: loss 0.1264, classify loss 0.1128, regress loss 0.0021, 0.0022, 0.0021, 0.0073
+
+Epoch 1886 (lr 0.01000)
+Train: loss 0.1430, classify loss 0.1286, regress loss 0.0022, 0.0021, 0.0020, 0.0080
+
+Epoch 1887 (lr 0.01000)
+Train: loss 0.1341, classify loss 0.1192, regress loss 0.0020, 0.0021, 0.0025, 0.0083
+
+Epoch 1888 (lr 0.01000)
+Train: loss 0.1328, classify loss 0.1181, regress loss 0.0023, 0.0025, 0.0024, 0.0075
+
+Epoch 1889 (lr 0.01000)
+Train: loss 0.1331, classify loss 0.1197, regress loss 0.0022, 0.0022, 0.0023, 0.0067
+
+Epoch 1890 (lr 0.01000)
+Train: loss 0.1279, classify loss 0.1139, regress loss 0.0022, 0.0022, 0.0022, 0.0074
+
+Epoch 1891 (lr 0.01000)
+Train: loss 0.1506, classify loss 0.1359, regress loss 0.0024, 0.0024, 0.0020, 0.0079
+
+Epoch 1892 (lr 0.01000)
+Train: loss 0.1313, classify loss 0.1167, regress loss 0.0020, 0.0024, 0.0022, 0.0080
+
+Epoch 1893 (lr 0.01000)
+Train: loss 0.1127, classify loss 0.0985, regress loss 0.0021, 0.0023, 0.0021, 0.0077
+
+Epoch 1894 (lr 0.01000)
+Train: loss 0.1159, classify loss 0.1023, regress loss 0.0024, 0.0022, 0.0020, 0.0070
+
+Epoch 1895 (lr 0.01000)
+Train: loss 0.1289, classify loss 0.1154, regress loss 0.0022, 0.0023, 0.0021, 0.0069
+
+Epoch 1896 (lr 0.01000)
+Train: loss 0.1280, classify loss 0.1144, regress loss 0.0022, 0.0021, 0.0021, 0.0073
+
+Epoch 1897 (lr 0.01000)
+Train: loss 0.1248, classify loss 0.1107, regress loss 0.0021, 0.0023, 0.0023, 0.0075
+
+Epoch 1898 (lr 0.01000)
+Train: loss 0.1143, classify loss 0.1002, regress loss 0.0021, 0.0021, 0.0019, 0.0080
+
+Epoch 1899 (lr 0.01000)
+Train: loss 0.1438, classify loss 0.1285, regress loss 0.0022, 0.0023, 0.0020, 0.0088
+
+Epoch 1900 (lr 0.01000)
+Train: loss 0.1296, classify loss 0.1144, regress loss 0.0021, 0.0025, 0.0023, 0.0082
+
+Epoch 1901 (lr 0.01000)
+Train: loss 0.1223, classify loss 0.1084, regress loss 0.0020, 0.0023, 0.0024, 0.0072
+
+Epoch 1902 (lr 0.01000)
+Train: loss 0.1249, classify loss 0.1109, regress loss 0.0020, 0.0024, 0.0024, 0.0072
+
+Epoch 1903 (lr 0.01000)
+Train: loss 0.1327, classify loss 0.1179, regress loss 0.0020, 0.0022, 0.0022, 0.0083
+
+Epoch 1904 (lr 0.01000)
+Train: loss 0.1261, classify loss 0.1118, regress loss 0.0021, 0.0025, 0.0024, 0.0073
+
+Epoch 1905 (lr 0.01000)
+Train: loss 0.1248, classify loss 0.1115, regress loss 0.0020, 0.0022, 0.0020, 0.0070
+
+Epoch 1906 (lr 0.01000)
+Train: loss 0.1279, classify loss 0.1137, regress loss 0.0023, 0.0022, 0.0022, 0.0075
+
+Epoch 1907 (lr 0.01000)
+Train: loss 0.1153, classify loss 0.1009, regress loss 0.0020, 0.0023, 0.0022, 0.0079
+
+Epoch 1908 (lr 0.01000)
+Train: loss 0.1276, classify loss 0.1135, regress loss 0.0023, 0.0022, 0.0021, 0.0076
+
+Epoch 1909 (lr 0.01000)
+Train: loss 0.1465, classify loss 0.1298, regress loss 0.0023, 0.0025, 0.0022, 0.0098
+
+Epoch 1910 (lr 0.01000)
+Train: loss 0.1217, classify loss 0.1068, regress loss 0.0020, 0.0022, 0.0023, 0.0084
+
+Epoch 1911 (lr 0.01000)
+Train: loss 0.1303, classify loss 0.1155, regress loss 0.0023, 0.0024, 0.0022, 0.0080
+
+Epoch 1912 (lr 0.01000)
+Train: loss 0.1155, classify loss 0.1010, regress loss 0.0022, 0.0024, 0.0023, 0.0075
+
+Epoch 1913 (lr 0.01000)
+Train: loss 0.1277, classify loss 0.1123, regress loss 0.0022, 0.0024, 0.0024, 0.0083
+
+Epoch 1914 (lr 0.01000)
+Train: loss 0.1210, classify loss 0.1073, regress loss 0.0021, 0.0022, 0.0024, 0.0070
+
+Epoch 1915 (lr 0.01000)
+Train: loss 0.1195, classify loss 0.1044, regress loss 0.0022, 0.0023, 0.0023, 0.0083
+
+Epoch 1916 (lr 0.01000)
+Train: loss 0.1164, classify loss 0.1022, regress loss 0.0021, 0.0024, 0.0022, 0.0075
+
+Epoch 1917 (lr 0.01000)
+Train: loss 0.1302, classify loss 0.1151, regress loss 0.0025, 0.0023, 0.0023, 0.0080
+
+Epoch 1918 (lr 0.01000)
+Train: loss 0.1242, classify loss 0.1103, regress loss 0.0024, 0.0022, 0.0022, 0.0071
+
+Epoch 1919 (lr 0.01000)
+Train: loss 0.1174, classify loss 0.1032, regress loss 0.0022, 0.0021, 0.0022, 0.0077
+
+Epoch 1920 (lr 0.01000)
+Train: loss 0.1388, classify loss 0.1243, regress loss 0.0023, 0.0022, 0.0022, 0.0077
+
+Epoch 1921 (lr 0.01000)
+Train: loss 0.1288, classify loss 0.1153, regress loss 0.0022, 0.0021, 0.0022, 0.0070
+
+Epoch 1922 (lr 0.01000)
+Train: loss 0.1277, classify loss 0.1133, regress loss 0.0021, 0.0023, 0.0024, 0.0076
+
+Epoch 1923 (lr 0.01000)
+Train: loss 0.1127, classify loss 0.0981, regress loss 0.0021, 0.0021, 0.0023, 0.0081
+
+Epoch 1924 (lr 0.01000)
+Train: loss 0.1251, classify loss 0.1117, regress loss 0.0020, 0.0023, 0.0021, 0.0071
+
+Epoch 1925 (lr 0.01000)
+Train: loss 0.1212, classify loss 0.1066, regress loss 0.0021, 0.0024, 0.0022, 0.0079
+
+Epoch 1926 (lr 0.01000)
+Train: loss 0.1089, classify loss 0.0948, regress loss 0.0019, 0.0022, 0.0019, 0.0081
+
+Epoch 1927 (lr 0.01000)
+Train: loss 0.1193, classify loss 0.1048, regress loss 0.0022, 0.0020, 0.0023, 0.0080
+
+Epoch 1928 (lr 0.01000)
+Train: loss 0.1196, classify loss 0.1057, regress loss 0.0023, 0.0022, 0.0019, 0.0075
+
+Epoch 1929 (lr 0.01000)
+Train: loss 0.1066, classify loss 0.0926, regress loss 0.0021, 0.0024, 0.0021, 0.0074
+
+Epoch 1930 (lr 0.01000)
+Train: loss 0.1294, classify loss 0.1151, regress loss 0.0021, 0.0023, 0.0020, 0.0080
+
+Epoch 1931 (lr 0.01000)
+Train: loss 0.1226, classify loss 0.1090, regress loss 0.0023, 0.0023, 0.0021, 0.0069
+
+Epoch 1932 (lr 0.01000)
+Train: loss 0.1503, classify loss 0.1346, regress loss 0.0023, 0.0021, 0.0023, 0.0090
+
+Epoch 1933 (lr 0.01000)
+Train: loss 0.1388, classify loss 0.1235, regress loss 0.0024, 0.0023, 0.0022, 0.0083
+
+Epoch 1934 (lr 0.01000)
+Train: loss 0.1435, classify loss 0.1285, regress loss 0.0025, 0.0023, 0.0024, 0.0078
+
+Epoch 1935 (lr 0.01000)
+Train: loss 0.1274, classify loss 0.1128, regress loss 0.0023, 0.0023, 0.0021, 0.0079
+
+Epoch 1936 (lr 0.01000)
+Train: loss 0.1248, classify loss 0.1103, regress loss 0.0022, 0.0023, 0.0022, 0.0079
+
+Epoch 1937 (lr 0.01000)
+Train: loss 0.1319, classify loss 0.1172, regress loss 0.0024, 0.0024, 0.0022, 0.0077
+
+Epoch 1938 (lr 0.01000)
+Train: loss 0.1542, classify loss 0.1394, regress loss 0.0021, 0.0023, 0.0022, 0.0082
+
+Epoch 1939 (lr 0.01000)
+Train: loss 0.1225, classify loss 0.1073, regress loss 0.0019, 0.0024, 0.0022, 0.0087
+
+Epoch 1940 (lr 0.01000)
+Train: loss 0.1199, classify loss 0.1053, regress loss 0.0021, 0.0024, 0.0022, 0.0079
+
+Epoch 1941 (lr 0.01000)
+Train: loss 0.1290, classify loss 0.1134, regress loss 0.0023, 0.0026, 0.0023, 0.0085
+
+Epoch 1942 (lr 0.01000)
+Train: loss 0.1220, classify loss 0.1075, regress loss 0.0023, 0.0023, 0.0021, 0.0078
+
+Epoch 1943 (lr 0.01000)
+Train: loss 0.1305, classify loss 0.1159, regress loss 0.0021, 0.0025, 0.0022, 0.0079
+
+Epoch 1944 (lr 0.01000)
+Train: loss 0.1214, classify loss 0.1078, regress loss 0.0020, 0.0023, 0.0024, 0.0069
+
+Epoch 1945 (lr 0.01000)
+Train: loss 0.1240, classify loss 0.1096, regress loss 0.0024, 0.0024, 0.0022, 0.0073
+
+Epoch 1946 (lr 0.01000)
+Train: loss 0.1105, classify loss 0.0968, regress loss 0.0024, 0.0023, 0.0021, 0.0069
+
+Epoch 1947 (lr 0.01000)
+Train: loss 0.1152, classify loss 0.1014, regress loss 0.0024, 0.0021, 0.0020, 0.0073
+
+Epoch 1948 (lr 0.01000)
+Train: loss 0.1253, classify loss 0.1107, regress loss 0.0023, 0.0022, 0.0021, 0.0080
+
+Epoch 1949 (lr 0.01000)
+Train: loss 0.1229, classify loss 0.1093, regress loss 0.0022, 0.0021, 0.0020, 0.0073
+
+Epoch 1950 (lr 0.01000)
+Train: loss 0.1161, classify loss 0.1023, regress loss 0.0020, 0.0025, 0.0020, 0.0072
+
+Epoch 1951 (lr 0.01000)
+Train: loss 0.1076, classify loss 0.0947, regress loss 0.0021, 0.0020, 0.0020, 0.0067
+
+Epoch 1952 (lr 0.01000)
+Train: loss 0.1308, classify loss 0.1156, regress loss 0.0023, 0.0024, 0.0021, 0.0083
+
+Epoch 1953 (lr 0.01000)
+Train: loss 0.1264, classify loss 0.1125, regress loss 0.0021, 0.0024, 0.0021, 0.0074
+
+Epoch 1954 (lr 0.01000)
+Train: loss 0.1126, classify loss 0.0983, regress loss 0.0021, 0.0023, 0.0021, 0.0077
+
+Epoch 1955 (lr 0.01000)
+Train: loss 0.1148, classify loss 0.1010, regress loss 0.0023, 0.0023, 0.0020, 0.0072
+
+Epoch 1956 (lr 0.01000)
+Train: loss 0.1276, classify loss 0.1133, regress loss 0.0021, 0.0022, 0.0022, 0.0078
+
+Epoch 1957 (lr 0.01000)
+Train: loss 0.1209, classify loss 0.1071, regress loss 0.0023, 0.0024, 0.0023, 0.0068
+
+Epoch 1958 (lr 0.01000)
+Train: loss 0.1309, classify loss 0.1166, regress loss 0.0022, 0.0022, 0.0023, 0.0076
+
+Epoch 1959 (lr 0.01000)
+Train: loss 0.1232, classify loss 0.1099, regress loss 0.0023, 0.0024, 0.0022, 0.0064
+
+Epoch 1960 (lr 0.01000)
+Train: loss 0.1247, classify loss 0.1110, regress loss 0.0022, 0.0023, 0.0022, 0.0071
+
+Epoch 1961 (lr 0.01000)
+Train: loss 0.1247, classify loss 0.1090, regress loss 0.0022, 0.0025, 0.0024, 0.0087
+
+Epoch 1962 (lr 0.01000)
+Train: loss 0.1181, classify loss 0.1031, regress loss 0.0023, 0.0024, 0.0020, 0.0083
+
+Epoch 1963 (lr 0.01000)
+Train: loss 0.1270, classify loss 0.1127, regress loss 0.0023, 0.0021, 0.0023, 0.0076
+
+Epoch 1964 (lr 0.01000)
+Train: loss 0.1223, classify loss 0.1088, regress loss 0.0021, 0.0023, 0.0021, 0.0070
+
+Epoch 1965 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1097, regress loss 0.0023, 0.0024, 0.0021, 0.0075
+
+Epoch 1966 (lr 0.01000)
+Train: loss 0.1135, classify loss 0.0993, regress loss 0.0023, 0.0021, 0.0019, 0.0079
+
+Epoch 1967 (lr 0.01000)
+Train: loss 0.1263, classify loss 0.1118, regress loss 0.0020, 0.0023, 0.0022, 0.0079
+
+Epoch 1968 (lr 0.01000)
+Train: loss 0.1037, classify loss 0.0905, regress loss 0.0020, 0.0023, 0.0019, 0.0069
+
+Epoch 1969 (lr 0.01000)
+Train: loss 0.1117, classify loss 0.0975, regress loss 0.0023, 0.0023, 0.0021, 0.0074
+
+Epoch 1970 (lr 0.01000)
+Train: loss 0.1228, classify loss 0.1089, regress loss 0.0021, 0.0022, 0.0021, 0.0076
+
+Epoch 1971 (lr 0.01000)
+Train: loss 0.1167, classify loss 0.1029, regress loss 0.0024, 0.0024, 0.0021, 0.0070
+
+Epoch 1972 (lr 0.01000)
+Train: loss 0.1230, classify loss 0.1084, regress loss 0.0024, 0.0023, 0.0021, 0.0079
+
+Epoch 1973 (lr 0.01000)
+Train: loss 0.1187, classify loss 0.1047, regress loss 0.0020, 0.0024, 0.0021, 0.0075
+
+Epoch 1974 (lr 0.01000)
+Train: loss 0.1414, classify loss 0.1272, regress loss 0.0021, 0.0022, 0.0022, 0.0078
+
+Epoch 1975 (lr 0.01000)
+Train: loss 0.1489, classify loss 0.1331, regress loss 0.0023, 0.0023, 0.0023, 0.0090
+
+Epoch 1976 (lr 0.01000)
+Train: loss 0.1265, classify loss 0.1122, regress loss 0.0019, 0.0025, 0.0024, 0.0074
+
+Epoch 1977 (lr 0.01000)
+Train: loss 0.1231, classify loss 0.1089, regress loss 0.0023, 0.0023, 0.0022, 0.0075
+
+Epoch 1978 (lr 0.01000)
+Train: loss 0.1114, classify loss 0.0980, regress loss 0.0020, 0.0021, 0.0021, 0.0072
+
+Epoch 1979 (lr 0.01000)
+Train: loss 0.1230, classify loss 0.1088, regress loss 0.0021, 0.0024, 0.0021, 0.0076
+
+Epoch 1980 (lr 0.01000)
+Train: loss 0.1246, classify loss 0.1100, regress loss 0.0019, 0.0025, 0.0022, 0.0080
+
+Epoch 1981 (lr 0.01000)
+Train: loss 0.1341, classify loss 0.1189, regress loss 0.0023, 0.0023, 0.0023, 0.0084
+
+Epoch 1982 (lr 0.01000)
+Train: loss 0.1174, classify loss 0.1026, regress loss 0.0023, 0.0022, 0.0022, 0.0081
+
+Epoch 1983 (lr 0.01000)
+Train: loss 0.1134, classify loss 0.0994, regress loss 0.0022, 0.0020, 0.0020, 0.0078
+
+Epoch 1984 (lr 0.01000)
+Train: loss 0.1524, classify loss 0.1369, regress loss 0.0023, 0.0024, 0.0023, 0.0086
+
+Epoch 1985 (lr 0.01000)
+Train: loss 0.1268, classify loss 0.1125, regress loss 0.0020, 0.0024, 0.0020, 0.0079
+
+Epoch 1986 (lr 0.01000)
+Train: loss 0.1405, classify loss 0.1264, regress loss 0.0023, 0.0023, 0.0021, 0.0073
+
+Epoch 1987 (lr 0.01000)
+Train: loss 0.1200, classify loss 0.1069, regress loss 0.0020, 0.0021, 0.0021, 0.0070
+
+Epoch 1988 (lr 0.01000)
+Train: loss 0.1280, classify loss 0.1138, regress loss 0.0021, 0.0024, 0.0024, 0.0073
+
+Epoch 1989 (lr 0.01000)
+Train: loss 0.1136, classify loss 0.1004, regress loss 0.0021, 0.0021, 0.0021, 0.0069
+
+Epoch 1990 (lr 0.01000)
+Train: loss 0.1221, classify loss 0.1068, regress loss 0.0020, 0.0024, 0.0019, 0.0089
+
+Epoch 1991 (lr 0.01000)
+Train: loss 0.1357, classify loss 0.1197, regress loss 0.0021, 0.0023, 0.0021, 0.0094
+
+Epoch 1992 (lr 0.01000)
+Train: loss 0.1152, classify loss 0.1002, regress loss 0.0021, 0.0023, 0.0023, 0.0084
+
+Epoch 1993 (lr 0.01000)
+Train: loss 0.1210, classify loss 0.1071, regress loss 0.0022, 0.0022, 0.0020, 0.0076
+
+Epoch 1994 (lr 0.01000)
+Train: loss 0.1381, classify loss 0.1239, regress loss 0.0021, 0.0023, 0.0022, 0.0075
+
+Epoch 1995 (lr 0.01000)
+Train: loss 0.1271, classify loss 0.1128, regress loss 0.0021, 0.0023, 0.0022, 0.0078
+
+Epoch 1996 (lr 0.01000)
+Train: loss 0.1320, classify loss 0.1177, regress loss 0.0022, 0.0022, 0.0023, 0.0077
+
+Epoch 1997 (lr 0.01000)
+Train: loss 0.1366, classify loss 0.1218, regress loss 0.0024, 0.0022, 0.0022, 0.0080
+
+Epoch 1998 (lr 0.01000)
+Train: loss 0.1259, classify loss 0.1119, regress loss 0.0020, 0.0022, 0.0021, 0.0078
+
+Epoch 1999 (lr 0.01000)
+Train: loss 0.1161, classify loss 0.1022, regress loss 0.0021, 0.0022, 0.0021, 0.0074
+
+Epoch 2000 (lr 0.01000)
+Train: loss 0.1201, classify loss 0.1062, regress loss 0.0021, 0.0020, 0.0022, 0.0076
+
+Epoch 2001 (lr 0.01000)
+Train: loss 0.1222, classify loss 0.1082, regress loss 0.0019, 0.0023, 0.0021, 0.0076
+
+Epoch 2002 (lr 0.01000)
+Train: loss 0.1170, classify loss 0.1022, regress loss 0.0021, 0.0025, 0.0020, 0.0082
+
+Epoch 2003 (lr 0.01000)
+Train: loss 0.1079, classify loss 0.0941, regress loss 0.0021, 0.0023, 0.0022, 0.0071
+
+Epoch 2004 (lr 0.01000)
+Train: loss 0.1338, classify loss 0.1195, regress loss 0.0022, 0.0023, 0.0023, 0.0075
+
+Epoch 2005 (lr 0.01000)
+Train: loss 0.1301, classify loss 0.1168, regress loss 0.0022, 0.0021, 0.0023, 0.0068
+
+Epoch 2006 (lr 0.01000)
+Train: loss 0.1270, classify loss 0.1135, regress loss 0.0022, 0.0022, 0.0023, 0.0068
+
+Epoch 2007 (lr 0.01000)
+Train: loss 0.1228, classify loss 0.1077, regress loss 0.0022, 0.0023, 0.0022, 0.0085
+
+Epoch 2008 (lr 0.01000)
+Train: loss 0.1379, classify loss 0.1225, regress loss 0.0021, 0.0025, 0.0021, 0.0086
+
+Epoch 2009 (lr 0.01000)
+Train: loss 0.1303, classify loss 0.1159, regress loss 0.0020, 0.0024, 0.0020, 0.0080
+
+Epoch 2010 (lr 0.01000)
+Train: loss 0.1182, classify loss 0.1044, regress loss 0.0019, 0.0024, 0.0022, 0.0073
+
+Epoch 2011 (lr 0.01000)
+Train: loss 0.1179, classify loss 0.1043, regress loss 0.0021, 0.0021, 0.0024, 0.0069
+
+Epoch 2012 (lr 0.01000)
+Train: loss 0.1324, classify loss 0.1183, regress loss 0.0020, 0.0023, 0.0021, 0.0076
+
+Epoch 2013 (lr 0.01000)
+Train: loss 0.1131, classify loss 0.1004, regress loss 0.0021, 0.0021, 0.0020, 0.0066
+
+Epoch 2014 (lr 0.01000)
+Train: loss 0.1258, classify loss 0.1118, regress loss 0.0021, 0.0021, 0.0022, 0.0076
+
+Epoch 2015 (lr 0.01000)
+Train: loss 0.1197, classify loss 0.1060, regress loss 0.0022, 0.0023, 0.0020, 0.0072
+
+Epoch 2016 (lr 0.01000)
+Train: loss 0.1420, classify loss 0.1277, regress loss 0.0023, 0.0024, 0.0022, 0.0075
+
+Epoch 2017 (lr 0.01000)
+Train: loss 0.1303, classify loss 0.1159, regress loss 0.0020, 0.0022, 0.0023, 0.0078
+
+Epoch 2018 (lr 0.01000)
+Train: loss 0.1257, classify loss 0.1110, regress loss 0.0021, 0.0023, 0.0024, 0.0079
+
+Epoch 2019 (lr 0.01000)
+Train: loss 0.1201, classify loss 0.1052, regress loss 0.0021, 0.0026, 0.0023, 0.0079
+
+Epoch 2020 (lr 0.01000)
+Train: loss 0.1362, classify loss 0.1223, regress loss 0.0020, 0.0023, 0.0020, 0.0076
+
+Epoch 2021 (lr 0.01000)
+Train: loss 0.1294, classify loss 0.1154, regress loss 0.0021, 0.0023, 0.0022, 0.0074
+
+Epoch 2022 (lr 0.01000)
+Train: loss 0.1328, classify loss 0.1183, regress loss 0.0023, 0.0025, 0.0022, 0.0076
+
+Epoch 2023 (lr 0.01000)
+Train: loss 0.1322, classify loss 0.1181, regress loss 0.0021, 0.0025, 0.0020, 0.0075
+
+Epoch 2024 (lr 0.01000)
+Train: loss 0.1242, classify loss 0.1102, regress loss 0.0022, 0.0025, 0.0021, 0.0071
+
+Epoch 2025 (lr 0.01000)
+Train: loss 0.1130, classify loss 0.0991, regress loss 0.0020, 0.0023, 0.0020, 0.0076
+
+Epoch 2026 (lr 0.01000)
+Train: loss 0.1458, classify loss 0.1311, regress loss 0.0020, 0.0024, 0.0022, 0.0080
+
+Epoch 2027 (lr 0.01000)
+Train: loss 0.1213, classify loss 0.1068, regress loss 0.0022, 0.0023, 0.0021, 0.0079
+
+Epoch 2028 (lr 0.01000)
+Train: loss 0.1416, classify loss 0.1261, regress loss 0.0021, 0.0022, 0.0020, 0.0091
+
+Epoch 2029 (lr 0.01000)
+Train: loss 0.1189, classify loss 0.1049, regress loss 0.0024, 0.0023, 0.0021, 0.0072
+
+Epoch 2030 (lr 0.01000)
+Train: loss 0.1154, classify loss 0.1018, regress loss 0.0020, 0.0022, 0.0021, 0.0072
+
+Epoch 2031 (lr 0.01000)
+Train: loss 0.1305, classify loss 0.1158, regress loss 0.0022, 0.0023, 0.0022, 0.0080
+
+Epoch 2032 (lr 0.01000)
+Train: loss 0.1290, classify loss 0.1145, regress loss 0.0021, 0.0022, 0.0022, 0.0080
+
+Epoch 2033 (lr 0.01000)
+Train: loss 0.1219, classify loss 0.1070, regress loss 0.0025, 0.0024, 0.0022, 0.0079
+
+Epoch 2034 (lr 0.01000)
+Train: loss 0.1210, classify loss 0.1069, regress loss 0.0024, 0.0023, 0.0019, 0.0076
+
+Epoch 2035 (lr 0.01000)
+Train: loss 0.1182, classify loss 0.1042, regress loss 0.0021, 0.0023, 0.0021, 0.0075
+
+Epoch 2036 (lr 0.01000)
+Train: loss 0.1330, classify loss 0.1178, regress loss 0.0025, 0.0023, 0.0024, 0.0080
+
+Epoch 2037 (lr 0.01000)
+Train: loss 0.1293, classify loss 0.1161, regress loss 0.0019, 0.0023, 0.0019, 0.0069
+
+Epoch 2038 (lr 0.01000)
+Train: loss 0.1175, classify loss 0.1042, regress loss 0.0021, 0.0024, 0.0021, 0.0068
+
+Epoch 2039 (lr 0.01000)
+Train: loss 0.1163, classify loss 0.1029, regress loss 0.0021, 0.0025, 0.0020, 0.0068
+
+Epoch 2040 (lr 0.01000)
+Train: loss 0.1213, classify loss 0.1076, regress loss 0.0020, 0.0023, 0.0020, 0.0073
+
+Epoch 2041 (lr 0.01000)
+Train: loss 0.1176, classify loss 0.1040, regress loss 0.0020, 0.0025, 0.0020, 0.0071
+
+Epoch 2042 (lr 0.01000)
+Train: loss 0.1089, classify loss 0.0955, regress loss 0.0022, 0.0023, 0.0021, 0.0069
+
+Epoch 2043 (lr 0.01000)
+Train: loss 0.1193, classify loss 0.1064, regress loss 0.0020, 0.0022, 0.0020, 0.0066
+
+Epoch 2044 (lr 0.01000)
+Train: loss 0.1013, classify loss 0.0879, regress loss 0.0022, 0.0021, 0.0020, 0.0071
+
+Epoch 2045 (lr 0.01000)
+Train: loss 0.1121, classify loss 0.0990, regress loss 0.0020, 0.0022, 0.0020, 0.0069
+
+Epoch 2046 (lr 0.01000)
+Train: loss 0.1366, classify loss 0.1227, regress loss 0.0020, 0.0021, 0.0020, 0.0079
+
+Epoch 2047 (lr 0.01000)
+Train: loss 0.1246, classify loss 0.1108, regress loss 0.0021, 0.0023, 0.0022, 0.0073
+
+Epoch 2048 (lr 0.01000)
+Train: loss 0.1291, classify loss 0.1153, regress loss 0.0020, 0.0022, 0.0022, 0.0075
+
+Epoch 2049 (lr 0.01000)
+Train: loss 0.1169, classify loss 0.1034, regress loss 0.0020, 0.0021, 0.0021, 0.0073
+
+Epoch 2050 (lr 0.01000)
+Train: loss 0.1215, classify loss 0.1081, regress loss 0.0021, 0.0024, 0.0021, 0.0068
+
+Epoch 2051 (lr 0.01000)
+Train: loss 0.1220, classify loss 0.1076, regress loss 0.0023, 0.0024, 0.0026, 0.0073
+
+Epoch 2052 (lr 0.01000)
+Train: loss 0.1180, classify loss 0.1048, regress loss 0.0021, 0.0023, 0.0021, 0.0067
+
+Epoch 2053 (lr 0.01000)
+Train: loss 0.0986, classify loss 0.0856, regress loss 0.0018, 0.0021, 0.0021, 0.0070
+
+Epoch 2054 (lr 0.01000)
+Train: loss 0.1145, classify loss 0.1014, regress loss 0.0020, 0.0022, 0.0021, 0.0068
+
+Epoch 2055 (lr 0.01000)
+Train: loss 0.1256, classify loss 0.1109, regress loss 0.0020, 0.0022, 0.0021, 0.0083
+
+Epoch 2056 (lr 0.01000)
+Train: loss 0.1217, classify loss 0.1081, regress loss 0.0019, 0.0023, 0.0023, 0.0070
+
+Epoch 2057 (lr 0.01000)
+Train: loss 0.1417, classify loss 0.1276, regress loss 0.0023, 0.0021, 0.0020, 0.0077
+
+Epoch 2058 (lr 0.01000)
+Train: loss 0.1178, classify loss 0.1039, regress loss 0.0021, 0.0022, 0.0021, 0.0075
+
+Epoch 2059 (lr 0.01000)
+Train: loss 0.1220, classify loss 0.1087, regress loss 0.0021, 0.0022, 0.0021, 0.0070
+
+Epoch 2060 (lr 0.01000)
+Train: loss 0.1342, classify loss 0.1203, regress loss 0.0019, 0.0024, 0.0022, 0.0073
+
+Epoch 2061 (lr 0.01000)
+Train: loss 0.1133, classify loss 0.0999, regress loss 0.0022, 0.0023, 0.0021, 0.0067
+
+Epoch 2062 (lr 0.01000)
+Train: loss 0.1170, classify loss 0.1023, regress loss 0.0022, 0.0024, 0.0022, 0.0079
+
+Epoch 2063 (lr 0.01000)
+Train: loss 0.1352, classify loss 0.1215, regress loss 0.0023, 0.0022, 0.0022, 0.0070
+
+Epoch 2064 (lr 0.01000)
+Train: loss 0.1298, classify loss 0.1160, regress loss 0.0020, 0.0022, 0.0021, 0.0074
+
+Epoch 2065 (lr 0.01000)
+Train: loss 0.1163, classify loss 0.1044, regress loss 0.0017, 0.0021, 0.0019, 0.0062
+
+Epoch 2066 (lr 0.01000)
+Train: loss 0.1243, classify loss 0.1107, regress loss 0.0021, 0.0023, 0.0023, 0.0070
+
+Epoch 2067 (lr 0.01000)
+Train: loss 0.1261, classify loss 0.1125, regress loss 0.0021, 0.0022, 0.0022, 0.0070
+
+Epoch 2068 (lr 0.01000)
+Train: loss 0.1260, classify loss 0.1128, regress loss 0.0022, 0.0020, 0.0022, 0.0068
+
+Epoch 2069 (lr 0.01000)
+Train: loss 0.1074, classify loss 0.0935, regress loss 0.0020, 0.0023, 0.0021, 0.0075
+
+Epoch 2070 (lr 0.01000)
+Train: loss 0.1282, classify loss 0.1140, regress loss 0.0022, 0.0022, 0.0021, 0.0076
+
+Epoch 2071 (lr 0.01000)
+Train: loss 0.1215, classify loss 0.1070, regress loss 0.0020, 0.0022, 0.0022, 0.0081
+
+Epoch 2072 (lr 0.01000)
+Train: loss 0.1341, classify loss 0.1195, regress loss 0.0019, 0.0023, 0.0021, 0.0082
+
+Epoch 2073 (lr 0.01000)
+Train: loss 0.1382, classify loss 0.1227, regress loss 0.0022, 0.0025, 0.0023, 0.0084
+
+Epoch 2074 (lr 0.01000)
+Train: loss 0.1325, classify loss 0.1188, regress loss 0.0020, 0.0020, 0.0022, 0.0074
+
+Epoch 2075 (lr 0.01000)
+Train: loss 0.1067, classify loss 0.0934, regress loss 0.0020, 0.0022, 0.0023, 0.0068
+
+Epoch 2076 (lr 0.01000)
+Train: loss 0.1230, classify loss 0.1084, regress loss 0.0023, 0.0022, 0.0022, 0.0079
+
+Epoch 2077 (lr 0.01000)
+Train: loss 0.1082, classify loss 0.0948, regress loss 0.0021, 0.0024, 0.0021, 0.0067
+
+Epoch 2078 (lr 0.01000)
+Train: loss 0.1197, classify loss 0.1048, regress loss 0.0025, 0.0022, 0.0021, 0.0081
+
+Epoch 2079 (lr 0.01000)
+Train: loss 0.1263, classify loss 0.1122, regress loss 0.0021, 0.0021, 0.0023, 0.0076
+
+Epoch 2080 (lr 0.01000)
+Train: loss 0.1374, classify loss 0.1227, regress loss 0.0022, 0.0023, 0.0024, 0.0078
+
+Epoch 2081 (lr 0.01000)
+Train: loss 0.1290, classify loss 0.1146, regress loss 0.0022, 0.0023, 0.0021, 0.0077
+
+Epoch 2082 (lr 0.01000)
+Train: loss 0.1271, classify loss 0.1136, regress loss 0.0022, 0.0022, 0.0021, 0.0071
+
+Epoch 2083 (lr 0.01000)
+Train: loss 0.1232, classify loss 0.1090, regress loss 0.0022, 0.0023, 0.0020, 0.0077
+
+Epoch 2084 (lr 0.01000)
+Train: loss 0.1276, classify loss 0.1138, regress loss 0.0023, 0.0022, 0.0021, 0.0072
+
+Epoch 2085 (lr 0.01000)
+Train: loss 0.1387, classify loss 0.1242, regress loss 0.0022, 0.0027, 0.0021, 0.0076
+
+Epoch 2086 (lr 0.01000)
+Train: loss 0.1333, classify loss 0.1187, regress loss 0.0023, 0.0022, 0.0022, 0.0079
+
+Epoch 2087 (lr 0.01000)
+Train: loss 0.1247, classify loss 0.1102, regress loss 0.0021, 0.0024, 0.0022, 0.0077
+
+Epoch 2088 (lr 0.01000)
+Train: loss 0.1227, classify loss 0.1097, regress loss 0.0021, 0.0020, 0.0021, 0.0068
+
+Epoch 2089 (lr 0.01000)
+Train: loss 0.1318, classify loss 0.1178, regress loss 0.0021, 0.0022, 0.0021, 0.0077
+
+Epoch 2090 (lr 0.01000)
+Train: loss 0.1243, classify loss 0.1103, regress loss 0.0022, 0.0023, 0.0022, 0.0072
+
+Epoch 2091 (lr 0.01000)
+Train: loss 0.1239, classify loss 0.1109, regress loss 0.0020, 0.0022, 0.0021, 0.0067
+
+Epoch 2092 (lr 0.01000)
+Train: loss 0.1351, classify loss 0.1215, regress loss 0.0019, 0.0023, 0.0024, 0.0070
+
+Epoch 2093 (lr 0.01000)
+Train: loss 0.1260, classify loss 0.1124, regress loss 0.0023, 0.0021, 0.0020, 0.0071
+
+Epoch 2094 (lr 0.01000)
+Train: loss 0.1192, classify loss 0.1053, regress loss 0.0022, 0.0019, 0.0024, 0.0074
+
+Epoch 2095 (lr 0.01000)
+Train: loss 0.1229, classify loss 0.1090, regress loss 0.0020, 0.0020, 0.0022, 0.0076
+
+Epoch 2096 (lr 0.01000)
+Train: loss 0.1215, classify loss 0.1080, regress loss 0.0021, 0.0021, 0.0020, 0.0072
+
+Epoch 2097 (lr 0.01000)
+Train: loss 0.1200, classify loss 0.1064, regress loss 0.0020, 0.0022, 0.0021, 0.0072
+
+Epoch 2098 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1216, regress loss 0.0019, 0.0024, 0.0021, 0.0074
+
+Epoch 2099 (lr 0.01000)
+Train: loss 0.1207, classify loss 0.1068, regress loss 0.0021, 0.0022, 0.0022, 0.0074
+
+Epoch 2100 (lr 0.01000)
+Train: loss 0.1217, classify loss 0.1084, regress loss 0.0019, 0.0021, 0.0021, 0.0072
+
+Epoch 2101 (lr 0.01000)
+Train: loss 0.1138, classify loss 0.0993, regress loss 0.0019, 0.0022, 0.0022, 0.0082
+
+Epoch 2102 (lr 0.01000)
+Train: loss 0.1283, classify loss 0.1144, regress loss 0.0020, 0.0023, 0.0022, 0.0075
+
+Epoch 2103 (lr 0.01000)
+Train: loss 0.1190, classify loss 0.1057, regress loss 0.0020, 0.0021, 0.0021, 0.0072
+
+Epoch 2104 (lr 0.01000)
+Train: loss 0.1157, classify loss 0.1026, regress loss 0.0023, 0.0021, 0.0021, 0.0066
+
+Epoch 2105 (lr 0.01000)
+Train: loss 0.1397, classify loss 0.1261, regress loss 0.0023, 0.0022, 0.0021, 0.0071
+
+Epoch 2106 (lr 0.01000)
+Train: loss 0.1171, classify loss 0.1025, regress loss 0.0021, 0.0021, 0.0021, 0.0083
+
+Epoch 2107 (lr 0.01000)
+Train: loss 0.1226, classify loss 0.1093, regress loss 0.0019, 0.0021, 0.0022, 0.0070
+
+Epoch 2108 (lr 0.01000)
+Train: loss 0.1115, classify loss 0.0981, regress loss 0.0020, 0.0023, 0.0022, 0.0070
+
+Epoch 2109 (lr 0.01000)
+Train: loss 0.1163, classify loss 0.1019, regress loss 0.0021, 0.0023, 0.0023, 0.0078
+
+Epoch 2110 (lr 0.01000)
+Train: loss 0.1084, classify loss 0.0946, regress loss 0.0021, 0.0022, 0.0022, 0.0072
+
+Epoch 2111 (lr 0.01000)
+Train: loss 0.1136, classify loss 0.0997, regress loss 0.0020, 0.0023, 0.0023, 0.0073
+
+Epoch 2112 (lr 0.01000)
+Train: loss 0.1161, classify loss 0.1031, regress loss 0.0021, 0.0020, 0.0022, 0.0067
+
+Epoch 2113 (lr 0.01000)
+Train: loss 0.1219, classify loss 0.1075, regress loss 0.0018, 0.0022, 0.0023, 0.0082
+
+Epoch 2114 (lr 0.01000)
+Train: loss 0.1195, classify loss 0.1062, regress loss 0.0020, 0.0022, 0.0020, 0.0071
+
+Epoch 2115 (lr 0.01000)
+Train: loss 0.1299, classify loss 0.1153, regress loss 0.0021, 0.0022, 0.0020, 0.0084
+
+Epoch 2116 (lr 0.01000)
+Train: loss 0.1253, classify loss 0.1112, regress loss 0.0021, 0.0022, 0.0021, 0.0077
+
+Epoch 2117 (lr 0.01000)
+Train: loss 0.1276, classify loss 0.1138, regress loss 0.0019, 0.0023, 0.0022, 0.0075
+
+Epoch 2118 (lr 0.01000)
+Train: loss 0.1266, classify loss 0.1125, regress loss 0.0020, 0.0022, 0.0021, 0.0078
+
+Epoch 2119 (lr 0.01000)
+Train: loss 0.1245, classify loss 0.1113, regress loss 0.0020, 0.0023, 0.0021, 0.0068
+
+Epoch 2120 (lr 0.01000)
+Train: loss 0.1184, classify loss 0.1040, regress loss 0.0021, 0.0021, 0.0023, 0.0078
+
+Epoch 2121 (lr 0.01000)
+Train: loss 0.1101, classify loss 0.0969, regress loss 0.0019, 0.0022, 0.0022, 0.0070
+
+Epoch 2122 (lr 0.01000)
+Train: loss 0.1242, classify loss 0.1110, regress loss 0.0021, 0.0021, 0.0021, 0.0069
+
+Epoch 2123 (lr 0.01000)
+Train: loss 0.1340, classify loss 0.1199, regress loss 0.0021, 0.0025, 0.0020, 0.0074
+
+Epoch 2124 (lr 0.01000)
+Train: loss 0.1394, classify loss 0.1254, regress loss 0.0020, 0.0023, 0.0021, 0.0075
+
+Epoch 2125 (lr 0.01000)
+Train: loss 0.1491, classify loss 0.1339, regress loss 0.0021, 0.0023, 0.0022, 0.0085
+
+Epoch 2126 (lr 0.01000)
+Train: loss 0.1248, classify loss 0.1104, regress loss 0.0021, 0.0023, 0.0021, 0.0079
+
+Epoch 2127 (lr 0.01000)
+Train: loss 0.1426, classify loss 0.1271, regress loss 0.0023, 0.0024, 0.0021, 0.0087
+
+Epoch 2128 (lr 0.01000)
+Train: loss 0.1259, classify loss 0.1118, regress loss 0.0021, 0.0024, 0.0020, 0.0076
+
+Epoch 2129 (lr 0.01000)
+Train: loss 0.1280, classify loss 0.1135, regress loss 0.0023, 0.0023, 0.0020, 0.0080
+
+Epoch 2130 (lr 0.01000)
+Train: loss 0.1293, classify loss 0.1155, regress loss 0.0023, 0.0023, 0.0019, 0.0073
+
+Epoch 2131 (lr 0.01000)
+Train: loss 0.1225, classify loss 0.1077, regress loss 0.0024, 0.0025, 0.0021, 0.0079
+
+Epoch 2132 (lr 0.01000)
+Train: loss 0.1257, classify loss 0.1107, regress loss 0.0022, 0.0021, 0.0020, 0.0088
+
+Epoch 2133 (lr 0.01000)
+Train: loss 0.1284, classify loss 0.1137, regress loss 0.0022, 0.0027, 0.0020, 0.0078
+
+Epoch 2134 (lr 0.01000)
+Train: loss 0.1259, classify loss 0.1111, regress loss 0.0022, 0.0024, 0.0021, 0.0081
+
+Epoch 2135 (lr 0.01000)
+Train: loss 0.1195, classify loss 0.1060, regress loss 0.0020, 0.0021, 0.0020, 0.0074
+
+Epoch 2136 (lr 0.01000)
+Train: loss 0.1148, classify loss 0.1004, regress loss 0.0020, 0.0023, 0.0022, 0.0078
+
+Epoch 2137 (lr 0.01000)
+Train: loss 0.1243, classify loss 0.1106, regress loss 0.0020, 0.0021, 0.0020, 0.0076
+
+Epoch 2138 (lr 0.01000)
+Train: loss 0.1132, classify loss 0.0982, regress loss 0.0023, 0.0026, 0.0021, 0.0080
+
+Epoch 2139 (lr 0.01000)
+Train: loss 0.1226, classify loss 0.1077, regress loss 0.0021, 0.0023, 0.0021, 0.0084
+
+Epoch 2140 (lr 0.01000)
+Train: loss 0.1394, classify loss 0.1250, regress loss 0.0023, 0.0025, 0.0023, 0.0073
+
+Epoch 2141 (lr 0.01000)
+Train: loss 0.1412, classify loss 0.1270, regress loss 0.0020, 0.0021, 0.0023, 0.0078
+
+Epoch 2142 (lr 0.01000)
+Train: loss 0.1218, classify loss 0.1083, regress loss 0.0022, 0.0024, 0.0019, 0.0071
+
+Epoch 2143 (lr 0.01000)
+Train: loss 0.1327, classify loss 0.1193, regress loss 0.0022, 0.0023, 0.0020, 0.0069
+
+Epoch 2144 (lr 0.01000)
+Train: loss 0.1158, classify loss 0.1019, regress loss 0.0025, 0.0022, 0.0022, 0.0071
+
+Epoch 2145 (lr 0.01000)
+Train: loss 0.1097, classify loss 0.0965, regress loss 0.0021, 0.0024, 0.0022, 0.0065
+
+Epoch 2146 (lr 0.01000)
+Train: loss 0.1211, classify loss 0.1076, regress loss 0.0021, 0.0023, 0.0020, 0.0070
+
+Epoch 2147 (lr 0.01000)
+Train: loss 0.1220, classify loss 0.1083, regress loss 0.0023, 0.0023, 0.0020, 0.0071
+
+Epoch 2148 (lr 0.01000)
+Train: loss 0.1287, classify loss 0.1150, regress loss 0.0019, 0.0024, 0.0021, 0.0072
+
+Epoch 2149 (lr 0.01000)
+Train: loss 0.1350, classify loss 0.1211, regress loss 0.0020, 0.0021, 0.0021, 0.0076
+
+Epoch 2150 (lr 0.01000)
+Train: loss 0.1153, classify loss 0.1016, regress loss 0.0020, 0.0026, 0.0020, 0.0070
+
+Epoch 2151 (lr 0.01000)
+Train: loss 0.1086, classify loss 0.0953, regress loss 0.0018, 0.0022, 0.0021, 0.0072
+
+Epoch 2152 (lr 0.01000)
+Train: loss 0.1119, classify loss 0.0982, regress loss 0.0020, 0.0021, 0.0020, 0.0076
+
+Epoch 2153 (lr 0.01000)
+Train: loss 0.1211, classify loss 0.1072, regress loss 0.0021, 0.0023, 0.0020, 0.0077
+
+Epoch 2154 (lr 0.01000)
+Train: loss 0.1059, classify loss 0.0935, regress loss 0.0021, 0.0020, 0.0020, 0.0063
+
+Epoch 2155 (lr 0.01000)
+Train: loss 0.1247, classify loss 0.1106, regress loss 0.0022, 0.0023, 0.0021, 0.0074
+
+Epoch 2156 (lr 0.01000)
+Train: loss 0.1228, classify loss 0.1098, regress loss 0.0020, 0.0023, 0.0019, 0.0069
+
+Epoch 2157 (lr 0.01000)
+Train: loss 0.1191, classify loss 0.1056, regress loss 0.0023, 0.0024, 0.0022, 0.0066
+
+Epoch 2158 (lr 0.01000)
+Train: loss 0.1194, classify loss 0.1061, regress loss 0.0020, 0.0022, 0.0020, 0.0071
+
+Epoch 2159 (lr 0.01000)
+Train: loss 0.1028, classify loss 0.0896, regress loss 0.0019, 0.0021, 0.0021, 0.0071
+
+Epoch 2160 (lr 0.01000)
+Train: loss 0.1256, classify loss 0.1121, regress loss 0.0021, 0.0024, 0.0021, 0.0069
+
+Epoch 2161 (lr 0.01000)
+Train: loss 0.1212, classify loss 0.1078, regress loss 0.0019, 0.0022, 0.0021, 0.0072
+
+Epoch 2162 (lr 0.01000)
+Train: loss 0.1222, classify loss 0.1075, regress loss 0.0021, 0.0024, 0.0019, 0.0084
+
+Epoch 2163 (lr 0.01000)
+Train: loss 0.1284, classify loss 0.1134, regress loss 0.0023, 0.0022, 0.0022, 0.0083
+
+Epoch 2164 (lr 0.01000)
+Train: loss 0.1332, classify loss 0.1180, regress loss 0.0023, 0.0027, 0.0022, 0.0080
+
+Epoch 2165 (lr 0.01000)
+Train: loss 0.1179, classify loss 0.1045, regress loss 0.0021, 0.0024, 0.0024, 0.0065
+
+Epoch 2166 (lr 0.01000)
+Train: loss 0.1228, classify loss 0.1081, regress loss 0.0020, 0.0026, 0.0021, 0.0079
+
+Epoch 2167 (lr 0.01000)
+Train: loss 0.1254, classify loss 0.1120, regress loss 0.0019, 0.0022, 0.0023, 0.0069
+
+Epoch 2168 (lr 0.01000)
+Train: loss 0.1149, classify loss 0.1009, regress loss 0.0020, 0.0024, 0.0021, 0.0074
+
+Epoch 2169 (lr 0.01000)
+Train: loss 0.1223, classify loss 0.1075, regress loss 0.0023, 0.0027, 0.0020, 0.0078
+
+Epoch 2170 (lr 0.01000)
+Train: loss 0.1244, classify loss 0.1098, regress loss 0.0024, 0.0023, 0.0021, 0.0078
+
+Epoch 2171 (lr 0.01000)
+Train: loss 0.1209, classify loss 0.1073, regress loss 0.0021, 0.0022, 0.0020, 0.0073
+
+Epoch 2172 (lr 0.01000)
+Train: loss 0.1265, classify loss 0.1124, regress loss 0.0020, 0.0024, 0.0022, 0.0076
+
+Epoch 2173 (lr 0.01000)
+Train: loss 0.1136, classify loss 0.0997, regress loss 0.0021, 0.0023, 0.0022, 0.0073
+
+Epoch 2174 (lr 0.01000)
+Train: loss 0.1126, classify loss 0.0991, regress loss 0.0021, 0.0022, 0.0022, 0.0069
+
+Epoch 2175 (lr 0.01000)
+Train: loss 0.1107, classify loss 0.0970, regress loss 0.0018, 0.0023, 0.0022, 0.0074
+
+Epoch 2176 (lr 0.01000)
+Train: loss 0.1373, classify loss 0.1216, regress loss 0.0022, 0.0025, 0.0021, 0.0089
+
+Epoch 2177 (lr 0.01000)
+Train: loss 0.1192, classify loss 0.1060, regress loss 0.0021, 0.0022, 0.0023, 0.0065
+
+Epoch 2178 (lr 0.01000)
+Train: loss 0.1121, classify loss 0.0984, regress loss 0.0020, 0.0022, 0.0020, 0.0075
+
+Epoch 2179 (lr 0.01000)
+Train: loss 0.1238, classify loss 0.1099, regress loss 0.0020, 0.0023, 0.0021, 0.0075
+
+Epoch 2180 (lr 0.01000)
+Train: loss 0.1167, classify loss 0.1029, regress loss 0.0021, 0.0025, 0.0021, 0.0070
+
+Epoch 2181 (lr 0.01000)
+Train: loss 0.1354, classify loss 0.1190, regress loss 0.0024, 0.0025, 0.0022, 0.0093
+
+Epoch 2182 (lr 0.01000)
+Train: loss 0.1273, classify loss 0.1125, regress loss 0.0021, 0.0024, 0.0020, 0.0083
+
+Epoch 2183 (lr 0.01000)
+Train: loss 0.1215, classify loss 0.1075, regress loss 0.0023, 0.0026, 0.0022, 0.0069
+
+Epoch 2184 (lr 0.01000)
+Train: loss 0.1298, classify loss 0.1155, regress loss 0.0021, 0.0023, 0.0022, 0.0078
+
+Epoch 2185 (lr 0.01000)
+Train: loss 0.1242, classify loss 0.1107, regress loss 0.0022, 0.0022, 0.0020, 0.0072
+
+Epoch 2186 (lr 0.01000)
+Train: loss 0.1108, classify loss 0.0970, regress loss 0.0020, 0.0025, 0.0021, 0.0072
+
+Epoch 2187 (lr 0.01000)
+Train: loss 0.1139, classify loss 0.1002, regress loss 0.0021, 0.0023, 0.0020, 0.0073
+
+Epoch 2188 (lr 0.01000)
+Train: loss 0.1151, classify loss 0.1013, regress loss 0.0022, 0.0022, 0.0021, 0.0073
+
+slurmstepd: error: *** JOB 181698 ON gpu-node007 CANCELLED AT 2020-02-12T07:30:46 ***

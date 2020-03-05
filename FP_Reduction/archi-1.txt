@@ -1,0 +1,1140 @@
+Epoch: 0
+accuracy  is 0.830357
+loss is 65.0976
+Epoch: 10
+accuracy  is 0.830357
+loss is 53.8088
+Epoch: 20
+accuracy  is 0.830357
+loss is 58.5068
+Epoch: 30
+accuracy  is 0.830357
+loss is 50.7148
+Epoch: 40
+accuracy  is 0.830357
+loss is 50.6603
+Epoch: 50
+accuracy  is 0.830357
+loss is 50.1871
+Epoch: 60
+accuracy  is 0.830357
+loss is 50.5768
+Epoch: 70
+accuracy  is 0.830357
+loss is 49.4802
+Epoch: 80
+accuracy  is 0.830357
+loss is 50.4868
+Epoch: 90
+accuracy  is 0.830357
+loss is 49.4051
+Epoch: 100
+accuracy  is 0.830357
+loss is 50.2695
+Epoch: 110
+accuracy  is 0.830357
+loss is 50.6176
+Epoch: 120
+accuracy  is 0.830357
+loss is 49.8337
+Epoch: 130
+accuracy  is 0.830357
+loss is 51.6907
+Epoch: 140
+accuracy  is 0.830357
+loss is 52.974
+Epoch: 150
+accuracy  is 0.830357
+loss is 53.3786
+Epoch: 160
+accuracy  is 0.830357
+loss is 51.9352
+Epoch: 170
+accuracy  is 0.830357
+loss is 51.0217
+Epoch: 180
+accuracy  is 0.830357
+loss is 50.1547
+Epoch: 190
+accuracy  is 0.830357
+loss is 50.28
+Epoch: 200
+accuracy  is 0.830357
+loss is 50.0101
+Epoch: 210
+accuracy  is 0.830357
+loss is 50.188
+Epoch: 220
+accuracy  is 0.830357
+loss is 52.4398
+Epoch: 230
+accuracy  is 0.830357
+loss is 56.2784
+Epoch: 240
+accuracy  is 0.830357
+loss is 51.7896
+Epoch: 250
+accuracy  is 0.830357
+loss is 51.4103
+Epoch: 260
+accuracy  is 0.812500
+loss is 57.2072
+Epoch: 270
+accuracy  is 0.830357
+loss is 53.4652
+Epoch: 280
+accuracy  is 0.821429
+loss is 52.0291
+Epoch: 290
+accuracy  is 0.830357
+loss is 51.3566
+Epoch: 300
+accuracy  is 0.821429
+loss is 51.663
+Epoch: 310
+accuracy  is 0.821429
+loss is 50.8709
+Epoch: 320
+accuracy  is 0.803571
+loss is 51.9822
+Epoch: 330
+accuracy  is 0.812500
+loss is 53.0514
+Epoch: 340
+accuracy  is 0.812500
+loss is 54.215
+Epoch: 350
+accuracy  is 0.812500
+loss is 54.335
+Epoch: 360
+accuracy  is 0.794643
+loss is 54.1805
+Epoch: 370
+accuracy  is 0.785714
+loss is 55.4083
+Epoch: 380
+accuracy  is 0.821429
+loss is 57.3363
+Epoch: 390
+accuracy  is 0.821429
+loss is 58.7392
+Epoch: 400
+accuracy  is 0.803571
+loss is 57.3678
+Epoch: 410
+accuracy  is 0.794643
+loss is 61.7928
+Epoch: 420
+accuracy  is 0.812500
+loss is 60.6747
+Epoch: 430
+accuracy  is 0.776786
+loss is 61.0102
+Epoch: 440
+accuracy  is 0.758929
+loss is 61.8037
+Epoch: 450
+accuracy  is 0.812500
+loss is 61.0026
+Epoch: 460
+accuracy  is 0.785714
+loss is 77.6713
+Epoch: 470
+accuracy  is 0.776786
+loss is 67.0831
+Epoch: 480
+accuracy  is 0.794643
+loss is 82.3445
+Epoch: 490
+accuracy  is 0.794643
+loss is 80.4481
+Epoch: 500
+accuracy  is 0.785714
+loss is 68.6679
+Epoch: 510
+accuracy  is 0.767857
+loss is 77.252
+Epoch: 520
+accuracy  is 0.776786
+loss is 76.5634
+Epoch: 530
+accuracy  is 0.785714
+loss is 84.9826
+Epoch: 540
+accuracy  is 0.785714
+loss is 97.0176
+Epoch: 550
+accuracy  is 0.794643
+loss is 97.9787
+Epoch: 560
+accuracy  is 0.794643
+loss is 99.7598
+Epoch: 570
+accuracy  is 0.776786
+loss is 86.9249
+Epoch: 580
+accuracy  is 0.785714
+loss is 90.8175
+Epoch: 590
+accuracy  is 0.794643
+loss is 81.2056
+Epoch: 600
+accuracy  is 0.776786
+loss is 97.9978
+Epoch: 610
+accuracy  is 0.785714
+loss is 112.243
+Epoch: 620
+accuracy  is 0.794643
+loss is 122.446
+Epoch: 630
+accuracy  is 0.776786
+loss is 100.363
+Epoch: 640
+accuracy  is 0.812500
+loss is 128.426
+Epoch: 650
+accuracy  is 0.767857
+loss is 113.797
+Epoch: 660
+accuracy  is 0.785714
+loss is 127.501
+Epoch: 670
+accuracy  is 0.785714
+loss is 141.972
+Epoch: 680
+accuracy  is 0.785714
+loss is 131.39
+Epoch: 690
+accuracy  is 0.803571
+loss is 125.426
+Epoch: 700
+accuracy  is 0.776786
+loss is 117.905
+Epoch: 710
+accuracy  is 0.785714
+loss is 133.275
+Epoch: 720
+accuracy  is 0.785714
+loss is 157.584
+Epoch: 730
+accuracy  is 0.794643
+loss is 139.344
+Epoch: 740
+accuracy  is 0.794643
+loss is 150.327
+Epoch: 750
+accuracy  is 0.785714
+loss is 145.172
+Epoch: 760
+accuracy  is 0.776786
+loss is 149.39
+Epoch: 770
+accuracy  is 0.776786
+loss is 143.678
+Epoch: 780
+accuracy  is 0.794643
+loss is 161.252
+Epoch: 790
+accuracy  is 0.785714
+loss is 139.89
+Epoch: 800
+accuracy  is 0.785714
+loss is 139.626
+Epoch: 810
+accuracy  is 0.767857
+loss is 132.323
+Epoch: 820
+accuracy  is 0.803571
+loss is 165.183
+Epoch: 830
+accuracy  is 0.803571
+loss is 141.038
+Epoch: 840
+accuracy  is 0.794643
+loss is 181.058
+Epoch: 850
+accuracy  is 0.776786
+loss is 163.464
+Epoch: 860
+accuracy  is 0.794643
+loss is 168.405
+Epoch: 870
+accuracy  is 0.794643
+loss is 151.641
+Epoch: 880
+accuracy  is 0.794643
+loss is 163.031
+Epoch: 890
+accuracy  is 0.794643
+loss is 167.459
+Epoch: 900
+accuracy  is 0.776786
+loss is 138.641
+Epoch: 910
+accuracy  is 0.732143
+loss is 114.291
+Epoch: 920
+accuracy  is 0.785714
+loss is 174.496
+Epoch: 930
+accuracy  is 0.785714
+loss is 178.563
+Epoch: 940
+accuracy  is 0.767857
+loss is 188.862
+Epoch: 950
+accuracy  is 0.750000
+loss is 169.377
+Epoch: 960
+accuracy  is 0.767857
+loss is 179.562
+Epoch: 970
+accuracy  is 0.767857
+loss is 163.798
+Epoch: 980
+accuracy  is 0.767857
+loss is 173.407
+Epoch: 990
+accuracy  is 0.767857
+loss is 171.262
+Epoch: 1000
+accuracy  is 0.794643
+loss is 198.275
+Epoch: 1010
+accuracy  is 0.767857
+loss is 174.363
+Epoch: 1020
+accuracy  is 0.785714
+loss is 167.777
+Epoch: 1030
+accuracy  is 0.803571
+loss is 165.312
+Epoch: 1040
+accuracy  is 0.785714
+loss is 190.927
+Epoch: 1050
+accuracy  is 0.794643
+loss is 149.204
+Epoch: 1060
+accuracy  is 0.803571
+loss is 226.682
+Epoch: 1070
+accuracy  is 0.785714
+loss is 180.08
+Epoch: 1080
+accuracy  is 0.794643
+loss is 174.469
+Epoch: 1090
+accuracy  is 0.794643
+loss is 169.856
+Epoch: 1100
+accuracy  is 0.767857
+loss is 171.652
+Epoch: 1110
+accuracy  is 0.758929
+loss is 183.04
+Epoch: 1120
+accuracy  is 0.776786
+loss is 167.115
+Epoch: 1130
+accuracy  is 0.767857
+loss is 203.322
+Epoch: 1140
+accuracy  is 0.767857
+loss is 156.864
+Epoch: 1150
+accuracy  is 0.785714
+loss is 180.073
+Epoch: 1160
+accuracy  is 0.750000
+loss is 174.949
+Epoch: 1170
+accuracy  is 0.767857
+loss is 185.887
+Epoch: 1180
+accuracy  is 0.794643
+loss is 222.21
+Epoch: 1190
+accuracy  is 0.785714
+loss is 209.335
+Epoch: 1200
+accuracy  is 0.767857
+loss is 183.102
+Epoch: 1210
+accuracy  is 0.812500
+loss is 175.412
+Epoch: 1220
+accuracy  is 0.776786
+loss is 214.612
+Epoch: 1230
+accuracy  is 0.750000
+loss is 185.56
+Epoch: 1240
+accuracy  is 0.767857
+loss is 173.41
+Epoch: 1250
+accuracy  is 0.776786
+loss is 201.428
+Epoch: 1260
+accuracy  is 0.776786
+loss is 185.872
+Epoch: 1270
+accuracy  is 0.750000
+loss is 191.264
+Epoch: 1280
+accuracy  is 0.767857
+loss is 189.69
+Epoch: 1290
+accuracy  is 0.758929
+loss is 179.831
+Epoch: 1300
+accuracy  is 0.785714
+loss is 208.633
+Epoch: 1310
+accuracy  is 0.767857
+loss is 210.622
+Epoch: 1320
+accuracy  is 0.794643
+loss is 199.212
+Epoch: 1330
+accuracy  is 0.785714
+loss is 208.609
+Epoch: 1340
+accuracy  is 0.776786
+loss is 186.194
+Epoch: 1350
+accuracy  is 0.732143
+loss is 196.471
+Epoch: 1360
+accuracy  is 0.767857
+loss is 195.654
+Epoch: 1370
+accuracy  is 0.767857
+loss is 203.305
+Epoch: 1380
+accuracy  is 0.776786
+loss is 193.096
+Epoch: 1390
+accuracy  is 0.732143
+loss is 202.972
+Epoch: 1400
+accuracy  is 0.750000
+loss is 200.325
+Epoch: 1410
+accuracy  is 0.750000
+loss is 215.825
+Epoch: 1420
+accuracy  is 0.750000
+loss is 200.604
+Epoch: 1430
+accuracy  is 0.741071
+loss is 185.675
+Epoch: 1440
+accuracy  is 0.758929
+loss is 202.151
+Epoch: 1450
+accuracy  is 0.785714
+loss is 230.615
+Epoch: 1460
+accuracy  is 0.750000
+loss is 209.657
+Epoch: 1470
+accuracy  is 0.758929
+loss is 203.073
+Epoch: 1480
+accuracy  is 0.767857
+loss is 174.365
+Epoch: 1490
+accuracy  is 0.776786
+loss is 195.481
+Epoch: 1500
+accuracy  is 0.767857
+loss is 190.164
+Epoch: 1510
+accuracy  is 0.758929
+loss is 184.006
+Epoch: 1520
+accuracy  is 0.767857
+loss is 208.126
+Epoch: 1530
+accuracy  is 0.758929
+loss is 208.01
+Epoch: 1540
+accuracy  is 0.741071
+loss is 176.164
+Epoch: 1550
+accuracy  is 0.758929
+loss is 199.538
+Epoch: 1560
+accuracy  is 0.767857
+loss is 219.152
+Epoch: 1570
+accuracy  is 0.758929
+loss is 206.417
+Epoch: 1580
+accuracy  is 0.750000
+loss is 169.525
+Epoch: 1590
+accuracy  is 0.767857
+loss is 222.587
+Epoch: 1600
+accuracy  is 0.767857
+loss is 202.139
+Epoch: 1610
+accuracy  is 0.758929
+loss is 202.211
+Epoch: 1620
+accuracy  is 0.776786
+loss is 232.655
+Epoch: 1630
+accuracy  is 0.776786
+loss is 235.1
+Epoch: 1640
+accuracy  is 0.750000
+loss is 223.563
+Epoch: 1650
+accuracy  is 0.767857
+loss is 219.72
+Epoch: 1660
+accuracy  is 0.767857
+loss is 206.331
+Epoch: 1670
+accuracy  is 0.758929
+loss is 208.783
+Epoch: 1680
+accuracy  is 0.767857
+loss is 217.642
+Epoch: 1690
+accuracy  is 0.767857
+loss is 203.952
+Epoch: 1700
+accuracy  is 0.750000
+loss is 213.356
+Epoch: 1710
+accuracy  is 0.758929
+loss is 238.0
+Epoch: 1720
+accuracy  is 0.767857
+loss is 215.709
+Epoch: 1730
+accuracy  is 0.758929
+loss is 217.854
+Epoch: 1740
+accuracy  is 0.758929
+loss is 214.319
+Epoch: 1750
+accuracy  is 0.758929
+loss is 223.751
+Epoch: 1760
+accuracy  is 0.767857
+loss is 181.185
+Epoch: 1770
+accuracy  is 0.758929
+loss is 239.621
+Epoch: 1780
+accuracy  is 0.767857
+loss is 238.918
+Epoch: 1790
+accuracy  is 0.767857
+loss is 224.489
+Epoch: 1800
+accuracy  is 0.758929
+loss is 233.735
+Epoch: 1810
+accuracy  is 0.767857
+loss is 238.002
+Epoch: 1820
+accuracy  is 0.785714
+loss is 195.17
+Epoch: 1830
+accuracy  is 0.758929
+loss is 227.819
+Epoch: 1840
+accuracy  is 0.750000
+loss is 223.311
+Epoch: 1850
+accuracy  is 0.758929
+loss is 243.891
+Epoch: 1860
+accuracy  is 0.758929
+loss is 224.93
+Epoch: 1870
+accuracy  is 0.767857
+loss is 233.577
+Epoch: 1880
+accuracy  is 0.767857
+loss is 222.445
+Epoch: 1890
+accuracy  is 0.776786
+loss is 200.171
+Epoch: 1900
+accuracy  is 0.767857
+loss is 212.861
+Epoch: 1910
+accuracy  is 0.767857
+loss is 231.642
+Epoch: 1920
+accuracy  is 0.767857
+loss is 234.363
+Epoch: 1930
+accuracy  is 0.758929
+loss is 240.491
+Epoch: 1940
+accuracy  is 0.758929
+loss is 246.27
+Epoch: 1950
+accuracy  is 0.758929
+loss is 242.589
+Epoch: 1960
+accuracy  is 0.750000
+loss is 248.312
+Epoch: 1970
+accuracy  is 0.794643
+loss is 232.049
+Epoch: 1980
+accuracy  is 0.767857
+loss is 236.425
+Epoch: 1990
+accuracy  is 0.767857
+loss is 232.787
+Epoch: 2000
+accuracy  is 0.776786
+loss is 233.532
+Epoch: 2010
+accuracy  is 0.758929
+loss is 264.775
+Epoch: 2020
+accuracy  is 0.767857
+loss is 221.949
+Epoch: 2030
+accuracy  is 0.767857
+loss is 250.621
+Epoch: 2040
+accuracy  is 0.767857
+loss is 220.578
+Epoch: 2050
+accuracy  is 0.767857
+loss is 239.832
+Epoch: 2060
+accuracy  is 0.758929
+loss is 214.26
+Epoch: 2070
+accuracy  is 0.750000
+loss is 235.115
+Epoch: 2080
+accuracy  is 0.767857
+loss is 244.865
+Epoch: 2090
+accuracy  is 0.758929
+loss is 240.756
+Epoch: 2100
+accuracy  is 0.776786
+loss is 245.314
+Epoch: 2110
+accuracy  is 0.776786
+loss is 257.71
+Epoch: 2120
+accuracy  is 0.776786
+loss is 242.474
+Epoch: 2130
+accuracy  is 0.785714
+loss is 246.606
+Epoch: 2140
+accuracy  is 0.776786
+loss is 228.383
+Epoch: 2150
+accuracy  is 0.767857
+loss is 210.253
+Epoch: 2160
+accuracy  is 0.758929
+loss is 234.374
+Epoch: 2170
+accuracy  is 0.776786
+loss is 247.345
+Epoch: 2180
+accuracy  is 0.750000
+loss is 310.195
+Epoch: 2190
+accuracy  is 0.767857
+loss is 240.951
+Epoch: 2200
+accuracy  is 0.750000
+loss is 224.768
+Epoch: 2210
+accuracy  is 0.758929
+loss is 215.48
+Epoch: 2220
+accuracy  is 0.776786
+loss is 241.709
+Epoch: 2230
+accuracy  is 0.758929
+loss is 259.435
+Epoch: 2240
+accuracy  is 0.758929
+loss is 252.187
+Epoch: 2250
+accuracy  is 0.776786
+loss is 251.078
+Epoch: 2260
+accuracy  is 0.767857
+loss is 216.466
+Epoch: 2270
+accuracy  is 0.767857
+loss is 238.797
+Epoch: 2280
+accuracy  is 0.776786
+loss is 240.568
+Epoch: 2290
+accuracy  is 0.785714
+loss is 266.259
+Epoch: 2300
+accuracy  is 0.767857
+loss is 225.836
+Epoch: 2310
+accuracy  is 0.767857
+loss is 222.614
+Epoch: 2320
+accuracy  is 0.750000
+loss is 209.9
+Epoch: 2330
+accuracy  is 0.758929
+loss is 228.022
+Epoch: 2340
+accuracy  is 0.758929
+loss is 230.537
+Epoch: 2350
+accuracy  is 0.758929
+loss is 214.143
+Epoch: 2360
+accuracy  is 0.758929
+loss is 234.836
+Epoch: 2370
+accuracy  is 0.767857
+loss is 238.642
+Epoch: 2380
+accuracy  is 0.758929
+loss is 203.181
+Epoch: 2390
+accuracy  is 0.705357
+loss is 190.697
+Epoch: 2400
+accuracy  is 0.776786
+loss is 243.186
+Epoch: 2410
+accuracy  is 0.776786
+loss is 251.259
+Epoch: 2420
+accuracy  is 0.767857
+loss is 255.095
+Epoch: 2430
+accuracy  is 0.767857
+loss is 251.76
+Epoch: 2440
+accuracy  is 0.767857
+loss is 260.003
+Epoch: 2450
+accuracy  is 0.767857
+loss is 230.655
+Epoch: 2460
+accuracy  is 0.776786
+loss is 247.39
+Epoch: 2470
+accuracy  is 0.767857
+loss is 238.647
+Epoch: 2480
+accuracy  is 0.776786
+loss is 251.581
+Epoch: 2490
+accuracy  is 0.767857
+loss is 253.336
+Epoch: 2500
+accuracy  is 0.776786
+loss is 227.965
+Epoch: 2510
+accuracy  is 0.758929
+loss is 216.085
+Epoch: 2520
+accuracy  is 0.767857
+loss is 227.576
+Epoch: 2530
+accuracy  is 0.776786
+loss is 237.18
+Epoch: 2540
+accuracy  is 0.767857
+loss is 237.31
+Epoch: 2550
+accuracy  is 0.785714
+loss is 244.896
+Epoch: 2560
+accuracy  is 0.776786
+loss is 229.417
+Epoch: 2570
+accuracy  is 0.776786
+loss is 247.264
+Epoch: 2580
+accuracy  is 0.776786
+loss is 208.02
+Epoch: 2590
+accuracy  is 0.776786
+loss is 252.502
+Epoch: 2600
+accuracy  is 0.750000
+loss is 237.631
+Epoch: 2610
+accuracy  is 0.750000
+loss is 228.597
+Epoch: 2620
+accuracy  is 0.758929
+loss is 177.823
+Epoch: 2630
+accuracy  is 0.758929
+loss is 258.439
+Epoch: 2640
+accuracy  is 0.767857
+loss is 249.517
+Epoch: 2650
+accuracy  is 0.767857
+loss is 248.593
+Epoch: 2660
+accuracy  is 0.750000
+loss is 243.525
+Epoch: 2670
+accuracy  is 0.750000
+loss is 209.71
+Epoch: 2680
+accuracy  is 0.767857
+loss is 269.127
+Epoch: 2690
+accuracy  is 0.758929
+loss is 251.219
+Epoch: 2700
+accuracy  is 0.750000
+loss is 226.027
+Epoch: 2710
+accuracy  is 0.767857
+loss is 258.689
+Epoch: 2720
+accuracy  is 0.767857
+loss is 258.378
+Epoch: 2730
+accuracy  is 0.758929
+loss is 189.462
+Epoch: 2740
+accuracy  is 0.741071
+loss is 262.427
+Epoch: 2750
+accuracy  is 0.750000
+loss is 233.975
+Epoch: 2760
+accuracy  is 0.758929
+loss is 234.228
+Epoch: 2770
+accuracy  is 0.767857
+loss is 224.235
+Epoch: 2780
+accuracy  is 0.767857
+loss is 240.103
+Epoch: 2790
+accuracy  is 0.767857
+loss is 243.362
+Epoch: 2800
+accuracy  is 0.767857
+loss is 232.523
+Epoch: 2810
+accuracy  is 0.758929
+loss is 261.602
+Epoch: 2820
+accuracy  is 0.758929
+loss is 247.546
+Epoch: 2830
+accuracy  is 0.750000
+loss is 207.057
+Epoch: 2840
+accuracy  is 0.750000
+loss is 242.997
+Epoch: 2850
+accuracy  is 0.767857
+loss is 241.901
+Epoch: 2860
+accuracy  is 0.723214
+loss is 186.393
+Epoch: 2870
+accuracy  is 0.732143
+loss is 242.898
+Epoch: 2880
+accuracy  is 0.758929
+loss is 246.294
+Epoch: 2890
+accuracy  is 0.732143
+loss is 210.249
+Epoch: 2900
+accuracy  is 0.767857
+loss is 242.38
+Epoch: 2910
+accuracy  is 0.767857
+loss is 227.889
+Epoch: 2920
+accuracy  is 0.767857
+loss is 235.889
+Epoch: 2930
+accuracy  is 0.758929
+loss is 220.641
+Epoch: 2940
+accuracy  is 0.767857
+loss is 238.549
+Epoch: 2950
+accuracy  is 0.750000
+loss is 235.744
+Epoch: 2960
+accuracy  is 0.767857
+loss is 253.584
+Epoch: 2970
+accuracy  is 0.758929
+loss is 229.616
+Epoch: 2980
+accuracy  is 0.750000
+loss is 214.65
+Epoch: 2990
+accuracy  is 0.767857
+loss is 281.88
+Epoch: 3000
+accuracy  is 0.767857
+loss is 232.893
+Epoch: 3010
+accuracy  is 0.750000
+loss is 242.203
+Epoch: 3020
+accuracy  is 0.758929
+loss is 233.971
+Epoch: 3030
+accuracy  is 0.776786
+loss is 260.96
+Epoch: 3040
+accuracy  is 0.750000
+loss is 188.875
+Epoch: 3050
+accuracy  is 0.767857
+loss is 250.089
+Epoch: 3060
+accuracy  is 0.794643
+loss is 218.283
+Epoch: 3070
+accuracy  is 0.767857
+loss is 255.34
+Epoch: 3080
+accuracy  is 0.750000
+loss is 243.03
+Epoch: 3090
+accuracy  is 0.750000
+loss is 247.181
+Epoch: 3100
+accuracy  is 0.750000
+loss is 244.534
+Epoch: 3110
+accuracy  is 0.750000
+loss is 240.725
+Epoch: 3120
+accuracy  is 0.776786
+loss is 250.529
+Epoch: 3130
+accuracy  is 0.767857
+loss is 227.17
+Epoch: 3140
+accuracy  is 0.758929
+loss is 217.998
+Epoch: 3150
+accuracy  is 0.767857
+loss is 237.575
+Epoch: 3160
+accuracy  is 0.750000
+loss is 230.586
+Epoch: 3170
+accuracy  is 0.767857
+loss is 250.369
+Epoch: 3180
+accuracy  is 0.750000
+loss is 239.435
+Epoch: 3190
+accuracy  is 0.758929
+loss is 257.19
+Epoch: 3200
+accuracy  is 0.758929
+loss is 256.7
+Epoch: 3210
+accuracy  is 0.758929
+loss is 247.238
+Epoch: 3220
+accuracy  is 0.758929
+loss is 257.057
+Epoch: 3230
+accuracy  is 0.767857
+loss is 251.997
+Epoch: 3240
+accuracy  is 0.750000
+loss is 237.187
+Epoch: 3250
+accuracy  is 0.750000
+loss is 261.514
+Epoch: 3260
+accuracy  is 0.776786
+loss is 233.942
+Epoch: 3270
+accuracy  is 0.750000
+loss is 243.531
+Epoch: 3280
+accuracy  is 0.741071
+loss is 229.323
+Epoch: 3290
+accuracy  is 0.741071
+loss is 218.012
+Epoch: 3300
+accuracy  is 0.776786
+loss is 226.636
+Epoch: 3310
+accuracy  is 0.741071
+loss is 201.288
+Epoch: 3320
+accuracy  is 0.776786
+loss is 254.835
+Epoch: 3330
+accuracy  is 0.767857
+loss is 242.234
+Epoch: 3340
+accuracy  is 0.776786
+loss is 246.752
+Epoch: 3350
+accuracy  is 0.758929
+loss is 240.611
+Epoch: 3360
+accuracy  is 0.758929
+loss is 266.922
+Epoch: 3370
+accuracy  is 0.750000
+loss is 197.037
+Epoch: 3380
+accuracy  is 0.758929
+loss is 256.183
+Epoch: 3390
+accuracy  is 0.767857
+loss is 264.54
+Epoch: 3400
+accuracy  is 0.758929
+loss is 256.762
+Epoch: 3410
+accuracy  is 0.767857
+loss is 259.361
+Epoch: 3420
+accuracy  is 0.767857
+loss is 253.733
+Epoch: 3430
+accuracy  is 0.750000
+loss is 276.498
+Epoch: 3440
+accuracy  is 0.767857
+loss is 256.502
+Epoch: 3450
+accuracy  is 0.767857
+loss is 263.868
+Epoch: 3460
+accuracy  is 0.758929
+loss is 263.749
+Epoch: 3470
+accuracy  is 0.758929
+loss is 275.765
+Epoch: 3480
+accuracy  is 0.758929
+loss is 248.631
+Epoch: 3490
+accuracy  is 0.758929
+loss is 249.222
+Epoch: 3500
+accuracy  is 0.758929
+loss is 253.488
+Epoch: 3510
+accuracy  is 0.758929
+loss is 224.684
+Epoch: 3520
+accuracy  is 0.758929
+loss is 268.716
+Epoch: 3530
+accuracy  is 0.758929
+loss is 269.745
+Epoch: 3540
+accuracy  is 0.758929
+loss is 221.93
+Epoch: 3550
+accuracy  is 0.741071
+loss is 204.901
+Epoch: 3560
+accuracy  is 0.758929
+loss is 258.788
+Epoch: 3570
+accuracy  is 0.758929
+loss is 269.197
+Epoch: 3580
+accuracy  is 0.758929
+loss is 263.954
+Epoch: 3590
+accuracy  is 0.758929
+loss is 264.898
+Epoch: 3600
+accuracy  is 0.750000
+loss is 233.213
+Epoch: 3610
+accuracy  is 0.758929
+loss is 270.931
+Epoch: 3620
+accuracy  is 0.750000
+loss is 251.422
+Epoch: 3630
+accuracy  is 0.750000
+loss is 237.725
+Epoch: 3640
+accuracy  is 0.758929
+loss is 256.919
+Epoch: 3650
+accuracy  is 0.758929
+loss is 260.486
+Epoch: 3660
+accuracy  is 0.758929
+loss is 259.747
+Epoch: 3670
+accuracy  is 0.758929
+loss is 256.07
+Epoch: 3680
+accuracy  is 0.758929
+loss is 271.519
+Epoch: 3690
+accuracy  is 0.732143
+loss is 199.439
+Epoch: 3700
+accuracy  is 0.758929
+loss is 239.226
+Epoch: 3710
+accuracy  is 0.750000
+loss is 261.148
+Epoch: 3720
+accuracy  is 0.758929
+loss is 251.599
+Epoch: 3730
+accuracy  is 0.758929
+loss is 255.857
+Epoch: 3740
+accuracy  is 0.758929
+loss is 265.646
+Epoch: 3750
+accuracy  is 0.758929
+loss is 263.364
+Epoch: 3760
+accuracy  is 0.750000
+loss is 242.071
+Epoch: 3770
+accuracy  is 0.758929
+loss is 274.929
+Epoch: 3780
+accuracy  is 0.758929
+loss is 215.039
+Epoch: 3790
+accuracy  is 0.750000
+loss is 259.899

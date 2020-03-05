@@ -1,0 +1,16 @@
+
+************************************************************
+CAD Analysis: DeepBrain
+************************************************************
+
+Candidate detection results:
+    True positives: 30
+    False positives: 547
+    False negatives: 4
+    True negatives: 0
+    Total number of candidates: 576
+    Total number of nodules: 34
+    Ignored candidates on excluded nodules: 0
+    Ignored candidates which were double detections on a nodule: 0
+    Sensitivity: 0.882352941
+    Average number of candidates per scan: 5.236363636
